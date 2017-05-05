@@ -57,7 +57,7 @@ https://repo.continuum.io/pkgs/free/osx-64/libxml2-2.9.4-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/lockfile-0.12.2-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/mafft-7.221-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/markupsafe-0.23-py35_2.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/matplotlib-2.0.0-np112py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/matplotlib-2.0.1-np112py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mistune-0.7.4-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mkl-2017.0.1-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/natsort-5.0.2-py35_0.tar.bz2
@@ -100,7 +100,7 @@ https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-phylogeny-2017.
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-quality-filter-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-taxa-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-types-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2cli-2017.5.0.dev0+2.g1f9253f-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2cli-2017.5.0.dev0+3.g63a4e03-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2templates-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/qiime2-2017.5.0.dev0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/qt-5.6.2-0.tar.bz2
@@ -158,7 +158,7 @@ https://repo.continuum.io/pkgs/free/osx-64/setuptools-27.2.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/simplegeneric-0.8.1-py35_1.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/sip-4.18-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/six-1.10.0-py35_0.tar.bz2
-https://conda.anaconda.org/biocore/osx-64/sortmerna-2.0-0.tar.bz2
+https://conda.anaconda.org/biocore/osx-64/sortmerna-2.0-1.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/sqlite-3.13.0-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/statsmodels-0.8.0-np112py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/terminado-0.6-py35_0.tar.bz2
