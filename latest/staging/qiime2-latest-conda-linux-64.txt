@@ -70,7 +70,7 @@ https://repo.continuum.io/pkgs/free/linux-64/libxml2-2.9.4-0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/lockfile-0.12.2-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/mafft-7.221-0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/markupsafe-0.23-py35_2.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/matplotlib-2.0.1-np112py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/linux-64/matplotlib-2.0.2-np112py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/mistune-0.7.4-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/mkl-2017.0.1-0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/natsort-5.0.3-py35_0.tar.bz2
@@ -80,7 +80,7 @@ https://repo.continuum.io/pkgs/free/linux-64/ncurses-5.9-10.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/nose-1.3.7-py35_1.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/notebook-5.0.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/numpy-1.12.1-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/openssl-1.0.2k-1.tar.bz2
+https://repo.continuum.io/pkgs/free/linux-64/openssl-1.0.2k-2.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/pandas-0.20.1-np112py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/pandocfilters-1.4.1-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/pango-1.40.3-1.tar.bz2
@@ -107,10 +107,10 @@ https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-composition-2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-dada2-2017.5.0.dev0+2.g621fef9-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-deblur-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-demux-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-diversity-2017.5.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-diversity-2017.5.0.dev0+1.gbebcb15-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-emperor-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-feature-classifier-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-feature-table-2017.5.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-feature-table-2017.5.0.dev0+1.g5298780-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-phylogeny-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-quality-filter-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-taxa-2017.5.0.dev0-py35_0.tar.bz2
@@ -181,7 +181,7 @@ https://repo.continuum.io/pkgs/free/linux-64/statsmodels-0.8.0-np112py35_0.tar.b
 https://repo.continuum.io/pkgs/free/linux-64/terminado-0.6-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/testpath-0.3-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/tk-8.5.18-0.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/tornado-4.4.2-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/linux-64/tornado-4.5.1-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/traitlets-4.3.2-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/linux-64/tzlocal-1.3-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/vsearch-2.0.3-0.tar.bz2
