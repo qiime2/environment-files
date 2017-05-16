@@ -109,7 +109,7 @@ https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-dada2-2017.5.
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-deblur-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-demux-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-diversity-2017.5.0.dev0+1.gbebcb15-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-emperor-2017.5.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-emperor-2017.5.0.dev0+1.g3bbaf98-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-feature-classifier-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-feature-table-2017.5.0.dev0+2.ga533e87-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-phylogeny-2017.5.0.dev0-py35_0.tar.bz2
@@ -119,7 +119,7 @@ https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2-types-2017.5.
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2cli-2017.5.0.dev0+3.g63a4e03-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/q2templates-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/linux-64/qiime2-2017.5.0.dev0+1.g02e5fe2-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/free/linux-64/qt-5.6.2-3.tar.bz2
+https://repo.continuum.io/pkgs/free/linux-64/qt-5.6.2-4.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-3.3.1-r3.3.1_1.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-assertthat-0.1-r3.3.1_4.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-base-3.3.1-6.tar.bz2
