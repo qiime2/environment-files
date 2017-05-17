@@ -89,11 +89,11 @@ https://repo.continuum.io/pkgs/free/osx-64/pytz-2017.2-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pyyaml-3.12-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pyzmq-16.0.2-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-alignment-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-composition-2017.5.0.dev0+1.g0ce198c-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-composition-2017.5.0.dev0+2.gbb6cd6f-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-dada2-2017.5.0.dev0+2.g621fef9-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-deblur-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-demux-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-diversity-2017.5.0.dev0+1.gbebcb15-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-diversity-2017.5.0.dev0+2.g22cacda-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-emperor-2017.5.0.dev0+1.g3bbaf98-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-feature-classifier-2017.5.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-feature-table-2017.5.0.dev0+2.ga533e87-py35_0.tar.bz2
@@ -103,8 +103,8 @@ https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-taxa-2017.5.0.d
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2-types-2017.5.0.dev0+1.gec964f1-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2cli-2017.5.0.dev0+4.g17d6c29-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/q2templates-2017.5.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/qiime2-2017.5.0.dev0+2.gc6d9554-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/qt-5.6.2-1.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/2017.5/osx-64/qiime2-2017.5.0.dev0+3.gf9689c1-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/qt-5.6.2-2.tar.bz2
 https://repo.continuum.io/pkgs/r/osx-64/r-3.3.1-r3.3.1_0.tar.bz2
 https://repo.continuum.io/pkgs/r/osx-64/r-base-3.3.1-0.tar.bz2
 https://repo.continuum.io/pkgs/r/osx-64/r-bh-1.60.0_2-r3.3.1_0.tar.bz2
