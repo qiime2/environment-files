@@ -90,7 +90,7 @@ https://repo.continuum.io/pkgs/free/osx-64/pyyaml-3.12-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pyzmq-16.0.2-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-alignment-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-composition-2017.6.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-dada2-2017.6.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-dada2-2017.6.0.dev0+1.g6f33b74-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-deblur-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-demux-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-diversity-2017.6.0.dev0-py35_0.tar.bz2
@@ -100,7 +100,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-feature-table-
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-phylogeny-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-quality-filter-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-taxa-2017.6.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-types-2017.6.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-types-2017.6.0.dev0+1.g84932c9-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2cli-2017.6.0.dev0+2.g398874a-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2templates-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/qiime2-2017.6.0.dev0+3.g48041bf-py35_0.tar.bz2
