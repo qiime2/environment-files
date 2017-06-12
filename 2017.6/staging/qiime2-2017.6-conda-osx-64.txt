@@ -102,7 +102,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-phylogeny-2017
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-quality-filter-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-taxa-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2-types-2017.6.0.dev0+1.g84932c9-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2cli-2017.6.0.dev0+3.g0724c73-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2cli-2017.6.0.dev0+4.g8d42e97-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/q2templates-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/osx-64/qiime2-2017.6.0.dev0+6.gd52914a-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/qt-5.6.2-2.tar.bz2
