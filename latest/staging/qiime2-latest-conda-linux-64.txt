@@ -113,7 +113,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-diversity-20
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-emperor-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-feature-classifier-2017.6.0.dev0+1.g2cdb807-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-feature-table-2017.6.0.dev0+2.gb0d2d1c-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-metadata-2017.6.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-metadata-2017.6.0.dev0+1.gdc1df51-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-phylogeny-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-quality-filter-2017.6.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.6/linux-64/q2-taxa-2017.6.0.dev0-py35_0.tar.bz2
