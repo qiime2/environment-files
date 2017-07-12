@@ -119,10 +119,10 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-metadata-201
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-phylogeny-2017.7.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-quality-filter-2017.7.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-taxa-2017.7.0.dev0+1.g1159fd6-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-types-2017.7.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-types-2017.7.0.dev0+1.g28ff86c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2cli-2017.7.0.dev0+1.g649d16b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2templates-2017.7.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/qiime2-2017.7.0.dev0+3.g1f9484f-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/qiime2-2017.7.0.dev0+4.g8dfc991-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/qt-5.6.2-4.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-3.3.1-r3.3.1_1.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-assertthat-0.1-r3.3.1_4.tar.bz2
