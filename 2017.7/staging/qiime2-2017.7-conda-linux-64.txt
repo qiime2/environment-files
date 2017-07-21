@@ -120,7 +120,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-gneiss-2017.
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-metadata-2017.7.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-phylogeny-2017.7.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-quality-filter-2017.7.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-taxa-2017.7.0.dev0+2.gf8b1b54-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-taxa-2017.7.0.dev0+3.gd3d8c2f-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-types-2017.7.0.dev0+1.g28ff86c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2cli-2017.7.0.dev0+2.gf463d08-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2templates-2017.7.0.dev0-py35_0.tar.bz2
