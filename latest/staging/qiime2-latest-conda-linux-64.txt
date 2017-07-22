@@ -124,7 +124,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-taxa-2017.7.
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2-types-2017.7.0.dev0+1.g28ff86c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2cli-2017.7.0.dev0+2.gf463d08-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/q2templates-2017.7.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/qiime2-2017.7.0.dev0+7.g48a6ea7-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.7/linux-64/qiime2-2017.7.0.dev0+8.g13ddb6a-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/qt-5.6.2-4.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-3.3.1-r3.3.1_1.tar.bz2
 https://repo.continuum.io/pkgs/r/linux-64/r-assertthat-0.1-r3.3.1_4.tar.bz2
