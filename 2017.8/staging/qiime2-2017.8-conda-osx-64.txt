@@ -62,7 +62,7 @@ https://repo.continuum.io/pkgs/free/osx-64/libtiff-4.0.6-3.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/libxml2-2.9.4-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/lockfile-0.12.2-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/mafft-7.221-0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/markupsafe-0.23-py35_2.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/markupsafe-1.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/matplotlib-2.0.2-np113py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mistune-0.7.4-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mkl-2017.0.3-0.tar.bz2
@@ -82,7 +82,7 @@ https://repo.continuum.io/pkgs/free/osx-64/pcre-8.39-1.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pexpect-4.2.1-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pickleshare-0.7.4-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pip-9.0.1-py35_1.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/prompt_toolkit-1.0.14-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/prompt_toolkit-1.0.15-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/psutil-5.2.2-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/ptyprocess-0.5.2-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/pygments-2.2.0-py35_0.tar.bz2
@@ -101,7 +101,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-demux-2017.8.0
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-diversity-2017.8.0.dev0+1.g8d62cca-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-emperor-2017.8.0.dev0+1.g3acf6b7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-classifier-2017.8.0.dev0+2.gc2c45e0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-table-2017.8.0.dev0+3.gceb3fff-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-table-2017.8.0.dev0+4.gad690fa-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-gneiss-2017.8.0.dev0+4.g11f7786-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-metadata-2017.8.0.dev0+1.ge135305-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-phylogeny-2017.8.0.dev0+1.g265980d-py35_0.tar.bz2
@@ -181,6 +181,6 @@ https://conda.anaconda.org/bioconda/osx-64/vsearch-2.0.3-1.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/wcwidth-0.1.7-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/wheel-0.29.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/widgetsnbextension-2.0.0-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/xz-5.2.2-1.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/xz-5.2.3-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/yaml-0.1.6-0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/zlib-1.2.8-3.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/zlib-1.2.11-0.tar.bz2
