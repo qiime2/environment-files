@@ -106,10 +106,10 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-gneiss-2017.8.
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-metadata-2017.8.0.dev0+1.ge135305-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-phylogeny-2017.8.0.dev0+1.g265980d-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-quality-filter-2017.8.0.dev0+2.g54368ab-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-sample-classifier-2017.8.0.dev0+5.g9999736-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-sample-classifier-2017.8.0.dev0+6.ge5d7aa5-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-taxa-2017.8.0.dev0+2.gb18981c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-types-2017.8.0.dev0+2.gb03db2d-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2cli-2017.8.0.dev0+1.g9284636-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2cli-2017.8.0.dev0+2.gd5c06b4-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2templates-2017.8.0.dev0+1.g72bcd66-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/qiime2-2017.8.0.dev0+2.g36e1d04-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/qt-5.6.2-2.tar.bz2
