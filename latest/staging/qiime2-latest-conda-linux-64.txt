@@ -123,7 +123,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-longitudinal
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-metadata-2017.8.0.dev0+1.ge135305-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-phylogeny-2017.8.0.dev0+1.g265980d-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-quality-filter-2017.8.0.dev0+3.g096a188-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-sample-classifier-2017.8.0.dev0+7.g4463148-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-sample-classifier-2017.8.0.dev0+8.gda9eef0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-taxa-2017.8.0.dev0+2.gb18981c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2-types-2017.8.0.dev0+2.gb03db2d-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/linux-64/q2cli-2017.8.0.dev0+3.ga3330ce-py35_0.tar.bz2
