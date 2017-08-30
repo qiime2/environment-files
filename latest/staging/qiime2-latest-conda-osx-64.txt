@@ -67,7 +67,7 @@ https://repo.continuum.io/pkgs/free/osx-64/matplotlib-2.0.2-np113py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mistune-0.7.4-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mkl-2017.0.3-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/msgpack-python-0.4.8-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/free/osx-64/natsort-5.0.3-py35_0.tar.bz2
+https://repo.continuum.io/pkgs/free/osx-64/natsort-5.1.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/nbconvert-5.2.1-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/nbformat-4.4.0-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/ncurses-5.9-10.tar.bz2
@@ -102,7 +102,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-demux-2017.8.0
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-diversity-2017.8.0.dev0+5.g864e873-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-emperor-2017.8.0.dev0+1.g3acf6b7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-classifier-2017.8.0.dev0+3.ge463e29-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-table-2017.8.0.dev0+6.g290860e-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-feature-table-2017.8.0.dev0+7.ga71c87c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-gneiss-2017.8.0.dev0+5.gbbeae4b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-longitudinal-2017.8.0.dev0+2.g3695c9a-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.8/osx-64/q2-metadata-2017.8.0.dev0+1.ge135305-py35_0.tar.bz2
