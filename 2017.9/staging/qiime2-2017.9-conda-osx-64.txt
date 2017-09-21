@@ -120,7 +120,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-deblur-2017.9.
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-demux-2017.9.0.dev0+2.g335921b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-diversity-2017.9.0.dev0+3.g8301824-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-emperor-2017.9.0.dev0+2.g054fea8-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-feature-classifier-2017.9.0.dev0+1.gb5910fb-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-feature-classifier-2017.9.0.dev0+2.g071af08-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-feature-table-2017.9.0.dev0+5.gf112db7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-gneiss-2017.9.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-longitudinal-2017.9.0.dev0+6.g750c30a-py35_0.tar.bz2
