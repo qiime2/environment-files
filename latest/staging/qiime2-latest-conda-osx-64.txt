@@ -20,10 +20,9 @@ https://conda.anaconda.org/bioconda/osx-64/bioconductor-summarizedexperiment-1.4
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-xvector-0.14.1-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-zlibbioc-1.20.0-r3.3.2_1.tar.bz2
 https://conda.anaconda.org/qiime2/osx-64/biom-format-2.1.5-py35_3.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/bkcharts-0.2-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/blast-2.6.0-boost1.64_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/bleach-2.0.0-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/bokeh-0.12.6-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/bokeh-0.12.9-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2017.7.27.1-0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/cachecontrol-0.12.3-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cairo-1.14.6-4.tar.bz2
@@ -34,7 +33,7 @@ https://conda.anaconda.org/conda-forge/osx-64/click-6.7-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-2.0.3-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/curl-7.54.1-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cycler-0.10.0-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/cython-0.26.1-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/cython-0.27-py35_0.tar.bz2
 https://conda.anaconda.org/biocore/osx-64/deblur-1.0.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/decorator-4.1.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/emperor-1.0.0beta10-py35_2.tar.bz2
@@ -62,7 +61,7 @@ https://conda.anaconda.org/conda-forge/osx-64/ipython_genutils-0.2.0-py35_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/ipywidgets-7.0.1-py_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jedi-0.10.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jinja2-2.9.6-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/jpeg-9b-0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/jpeg-9b-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jsonschema-2.6.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_client-5.1.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.3.0-py35_0.tar.bz2
@@ -74,7 +73,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libiconv-1.14-4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.28-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libsodium-1.0.10-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.8.0-1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libtiff-4.0.6-7.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libtiff-4.0.7-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libxml2-2.9.5-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/lockfile-0.12.2-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/mafft-7.221-0.tar.bz2
@@ -131,7 +130,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-quality-filter
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-sample-classifier-2017.9.0.dev0+4.g9e52a04-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-taxa-2017.9.0.dev0+2.g2ebb91d-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-types-2017.9.0.dev0+2.g2084a4c-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-vsearch-2017.9.0.dev0+3.g4216b36-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-vsearch-2017.9.0.dev0+4.gfd23146-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2cli-2017.9.0.dev0+1.g93bee1e-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2templates-2017.9.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/qiime2-2017.9.0.dev0+2.g4389a0b-py35_0.tar.bz2
@@ -192,7 +191,7 @@ https://conda.anaconda.org/bioconda/osx-64/vsearch-2.0.3-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/wcwidth-0.1.7-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/webencodings-0.5-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.30.0-py_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/widgetsnbextension-3.0.3-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/widgetsnbextension-3.0.3-py35_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.3-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/yaml-0.1.6-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/zeromq-4.2.1-1.tar.bz2
