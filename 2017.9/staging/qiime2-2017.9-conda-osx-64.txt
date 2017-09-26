@@ -36,7 +36,7 @@ https://conda.anaconda.org/conda-forge/osx-64/cycler-0.10.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cython-0.27-py35_0.tar.bz2
 https://conda.anaconda.org/biocore/osx-64/deblur-1.0.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/decorator-4.1.2-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/emperor-1.0.0beta10-py35_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/emperor-1.0.0beta11-py35_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/entrypoints-0.2.3-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/fastcluster-1.1.23-np113py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/fasttree-2.1.9-2.tar.bz2
@@ -119,7 +119,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-dada2-2017.9.0
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-deblur-2017.9.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-demux-2017.9.0.dev0+4.gb69f16d-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-diversity-2017.9.0.dev0+5.ga2a245c-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-emperor-2017.9.0.dev0+3.gf2cf89d-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-emperor-2017.9.0.dev0+4.g16fe0b9-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-feature-classifier-2017.9.0.dev0+2.g071af08-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-feature-table-2017.9.0.dev0+5.gf112db7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/osx-64/q2-gneiss-2017.9.0.dev0-py35_0.tar.bz2
