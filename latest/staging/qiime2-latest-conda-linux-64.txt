@@ -127,7 +127,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-composition-
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-dada2-2017.9.0.dev0+1.gcb8d924-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-deblur-2017.9.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-demux-2017.9.0.dev0+5.g028e98c-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-diversity-2017.9.0.dev0+7.gecd693d-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-diversity-2017.9.0.dev0+9.gc7e0ccb-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-emperor-2017.9.0.dev0+4.g16fe0b9-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-feature-classifier-2017.9.0.dev0+3.g4b7233b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.9/linux-64/q2-feature-table-2017.9.0.dev0+5.gf112db7-py35_0.tar.bz2
