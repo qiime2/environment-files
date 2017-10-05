@@ -126,7 +126,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-demux-2017.10
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-diversity-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-emperor-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-feature-classifier-2017.10.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-feature-table-2017.10.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-feature-table-2017.10.0.dev0+1.g2ac9768-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-gneiss-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-longitudinal-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-metadata-2017.10.0.dev0-py35_0.tar.bz2
@@ -138,7 +138,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-types-2017.10
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-vsearch-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2cli-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2templates-2017.10.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/qiime2-2017.10.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/qiime2-2017.10.0.dev0+1.gf149329-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-base-3.3.2-5.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-bh-1.62.0_1-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-bitops-1.0_6-r3.3.2_0.tar.bz2
