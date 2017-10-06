@@ -138,7 +138,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-emperor-201
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-feature-classifier-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-feature-table-2017.10.0.dev0+1.g2ac9768-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-gneiss-2017.10.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-longitudinal-2017.10.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-longitudinal-2017.10.0.dev0+1.g4bbc8fb-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-metadata-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-phylogeny-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/linux-64/q2-quality-filter-2017.10.0.dev0-py35_0.tar.bz2
@@ -173,7 +173,7 @@ https://conda.anaconda.org/conda-forge/linux-64/r-matrix-1.2_7.1-r3.3.2_0.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/r-munsell-0.4.3-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-plyr-1.8.4-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-rcolorbrewer-1.1_2-r3.3.2_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/r-rcpp-0.12.10-r3.3.2_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/r-rcpp-0.12.13-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-rcppparallel-4.3.20-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-rcurl-1.95_4.8-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-reshape2-1.4.2-r3.3.2_0.tar.bz2
