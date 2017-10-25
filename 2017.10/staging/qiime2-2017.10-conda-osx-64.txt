@@ -129,7 +129,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-feature-class
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-feature-table-2017.10.0.dev0+3.g63420f5-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-gneiss-2017.10.0.dev0+3.g6cb70ec-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-longitudinal-2017.10.0.dev0+3.gbf3bd0f-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-metadata-2017.10.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-metadata-2017.10.0.dev0+2.gda81db6-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-phylogeny-2017.10.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-quality-control-2017.10.0.dev0+1.g6f7130c-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.10/osx-64/q2-quality-filter-2017.10.0.dev0-py35_0.tar.bz2
