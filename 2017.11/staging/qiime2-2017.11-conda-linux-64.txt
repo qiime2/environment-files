@@ -149,7 +149,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-types-2017.
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-vsearch-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2cli-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2templates-2017.11.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/qiime2-2017.11.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/qiime2-2017.11.0.dev0+1.g0d21f45-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/qt-5.6.2-3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-base-3.3.2-5.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/r-bh-1.62.0_1-r3.3.2_0.tar.bz2
