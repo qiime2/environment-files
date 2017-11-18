@@ -27,10 +27,10 @@ https://conda.anaconda.org/conda-forge/linux-64/bokeh-0.12.10-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/boost-1.64.0-py35_4.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/boost-cpp-1.64.0-1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.6-1.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2017.7.27.1-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2017.11.5-0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/cachecontrol-0.12.3-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/cairo-1.14.6-4.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/certifi-2017.7.27.1-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/certifi-2017.11.5-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/cffi-1.10.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/chardet-3.0.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/click-6.7-py35_0.tar.bz2
@@ -68,7 +68,7 @@ https://repo.continuum.io/pkgs/main/linux-64/intel-openmp-2018.0.0-h15fc484_7.ta
 https://conda.anaconda.org/conda-forge/linux-64/ipykernel-4.6.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ipython-6.2.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ipython_genutils-0.2.0-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ipywidgets-7.0.3-py35_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ipywidgets-7.0.5-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jedi-0.10.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jinja2-2.9.6-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2
@@ -110,7 +110,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pandocfilters-1.4.1-py35_0.tar.b
 https://conda.anaconda.org/conda-forge/linux-64/pango-1.40.4-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/patsy-0.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.39-0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.2.1-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.3.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pickleshare-0.7.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pixman-0.34.0-0.tar.bz2
@@ -138,7 +138,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-emperor-201
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-feature-classifier-2017.11.0.dev0+1.g294828c-py35h90b96f0_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-feature-table-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-gneiss-2017.11.0.dev0+1.ga3077de-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-longitudinal-2017.11.0.dev0+1.gbb08dcd-py35h82fbdb2_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-longitudinal-2017.11.0.dev0+2.g99e0893-py35hccb3188_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-metadata-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-phylogeny-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/linux-64/q2-quality-control-2017.11.0.dev0-py35_0.tar.bz2
@@ -209,7 +209,7 @@ https://conda.anaconda.org/bioconda/linux-64/vsearch-2.6.0-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/wcwidth-0.1.7-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/webencodings-0.5-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.30.0-py_1.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/widgetsnbextension-3.0.6-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/widgetsnbextension-3.0.8-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxau-1.0.8-3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxdmcp-1.1.2-3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.3-0.tar.bz2
