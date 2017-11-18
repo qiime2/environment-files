@@ -137,7 +137,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-sample-classi
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-taxa-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-types-2017.11.0.dev0+2.gcb25ec1-py35ha7b2d7d_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-vsearch-2017.11.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2cli-2017.11.0.dev0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2cli-2017.11.0.dev0+1.g64e1d99-py35hb8e8a54_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2templates-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/qiime2-2017.11.0.dev0+1.g0d21f45-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-base-3.3.2-5.tar.bz2
