@@ -57,7 +57,7 @@ https://conda.anaconda.org/conda-forge/osx-64/html5lib-0.999999999-py35_0.tar.bz
 https://conda.anaconda.org/conda-forge/osx-64/icu-58.2-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/idna-2.6-py35_1.tar.bz2
 https://conda.anaconda.org/qiime2/osx-64/ijson-2.3-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/main/osx-64/intel-openmp-2018.0.0-h68bdfb3_7.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/intel-openmp-2018.0.0-h8158457_8.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipykernel-4.6.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipython-6.2.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipython_genutils-0.2.0-py35_0.tar.bz2
@@ -85,7 +85,7 @@ https://conda.anaconda.org/bioconda/osx-64/mafft-7.310-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/markupsafe-1.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/matplotlib-2.1.0-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/mistune-0.8-py35_0.tar.bz2
-https://repo.continuum.io/pkgs/main/osx-64/mkl-2018.0.0-h5ef208c_6.tar.bz2
+https://repo.continuum.io/pkgs/main/osx-64/mkl-2018.0.1-hfbd8650_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/msgpack-python-0.4.8-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/natsort-5.0.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/nbconvert-5.3.1-py_1.tar.bz2
@@ -122,7 +122,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-alignment-201
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-composition-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-dada2-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-deblur-2017.11.0.dev0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-demux-2017.11.0.dev0+1.g4e6c12d-py35hec676e4_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-demux-2017.11.0.dev0+2.g703af36-py35h77b14fc_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-diversity-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-emperor-2017.11.0.dev0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.11/osx-64/q2-feature-classifier-2017.11.0.dev0+1.g294828c-py35h955d0f6_0.tar.bz2
