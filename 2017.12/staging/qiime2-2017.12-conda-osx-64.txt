@@ -132,7 +132,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-longitudinal-
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-metadata-2017.12.0.dev0-py35h186d209_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-phylogeny-2017.12.0.dev0-py35hf2f6d7b_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-control-2017.12.0.dev0-py35hbb49530_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-filter-2017.12.0.dev0+1.g5a341dd-py35h0e1406a_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-filter-2017.12.0.dev0+2.g49bf9d3-py35h6cfabef_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-sample-classifier-2017.12.0.dev0-py35h5fbe817_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-taxa-2017.12.0.dev0-py35h09cfacd_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-types-2017.12.0.dev0-py35ha3e4365_0.tar.bz2
