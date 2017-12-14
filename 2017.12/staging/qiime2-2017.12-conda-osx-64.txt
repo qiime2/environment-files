@@ -98,7 +98,7 @@ https://conda.anaconda.org/conda-forge/osx-64/notebook-5.2.2-py35_1.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/numpy-1.12.1-py35h655160a_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2n-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pandas-0.21.1-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.0.4-0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.0.5-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pandocfilters-1.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pango-1.40.4-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/patsy-0.4.1-py35_0.tar.bz2
@@ -122,7 +122,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pyyaml-3.12-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pyzmq-16.0.2-py35_2.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-alignment-2017.12.0.dev0-py35h581afe7_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-composition-2017.12.0.dev0-py35hfaa0049_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-cutadapt-2017.12.0.dev0+1.g69bd5bd-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-cutadapt-2017.12.0.dev0+2.g90cbd2a-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-dada2-2017.12.0.dev0-py35hbc2adb2_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-deblur-2017.12.0.dev0-py35hc15ee6b_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-demux-2017.12.0.dev0+1.gd2bf543-py35_0.tar.bz2
