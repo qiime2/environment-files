@@ -12,7 +12,7 @@ https://conda.anaconda.org/bioconda/linux-64/bioconductor-biostrings-2.46.0-r3.4
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-dada2-1.6.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-delayedarray-0.4.1-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-genomeinfodb-1.14.0-r3.4.1_0.tar.bz2
-https://conda.anaconda.org/bioconda/linux-64/bioconductor-genomeinfodbdata-0.99.1-r3.4.1_0.tar.bz2
+https://conda.anaconda.org/bioconda/linux-64/bioconductor-genomeinfodbdata-1.0.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-genomicalignments-1.14.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-genomicranges-1.30.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-iranges-2.12.0-r3.4.1_0.tar.bz2
@@ -47,7 +47,7 @@ https://conda.anaconda.org/conda-forge/linux-64/decorator-4.1.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/emperor-1.0.0beta13-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/entrypoints-0.2.3-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/expat-2.2.5-0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/fastcluster-1.1.23-np112py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/fastcluster-1.1.24-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/fasttree-2.1.10-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/fontconfig-2.12.1-6.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/freetype-2.7-1.tar.bz2
@@ -76,7 +76,7 @@ https://conda.anaconda.org/conda-forge/linux-64/jedi-0.10.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jinja2-2.10-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jsonschema-2.6.0-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/jupyter_client-5.1.0-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/jupyter_client-5.2.0-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jupyter_core-4.4.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/krb5-1.14.2-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-3.tar.bz2
@@ -113,7 +113,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pandocfilters-1.4.1-py35_0.tar.b
 https://conda.anaconda.org/conda-forge/linux-64/pango-1.40.4-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/patsy-0.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.39-0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.3.0-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.3.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pickleshare-0.7.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pixman-0.34.0-1.tar.bz2

@@ -13,7 +13,7 @@ https://conda.anaconda.org/bioconda/osx-64/bioconductor-biostrings-2.46.0-r3.4.1
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-dada2-1.6.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-delayedarray-0.4.1-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodb-1.14.0-r3.4.1_0.tar.bz2
-https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodbdata-0.99.1-r3.4.1_0.tar.bz2
+https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodbdata-1.0.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomicalignments-1.14.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomicranges-1.30.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-iranges-2.12.0-r3.4.1_0.tar.bz2
@@ -44,7 +44,7 @@ https://conda.anaconda.org/biocore/osx-64/deblur-1.0.3-py35h7f3a046_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/decorator-4.1.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/emperor-1.0.0beta13-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/entrypoints-0.2.3-py35_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/fastcluster-1.1.23-np112py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/fastcluster-1.1.24-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/fasttree-2.1.10-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/fontconfig-2.12.1-6.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/freetype-2.7-1.tar.bz2
@@ -106,7 +106,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pandocfilters-1.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pango-1.40.4-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/patsy-0.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.39-0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/pexpect-4.3.0-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pexpect-4.3.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pickleshare-0.7.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pixman-0.34.0-1.tar.bz2
