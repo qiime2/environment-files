@@ -13,7 +13,7 @@ https://conda.anaconda.org/bioconda/osx-64/bioconductor-biostrings-2.46.0-r3.4.1
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-dada2-1.6.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-delayedarray-0.4.1-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodb-1.14.0-r3.4.1_0.tar.bz2
-https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodbdata-1.0.0-r3.4.1_0.tar.bz2
+https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomeinfodbdata-1.0.0-r3.4.1_1.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomicalignments-1.14.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-genomicranges-1.30.0-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/bioconductor-iranges-2.12.0-r3.4.1_0.tar.bz2
@@ -132,7 +132,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-demux-2017.12
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-diversity-2017.12.0.dev0+1.g0dcc791-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-emperor-2017.12.0.dev0+2.ga774ee7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-feature-classifier-2017.12.0.dev0+1.g6bf372b-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-feature-table-2017.12.0.dev0+2.g3e9415a-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-feature-table-2017.12.0.dev0+3.g4deff86-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-gneiss-2017.12.0.dev0-py35h30a45fc_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-longitudinal-2017.12.0.dev0+1.g5350f7a-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-metadata-2017.12.0.dev0-py35h186d209_0.tar.bz2
