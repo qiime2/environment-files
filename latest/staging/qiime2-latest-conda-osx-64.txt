@@ -108,6 +108,7 @@ https://conda.anaconda.org/conda-forge/osx-64/patsy-0.4.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.39-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pexpect-4.3.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pickleshare-0.7.4-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/pigz-2.3.4-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pixman-0.34.0-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/prompt_toolkit-1.0.15-py35_0.tar.bz2
@@ -125,7 +126,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pyyaml-3.12-py35_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pyzmq-16.0.2-py35_2.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-alignment-2017.12.0.dev0-py35h581afe7_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-composition-2017.12.0.dev0-py35hfaa0049_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-cutadapt-2017.12.0.dev0+5.g64920e0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-cutadapt-2017.12.0.dev0+7.gd7b15d1-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-dada2-2017.12.0.dev0+1.gd986c00-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-deblur-2017.12.0.dev0-py35hc15ee6b_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-demux-2017.12.0.dev0+1.gd2bf543-py35_0.tar.bz2
@@ -141,7 +142,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-contr
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-filter-2017.12.0.dev0+2.g49bf9d3-py35h6cfabef_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-sample-classifier-2017.12.0.dev0-py35h5fbe817_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-taxa-2017.12.0.dev0-py35h09cfacd_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-types-2017.12.0.dev0+1.g2cb5737-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-types-2017.12.0.dev0+2.g4ff9528-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-vsearch-2017.12.0.dev0+1.g3952b1b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2cli-2017.12.0.dev0+1.g719b8e1-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2templates-2017.12.0.dev0-py35h084799c_0.tar.bz2
