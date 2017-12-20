@@ -143,7 +143,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-quality-filte
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-sample-classifier-2017.12.0.dev0-py35h5fbe817_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-taxa-2017.12.0.dev0-py35h09cfacd_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-types-2017.12.0.dev0+2.g4ff9528-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-vsearch-2017.12.0.dev0+2.g48e2d77-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-vsearch-2017.12.0.dev0+3.gdf07868-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2cli-2017.12.0.dev0+1.g719b8e1-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2templates-2017.12.0.dev0-py35h084799c_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/qiime2-2017.12.0.dev0+2.g684b8b7-py35_0.tar.bz2
