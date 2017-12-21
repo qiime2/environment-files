@@ -130,7 +130,7 @@ https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-cutadapt-2017
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-dada2-2017.12.0.dev0+1.gd986c00-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-deblur-2017.12.0.dev0-py35hc15ee6b_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-demux-2017.12.0.dev0+1.gd2bf543-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-diversity-2017.12.0.dev0+1.g0dcc791-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-diversity-2017.12.0.dev0+2.gd043c0a-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-emperor-2017.12.0.dev0+2.ga774ee7-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-feature-classifier-2017.12.0.dev0+1.g6bf372b-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2-staging/label/r2017.12/osx-64/q2-feature-table-2017.12.0.dev0+4.ge2990f4-py35_0.tar.bz2
