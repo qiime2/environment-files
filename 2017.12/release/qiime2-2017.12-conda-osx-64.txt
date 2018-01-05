@@ -34,7 +34,7 @@ https://conda.anaconda.org/conda-forge/osx-64/certifi-2017.11.5-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cffi-1.11.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/chardet-3.0.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/clangdev-5.0.0-default_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/click-6.7-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/click-6.7-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-2.1.4-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/curl-7.54.1-0.tar.bz2
 https://conda.anaconda.org/bioconda/osx-64/cutadapt-1.15-py35_0.tar.bz2
@@ -70,7 +70,7 @@ https://conda.anaconda.org/conda-forge/osx-64/jedi-0.10.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jinja2-2.10-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jpeg-9b-2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jsonschema-2.6.0-py35_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/jupyter_client-5.2.0-py35_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/jupyter_client-5.2.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jupyter_core-4.4.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/krb5-1.14.2-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libcxx-5.0.0-0.tar.bz2
@@ -127,7 +127,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pyzmq-16.0.2-py35_2.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-alignment-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-composition-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-cutadapt-2017.12.0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-dada2-2017.12.0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-dada2-2017.12.1-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-deblur-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-demux-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-diversity-2017.12.0-py35_0.tar.bz2
@@ -146,7 +146,7 @@ https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-types-2017.12.0-py35_
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2-vsearch-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2cli-2017.12.0-py35_0.tar.bz2
 https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/q2templates-2017.12.0-py35_0.tar.bz2
-https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/qiime2-2017.12.0-py35_0.tar.bz2
+https://conda.anaconda.org/qiime2/label/r2017.12/osx-64/qiime2-2017.12.1-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-base-3.4.1-0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-bh-1.65.0_1-r3.4.1_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/r-bitops-1.0_6-r3.4.1_0.tar.bz2
