@@ -215,7 +215,7 @@ https://conda.anaconda.org/bioconda/linux-64/vsearch-2.6.0-0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/wcwidth-0.1.7-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/webencodings-0.5-py35_0.tar.bz2
 https://repo.continuum.io/pkgs/free/linux-64/wget-1.18-0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/wheel-0.30.0-py_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.30.0-py35_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/widgetsnbextension-3.1.0-py35_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/xopen-0.3.2-py35_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxau-1.0.8-3.tar.bz2
