@@ -1,0 +1,5 @@
+name: test-env
+channels:
+  - defaults
+prefix: /Users/caporasolab/miniconda3/envs/test-env
+

@@ -1,0 +1,5 @@
+name: test-env
+channels:
+  - defaults
+prefix: /opt/miniconda3/envs/test-env
+
