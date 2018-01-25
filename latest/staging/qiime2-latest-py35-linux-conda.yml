@@ -81,7 +81,7 @@ dependencies:
 - jinja2=2.10
 - jpeg=9b
 - jsonschema=2.6.0
-- jupyter_client=5.2.1
+- jupyter_client=5.2.2
 - jupyter_core=4.4.0
 - krb5=1.14.2
 - libffi=3.2.1
@@ -209,7 +209,7 @@ dependencies:
 - q2-cutadapt=2018.2.0.dev0+2.g6aaccb1
 - q2-dada2=2018.2.0.dev0+1.g94c5f7d
 - q2-deblur=2018.2.0.dev0+1.gdcee4bd
-- q2-demux=2018.2.0.dev0+2.g026460b
+- q2-demux=2018.2.0.dev0+3.gd8da961
 - q2-diversity=2018.2.0.dev0+2.g9951504
 - q2-emperor=2018.2.0.dev0+2.gc563e4f
 - q2-feature-classifier=2018.2.0.dev0+1.gc79a39e
