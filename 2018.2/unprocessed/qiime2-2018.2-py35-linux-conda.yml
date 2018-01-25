@@ -202,7 +202,7 @@ dependencies:
   - wget=1.18
   - q2-alignment=2018.2.0.dev0+1.g2ae38a2
   - q2-composition=2018.2.0.dev0+2.g40587cd
-  - q2-cutadapt=2018.2.0.dev0+2.g6aaccb1
+  - q2-cutadapt=2018.2.0.dev0+3.g5361ee2
   - q2-dada2=2018.2.0.dev0+1.g94c5f7d
   - q2-deblur=2018.2.0.dev0+1.gdcee4bd
   - q2-demux=2018.2.0.dev0+3.gd8da961
