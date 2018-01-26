@@ -222,7 +222,7 @@ dependencies:
   - q2-vsearch=2018.2.0.dev0+3.g8847818
   - q2cli=2018.2.0.dev0+3.gb9373b5
   - q2templates=2018.2.0.dev0+1.g6962f12
-  - qiime2=2018.2.0.dev0+4.ge28d504
+  - qiime2=2018.2.0.dev0+5.g94bfbf6
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1

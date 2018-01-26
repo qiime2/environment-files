@@ -209,10 +209,10 @@ dependencies:
   - q2-vsearch=2018.2.0.dev0+3.g8847818
   - q2cli=2018.2.0.dev0+3.gb9373b5
   - q2templates=2018.2.0.dev0+1.g6962f12
-  - qiime2=2018.2.0.dev0+4.ge28d504
+  - qiime2=2018.2.0.dev0+5.g94bfbf6
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/5bf1f42a-27c9-4c68-448a-a48b9b4d9890/volume/test-env
+prefix: /worker/volumes/live/47cc22c4-bd3e-4d4f-73c7-ece06a82ea4d/volume/test-env
 
