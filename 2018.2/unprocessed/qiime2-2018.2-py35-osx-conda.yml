@@ -208,7 +208,7 @@ dependencies:
   - q2-longitudinal=2018.2.0.dev0+3.gdaea83b
   - q2-metadata=2018.2.0.dev0+3.gedf8841
   - q2-phylogeny=2018.2.0.dev0+1.g6a13429
-  - q2-quality-control=2018.2.0.dev0+2.g0ed8a7e
+  - q2-quality-control=2018.2.0.dev0+3.g2444cc7
   - q2-quality-filter=2018.2.0.dev0+2.g3d56d6c
   - q2-sample-classifier=2018.2.0.dev0+2.g5a23f7d
   - q2-taxa=2018.2.0.dev0+2.gc6f4421
@@ -221,5 +221,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/638d95a3-0d97-4d7a-4b5a-76bbdeffc3d0/volume/test-env
+prefix: /worker/volumes/live/624e35a5-ebd6-4c6c-60b2-df30f628ed7d/volume/test-env
 
