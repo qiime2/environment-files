@@ -97,7 +97,7 @@ dependencies:
 - nbformat=4.4.0
 - ncurses=5.9
 - nose=1.3.7
-- notebook=5.3.1
+- notebook=5.4.0
 - openssl=1.0.2n
 - pandas=0.22.0
 - pandoc=2.1.1
@@ -145,7 +145,7 @@ dependencies:
 - r-latticeextra=0.6_28
 - r-lazyeval=0.2.0
 - r-magrittr=1.5
-- r-mass=7.3_45
+- r-mass=7.3_48
 - r-matrix=1.2_7.1
 - r-matrixstats=0.52.2
 - r-munsell=0.4.3
@@ -204,7 +204,7 @@ dependencies:
 - q2-dada2=2018.2.0.dev0+1.g94c5f7d
 - q2-deblur=2018.2.0.dev0+1.gdcee4bd
 - q2-demux=2018.2.0.dev0+3.gd8da961
-- q2-diversity=2018.2.0.dev0+2.g9951504
+- q2-diversity=2018.2.0.dev0+4.gaf635f5
 - q2-emperor=2018.2.0.dev0+2.gc563e4f
 - q2-feature-classifier=2018.2.0.dev0+1.gc79a39e
 - q2-feature-table=2018.2.0.dev0+3.g290e7bd
