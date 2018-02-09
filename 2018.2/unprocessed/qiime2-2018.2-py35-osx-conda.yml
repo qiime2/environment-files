@@ -63,7 +63,7 @@ dependencies:
   - html5lib=1.0.1
   - icu=58.2
   - idna=2.6
-  - ipykernel=4.8.0
+  - ipykernel=4.8.1
   - ipython=6.2.1
   - ipython_genutils=0.2.0
   - ipywidgets=7.1.1
@@ -201,7 +201,7 @@ dependencies:
   - q2-deblur=2018.2.0.dev0+1.gdcee4bd
   - q2-demux=2018.2.0.dev0+3.gd8da961
   - q2-diversity=2018.2.0.dev0+4.gaf635f5
-  - q2-emperor=2018.2.0.dev0+2.gc563e4f
+  - q2-emperor=2018.2.0.dev0+3.g7ff7b67
   - q2-feature-classifier=2018.2.0.dev0+1.gc79a39e
   - q2-feature-table=2018.2.0.dev0+3.g290e7bd
   - q2-gneiss=2018.2.0.dev0+5.g2df81b5
@@ -221,5 +221,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/78c3e1af-e44d-4dd8-758a-d0fc765e8c0c/volume/test-env
+prefix: /worker/volumes/live/227698fd-24d0-4136-6206-95cb024f976a/volume/test-env
 
