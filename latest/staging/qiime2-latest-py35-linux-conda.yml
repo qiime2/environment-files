@@ -35,15 +35,15 @@ dependencies:
 - unifrac=0.9.2
 - asn1crypto=0.22.0
 - backports=1.0
-- backports.functools_lru_cache=1.4
+- backports.functools_lru_cache=1.5
 - bleach=2.0.0
 - bokeh=0.12.13
 - boost=1.64.0
 - boost-cpp=1.64.0
 - bzip2=1.0.6
-- ca-certificates=2017.11.5
+- ca-certificates=2018.1.18
 - cairo=1.14.6
-- certifi=2017.11.5
+- certifi=2018.1.18
 - cffi=1.11.2
 - chardet=3.0.4
 - click=6.7
@@ -129,7 +129,7 @@ dependencies:
 - python-dateutil=2.6.1
 - pytz=2017.3
 - pyyaml=3.12
-- pyzmq=16.0.2
+- pyzmq=17.0.0
 - qt=5.6.2
 - r-assertthat=0.1
 - r-base=3.4.1
@@ -196,7 +196,7 @@ dependencies:
 - xorg-libxdmcp=1.1.2
 - xz=5.2.3
 - yaml=0.1.6
-- zeromq=4.2.1
+- zeromq=4.2.3
 - zlib=1.2.8
 - cachecontrol=0.12.3
 - intel-openmp=2018.0.0
@@ -232,7 +232,7 @@ dependencies:
 - q2-vsearch=2018.2.0.dev0+3.g8847818
 - q2cli=2018.2.0.dev0+4.g8277148
 - q2templates=2018.2.0.dev0+1.g6962f12
-- qiime2=2018.2.0.dev0+7.gb139660
+- qiime2=2018.2.0.dev0+8.g998e0e5
 - biom-format=2.1.6
 - ijson=2.3
 - scikit-bio=0.5.1
