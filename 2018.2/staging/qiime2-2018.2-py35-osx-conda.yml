@@ -106,7 +106,7 @@ dependencies:
 - parso=0.1.1
 - patsy=0.5.0
 - pcre=8.39
-- pexpect=4.3.1
+- pexpect=4.4.0
 - pickleshare=0.7.4
 - pigz=2.3.4
 - pip=9.0.1
@@ -119,9 +119,9 @@ dependencies:
 - pyopenssl=17.4.0
 - pyparsing=2.2.0
 - pysocks=1.6.8
-- python=3.5.4
+- python=3.5.5
 - python-dateutil=2.6.1
-- pytz=2017.3
+- pytz=2018.3
 - pyyaml=3.12
 - pyzmq=17.0.0
 - r-assertthat=0.1
@@ -169,7 +169,7 @@ dependencies:
 - requests=2.18.4
 - seaborn=0.8.1
 - send2trash=1.4.2
-- setuptools=38.4.0
+- setuptools=38.5.1
 - simplegeneric=0.8.1
 - six=1.11.0
 - sqlite=3.20.1
@@ -204,7 +204,7 @@ dependencies:
 - q2-dada2=2018.2.0.dev0+1.g94c5f7d
 - q2-deblur=2018.2.0.dev0+1.gdcee4bd
 - q2-demux=2018.2.0.dev0+3.gd8da961
-- q2-diversity=2018.2.0.dev0+4.gaf635f5
+- q2-diversity=2018.2.0.dev0+5.g3cbe951
 - q2-emperor=2018.2.0.dev0+3.g7ff7b67
 - q2-feature-classifier=2018.2.0.dev0+1.gc79a39e
 - q2-feature-table=2018.2.0.dev0+3.g290e7bd
