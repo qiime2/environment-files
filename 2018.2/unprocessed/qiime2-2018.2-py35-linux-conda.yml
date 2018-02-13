@@ -24,7 +24,7 @@ dependencies:
   - fasttree=2.1.10
   - mafft=7.310
   - sortmerna=2.0
-  - vsearch=2.6.0
+  - vsearch=2.7.0
   - xopen=0.3.2
   - deblur=1.0.3
   - gneiss=0.4.2
@@ -228,7 +228,7 @@ dependencies:
   - q2-vsearch=2018.2.0.dev0+3.g8847818
   - q2cli=2018.2.0.dev0+4.g8277148
   - q2templates=2018.2.0.dev0+1.g6962f12
-  - qiime2=2018.2.0.dev0+8.g998e0e5
+  - qiime2=2018.2.0.dev0+9.gafcbd13
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1
