@@ -197,7 +197,7 @@ dependencies:
   - q2-alignment=2018.2.0.dev0+1.g2ae38a2
   - q2-composition=2018.2.0.dev0+2.g40587cd
   - q2-cutadapt=2018.2.0.dev0+3.g5361ee2
-  - q2-dada2=2018.2.0.dev0+1.g94c5f7d
+  - q2-dada2=2018.2.0.dev0+2.g79d8505
   - q2-deblur=2018.2.0.dev0+1.gdcee4bd
   - q2-demux=2018.2.0.dev0+3.gd8da961
   - q2-diversity=2018.2.0.dev0+5.g3cbe951
@@ -221,5 +221,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/c93896aa-4097-4aa3-425e-378a588c3279/volume/test-env
+prefix: /worker/volumes/live/8a7ef9f7-22da-49f7-5ed0-623b0c9a4333/volume/test-env
 
