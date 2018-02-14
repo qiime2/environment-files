@@ -24,7 +24,7 @@ dependencies:
   - fasttree=2.1.10
   - mafft=7.310
   - sortmerna=2.0
-  - vsearch=2.6.0
+  - vsearch=2.7.0
   - xopen=0.3.2
   - deblur=1.0.3
   - gneiss=0.4.2
@@ -206,7 +206,7 @@ dependencies:
   - q2-feature-table=2018.2.0.dev0+3.g290e7bd
   - q2-gneiss=2018.2.0.dev0+5.g2df81b5
   - q2-longitudinal=2018.2.0.dev0+3.gdaea83b
-  - q2-metadata=2018.2.0.dev0+4.gd45f39e
+  - q2-metadata=2018.2.0.dev0+5.g573e8e4
   - q2-phylogeny=2018.2.0.dev0+1.g6a13429
   - q2-quality-control=2018.2.0.dev0+3.g2444cc7
   - q2-quality-filter=2018.2.0.dev0+2.g3d56d6c
@@ -221,5 +221,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/8a7ef9f7-22da-49f7-5ed0-623b0c9a4333/volume/test-env
+prefix: /worker/volumes/live/2fc8ffc9-113d-4258-78a5-8a0aa3cbee0b/volume/test-env
 
