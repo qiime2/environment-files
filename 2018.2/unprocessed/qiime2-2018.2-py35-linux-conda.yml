@@ -226,7 +226,7 @@ dependencies:
   - q2-taxa=2018.2.0.dev0+2.gc6f4421
   - q2-types=2018.2.0.dev0+2.gdb00443
   - q2-vsearch=2018.2.0.dev0+3.g8847818
-  - q2cli=2018.2.0.dev0+4.g8277148
+  - q2cli=2018.2.0.dev0+5.ge9ac5a9
   - q2templates=2018.2.0.dev0+1.g6962f12
   - qiime2=2018.2.0.dev0+9.gafcbd13
   - biom-format=2.1.6
