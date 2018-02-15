@@ -214,12 +214,12 @@ dependencies:
   - q2-taxa=2018.2.0.dev0+2.gc6f4421
   - q2-types=2018.2.0.dev0+2.gdb00443
   - q2-vsearch=2018.2.0.dev0+3.g8847818
-  - q2cli=2018.2.0.dev0+5.ge9ac5a9
+  - q2cli=2018.2.0.dev0+6.gaf048c9
   - q2templates=2018.2.0.dev0+1.g6962f12
-  - qiime2=2018.2.0.dev0+9.gafcbd13
+  - qiime2=2018.2.0.dev0+10.gee6b86e
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/d15a68ac-8e15-4741-65c3-6f917171541b/volume/test-env
+prefix: /worker/volumes/live/ad055ac5-21e9-4762-4871-5f69cfc31899/volume/test-env
 
