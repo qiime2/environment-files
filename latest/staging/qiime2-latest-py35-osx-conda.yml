@@ -93,7 +93,7 @@ dependencies:
 - matplotlib=2.1.2
 - mistune=0.8.3
 - msgpack-python=0.5.5
-- natsort=5.1.1
+- natsort=5.2.0
 - nbconvert=5.3.1
 - nbformat=4.4.0
 - ncurses=5.9
@@ -222,7 +222,7 @@ dependencies:
 - q2-vsearch=2018.4.0.dev0
 - q2cli=2018.4.0.dev0
 - q2templates=2018.4.0.dev0
-- qiime2=2018.4.0.dev0+1.g28f462b
+- qiime2=2018.4.0.dev0+3.g980d285
 - biom-format=2.1.6
 - ijson=2.3
 - scikit-bio=0.5.1
