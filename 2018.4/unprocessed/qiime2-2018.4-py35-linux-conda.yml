@@ -40,7 +40,7 @@ dependencies:
   - ca-certificates=2018.1.18
   - cairo=1.14.10
   - certifi=2018.1.18
-  - cffi=1.11.2
+  - cffi=1.11.5
   - chardet=3.0.4
   - click=6.7
   - cryptography=2.1.4
@@ -48,7 +48,7 @@ dependencies:
   - cycler=0.10.0
   - cython=0.27.3
   - dbus=1.10.22
-  - decorator=4.1.2
+  - decorator=4.2.1
   - emperor=1.0.0beta13
   - entrypoints=0.2.3
   - expat=2.2.5
@@ -93,7 +93,7 @@ dependencies:
   - matplotlib=2.1.2
   - mistune=0.8.3
   - msgpack-python=0.5.5
-  - natsort=5.0.2
+  - natsort=5.1.1
   - nbconvert=5.3.1
   - nbformat=4.4.0
   - ncurses=5.9
@@ -117,7 +117,7 @@ dependencies:
   - ptyprocess=0.5.2
   - pycparser=2.18
   - pygments=2.2.0
-  - pyopenssl=17.4.0
+  - pyopenssl=17.5.0
   - pyparsing=2.2.0
   - pyqt=5.6.0
   - pysocks=1.6.8
@@ -192,7 +192,7 @@ dependencies:
   - xorg-libxau=1.0.8
   - xorg-libxdmcp=1.1.2
   - xz=5.2.3
-  - yaml=0.1.6
+  - yaml=0.1.7
   - zeromq=4.2.3
   - zlib=1.2.11
   - cachecontrol=0.12.4
@@ -213,7 +213,7 @@ dependencies:
   - q2-dada2=2018.4.0.dev0
   - q2-deblur=2018.4.0.dev0
   - q2-demux=2018.4.0.dev0
-  - q2-diversity=2018.4.0.dev0
+  - q2-diversity=2018.4.0.dev0+1.g174242e
   - q2-emperor=2018.4.0.dev0
   - q2-feature-classifier=2018.4.0.dev0
   - q2-feature-table=2018.4.0.dev0
@@ -229,7 +229,7 @@ dependencies:
   - q2-vsearch=2018.4.0.dev0
   - q2cli=2018.4.0.dev0
   - q2templates=2018.4.0.dev0
-  - qiime2=2018.4.0.dev0
+  - qiime2=2018.4.0.dev0+1.g28f462b
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1
