@@ -33,7 +33,7 @@ dependencies:
   - backports=1.0
   - backports.functools_lru_cache=1.5
   - bleach=2.0.0
-  - bokeh=0.12.13
+  - bokeh=0.12.14
   - boost=1.64.0
   - boost-cpp=1.64.0
   - bzip2=1.0.6
@@ -93,13 +93,14 @@ dependencies:
   - matplotlib=2.1.2
   - mistune=0.8.3
   - msgpack-python=0.5.5
-  - natsort=5.1.1
+  - natsort=5.2.0
   - nbconvert=5.3.1
   - nbformat=4.4.0
   - ncurses=5.9
   - nose=1.3.7
   - notebook=5.4.0
   - openssl=1.0.2n
+  - packaging=17.1
   - pandas=0.22.0
   - pandoc=2.1.1
   - pandocfilters=1.4.1
@@ -229,7 +230,7 @@ dependencies:
   - q2-vsearch=2018.4.0.dev0
   - q2cli=2018.4.0.dev0
   - q2templates=2018.4.0.dev0
-  - qiime2=2018.4.0.dev0+1.g28f462b
+  - qiime2=2018.4.0.dev0+3.g980d285
   - biom-format=2.1.6
   - ijson=2.3
   - scikit-bio=0.5.1
