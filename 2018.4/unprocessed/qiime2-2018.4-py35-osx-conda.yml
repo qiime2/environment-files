@@ -10,8 +10,8 @@ dependencies:
   - bioconductor-delayedarray=0.4.1
   - bioconductor-genomeinfodb=1.14.0
   - bioconductor-genomeinfodbdata=1.0.0
-  - bioconductor-genomicalignments=1.14.0
-  - bioconductor-genomicranges=1.30.0
+  - bioconductor-genomicalignments=1.14.1
+  - bioconductor-genomicranges=1.30.3
   - bioconductor-iranges=2.12.0
   - bioconductor-rsamtools=1.30.0
   - bioconductor-s4vectors=0.16.0
@@ -43,7 +43,7 @@ dependencies:
   - chardet=3.0.4
   - clangdev=6.0.0
   - click=6.7
-  - cryptography=2.1.4
+  - cryptography=2.2.1
   - curl=7.59.0
   - cycler=0.10.0
   - cython=0.28.1
@@ -120,7 +120,7 @@ dependencies:
   - pyparsing=2.2.0
   - pysocks=1.6.8
   - python=3.5.5
-  - python-dateutil=2.7.0
+  - python-dateutil=2.7.2
   - pytz=2018.3
   - pyyaml=3.12
   - pyzmq=17.0.0
@@ -192,7 +192,7 @@ dependencies:
   - intel-openmp=2018.0.0
   - libgcc=4.8.5
   - libgfortran=3.0.1
-  - mkl=2018.0.1
+  - mkl=2018.0.2
   - numpy=1.12.1
   - openjdk=8.0.121
   - scikit-learn=0.19.1
@@ -225,5 +225,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/e97cc04a-14a7-46f9-7cf5-cfc5fb993e49/volume/test-env
+prefix: /worker/volumes/live/4cdfb411-c8d9-446f-4c66-bfd866fa29ed/volume/test-env
 
