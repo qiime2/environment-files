@@ -196,7 +196,7 @@ dependencies:
   - xorg-libxdmcp=1.1.2
   - xz=5.2.3
   - yaml=0.1.7
-  - zeromq=4.2.3
+  - zeromq=4.2.5
   - zlib=1.2.11
   - intel-openmp=2018.0.0
   - libgcc=7.2.0
@@ -230,7 +230,7 @@ dependencies:
   - q2-types=2018.4.0.dev0
   - q2-vsearch=2018.4.0.dev0
   - q2cli=2018.4.0.dev0
-  - q2templates=2018.4.0.dev0
+  - q2templates=2018.4.0.dev0+1.g784c28e
   - qiime2=2018.4.0.dev0+3.g980d285
   - biom-format=2.1.6
   - ijson=2.3
