@@ -160,7 +160,7 @@ dependencies:
   - r-r6=2.2.2
   - r-rcolorbrewer=1.1_2
   - r-rcpp=0.12.15
-  - r-rcppparallel=4.3.20
+  - r-rcppparallel=4.4.0
   - r-rcurl=1.95_4.8
   - r-reshape2=1.4.3
   - r-rlang=0.2.0
@@ -184,7 +184,7 @@ dependencies:
   - terminado=0.8.1
   - testpath=0.3.1
   - tk=8.6.7
-  - tornado=5.0.1
+  - tornado=5.0.2
   - traitlets=4.3.2
   - urllib3=1.22
   - wcwidth=0.1.7
