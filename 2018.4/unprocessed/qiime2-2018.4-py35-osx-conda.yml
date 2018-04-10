@@ -202,7 +202,7 @@ dependencies:
   - q2-cutadapt=2018.4.0.dev0
   - q2-dada2=2018.4.0.dev0+1.g2f36d3f
   - q2-deblur=2018.4.0.dev0+1.g9d1c639
-  - q2-demux=2018.4.0.dev0
+  - q2-demux=2018.4.0.dev0+1.gf854e3d
   - q2-diversity=2018.4.0.dev0+2.g2abcc97
   - q2-emperor=2018.4.0.dev0+1.g60773a4
   - q2-feature-classifier=2018.4.0.dev0
@@ -224,5 +224,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/ec682caa-0e7e-49c5-4a70-8e1eafa14d03/volume/test-env
+prefix: /worker/volumes/live/47e6c678-acef-4eb4-70bf-ce98730dd39f/volume/test-env
 
