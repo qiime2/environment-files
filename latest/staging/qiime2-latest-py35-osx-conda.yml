@@ -124,7 +124,7 @@ dependencies:
 - pysocks=1.6.8
 - python=3.5.5
 - python-dateutil=2.7.2
-- pytz=2018.3
+- pytz=2018.4
 - pyyaml=3.12
 - pyzmq=17.0.0
 - r-assertthat=0.2.0
@@ -212,7 +212,7 @@ dependencies:
 - q2-feature-classifier=2018.4.0.dev0
 - q2-feature-table=2018.4.0.dev0
 - q2-gneiss=2018.4.0.dev0
-- q2-longitudinal=2018.4.0.dev0
+- q2-longitudinal=2018.4.0.dev0+1.gc571833
 - q2-metadata=2018.4.0.dev0
 - q2-phylogeny=2018.4.0.dev0
 - q2-quality-control=2018.4.0.dev0
