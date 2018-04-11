@@ -120,7 +120,7 @@ dependencies:
   - pysocks=1.6.8
   - python=3.5.5
   - python-dateutil=2.7.2
-  - pytz=2018.3
+  - pytz=2018.4
   - pyyaml=3.12
   - pyzmq=17.0.0
   - r-assertthat=0.2.0
@@ -208,7 +208,7 @@ dependencies:
   - q2-feature-classifier=2018.4.0.dev0
   - q2-feature-table=2018.4.0.dev0
   - q2-gneiss=2018.4.0.dev0
-  - q2-longitudinal=2018.4.0.dev0
+  - q2-longitudinal=2018.4.0.dev0+1.gc571833
   - q2-metadata=2018.4.0.dev0
   - q2-phylogeny=2018.4.0.dev0
   - q2-quality-control=2018.4.0.dev0
@@ -224,5 +224,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/47e6c678-acef-4eb4-70bf-ce98730dd39f/volume/test-env
+prefix: /worker/volumes/live/8d9ac1b9-2ae8-4cff-6b6f-8e5547a63826/volume/test-env
 
