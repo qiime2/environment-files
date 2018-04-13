@@ -50,7 +50,7 @@ dependencies:
 - cryptography=2.2.1
 - curl=7.59.0
 - cycler=0.10.0
-- cython=0.28.1
+- cython=0.28.2
 - dbus=1.10.22
 - decorator=4.2.1
 - emperor=1.0.0beta14
@@ -76,7 +76,7 @@ dependencies:
 - ipykernel=4.8.2
 - ipython=6.3.1
 - ipython_genutils=0.2.0
-- ipywidgets=7.2.0
+- ipywidgets=7.2.1
 - jedi=0.11.1
 - jinja2=2.10
 - jpeg=9b
@@ -194,7 +194,7 @@ dependencies:
 - wcwidth=0.1.7
 - webencodings=0.5
 - wheel=0.31.0
-- widgetsnbextension=3.2.0
+- widgetsnbextension=3.2.1
 - xorg-libxau=1.0.8
 - xorg-libxdmcp=1.1.2
 - xz=5.2.3
@@ -234,7 +234,7 @@ dependencies:
 - q2-vsearch=2018.4.0.dev0
 - q2cli=2018.4.0.dev0
 - q2templates=2018.4.0.dev0+1.g784c28e
-- qiime2=2018.4.0.dev0+3.g980d285
+- qiime2=2018.4.0.dev0+4.gace3190
 - biom-format=2.1.6
 - ijson=2.3
 - scikit-bio=0.5.1
