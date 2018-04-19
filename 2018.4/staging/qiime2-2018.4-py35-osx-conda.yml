@@ -205,7 +205,7 @@ dependencies:
 - q2-alignment=2018.4.0.dev0
 - q2-composition=2018.4.0.dev0
 - q2-cutadapt=2018.4.0.dev0
-- q2-dada2=2018.4.0.dev0+1.g2f36d3f
+- q2-dada2=2018.4.0.dev0+2.g467825f
 - q2-deblur=2018.4.0.dev0+1.g9d1c639
 - q2-demux=2018.4.0.dev0+1.gf854e3d
 - q2-diversity=2018.4.0.dev0+2.g2abcc97
@@ -220,11 +220,11 @@ dependencies:
 - q2-quality-filter=2018.4.0.dev0
 - q2-sample-classifier=2018.4.0.dev0
 - q2-taxa=2018.4.0.dev0
-- q2-types=2018.4.0.dev0
+- q2-types=2018.4.0.dev0+1.gfdf4f0e
 - q2-vsearch=2018.4.0.dev0
-- q2cli=2018.4.0.dev0+1.g147fa2e
+- q2cli=2018.4.0.dev0+2.ga2e3105
 - q2templates=2018.4.0.dev0+1.g784c28e
-- qiime2=2018.4.0.dev0+6.g02c6410
+- qiime2=2018.4.0.dev0+7.gccd7e45
 - biom-format=2.1.6
 - ijson=2.3
 - scikit-bio=0.5.1
