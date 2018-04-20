@@ -214,7 +214,7 @@ dependencies:
 - scipy=0.19.1
 - wget=1.19.4
 - q2-alignment=2018.4.0.dev0+1.g7a0b35e
-- q2-composition=2018.4.0.dev0
+- q2-composition=2018.4.0.dev0+1.gb20c961
 - q2-cutadapt=2018.4.0.dev0+1.g6ca2dfb
 - q2-dada2=2018.4.0.dev0+2.g467825f
 - q2-deblur=2018.4.0.dev0+2.gd15e0b3
