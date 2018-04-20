@@ -208,7 +208,7 @@ dependencies:
   - q2-emperor=2018.4.0.dev0+2.gd6449a0
   - q2-feature-classifier=2018.4.0.dev0
   - q2-feature-table=2018.4.0.dev0+2.g85c084a
-  - q2-gneiss=2018.4.0.dev0
+  - q2-gneiss=2018.4.0.dev0+2.g5bac4b1
   - q2-longitudinal=2018.4.0.dev0+2.gb0aa760
   - q2-metadata=2018.4.0.dev0
   - q2-phylogeny=2018.4.0.dev0+1.gdbde694
@@ -225,5 +225,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/3aef54c1-c2b2-4d02-5815-fbdaf454df8b/volume/test-env
+prefix: /worker/volumes/live/78eb6c06-fbb2-46c1-67ef-74757edc3137/volume/test-env
 
