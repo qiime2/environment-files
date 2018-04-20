@@ -212,7 +212,7 @@ dependencies:
 - q2-emperor=2018.4.0.dev0+2.gd6449a0
 - q2-feature-classifier=2018.4.0.dev0
 - q2-feature-table=2018.4.0.dev0+2.g85c084a
-- q2-gneiss=2018.4.0.dev0
+- q2-gneiss=2018.4.0.dev0+2.g5bac4b1
 - q2-longitudinal=2018.4.0.dev0+2.gb0aa760
 - q2-metadata=2018.4.0.dev0
 - q2-phylogeny=2018.4.0.dev0+1.gdbde694
