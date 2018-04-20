@@ -202,14 +202,14 @@ dependencies:
   - q2-composition=2018.4.0.dev0
   - q2-cutadapt=2018.4.0.dev0+1.g6ca2dfb
   - q2-dada2=2018.4.0.dev0+2.g467825f
-  - q2-deblur=2018.4.0.dev0+1.g9d1c639
+  - q2-deblur=2018.4.0.dev0+2.gd15e0b3
   - q2-demux=2018.4.0.dev0+1.gf854e3d
   - q2-diversity=2018.4.0.dev0+2.g2abcc97
   - q2-emperor=2018.4.0.dev0+2.gd6449a0
   - q2-feature-classifier=2018.4.0.dev0
   - q2-feature-table=2018.4.0.dev0+2.g85c084a
   - q2-gneiss=2018.4.0.dev0
-  - q2-longitudinal=2018.4.0.dev0+1.gc571833
+  - q2-longitudinal=2018.4.0.dev0+2.gb0aa760
   - q2-metadata=2018.4.0.dev0
   - q2-phylogeny=2018.4.0.dev0+1.gdbde694
   - q2-quality-control=2018.4.0.dev0
@@ -225,5 +225,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/9a82cd70-25ec-43a7-7373-e922ac412999/volume/test-env
+prefix: /worker/volumes/live/9328802c-af74-41f3-6416-c4066e9b2d73/volume/test-env
 
