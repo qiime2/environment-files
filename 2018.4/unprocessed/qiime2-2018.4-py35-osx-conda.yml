@@ -204,7 +204,7 @@ dependencies:
   - q2-dada2=2018.4.0.dev0+2.g467825f
   - q2-deblur=2018.4.0.dev0+2.gd15e0b3
   - q2-demux=2018.4.0.dev0+1.gf854e3d
-  - q2-diversity=2018.4.0.dev0+3.gcb544cd
+  - q2-diversity=2018.4.0.dev0+4.g19d545f
   - q2-emperor=2018.4.0.dev0+4.g7b7e47d
   - q2-feature-classifier=2018.4.0.dev0
   - q2-feature-table=2018.4.0.dev0+2.g85c084a
@@ -225,5 +225,5 @@ dependencies:
   - ijson=2.3
   - scikit-bio=0.5.1
   - tzlocal=1.3
-prefix: /worker/volumes/live/eb290660-f341-4ae0-6744-ac900df7263b/volume/test-env
+prefix: /worker/volumes/live/5f3f0cc6-6e13-43a2-5f0f-c578a868122e/volume/test-env
 
