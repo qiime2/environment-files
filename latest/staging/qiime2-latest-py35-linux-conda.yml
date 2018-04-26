@@ -228,7 +228,7 @@ dependencies:
 - q2-metadata=2018.4.0.dev0
 - q2-phylogeny=2018.4.0.dev0+1.gdbde694
 - q2-quality-control=2018.4.0.dev0+1.g0e02b54
-- q2-quality-filter=2018.4.0.dev0+1.g985c154
+- q2-quality-filter=2018.4.0.dev0+2.g680cfce
 - q2-sample-classifier=2018.4.0.dev0+1.g36e651a
 - q2-taxa=2018.4.0.dev0
 - q2-types=2018.4.0.dev0+1.gfdf4f0e
