@@ -24,6 +24,7 @@ dependencies:
   - deblur=1.0.4
   - fasttree=2.1.10
   - mafft=7.310
+  - raxml=8.2.10
   - sortmerna=2.0
   - vsearch=2.7.0
   - xopen=0.3.2
@@ -96,7 +97,7 @@ dependencies:
   - nbformat=4.4.0
   - ncurses=5.9
   - nose=1.3.7
-  - notebook=5.4.1
+  - notebook=5.5.0
   - openssl=1.0.2o
   - packaging=17.1
   - pandas=0.22.0
@@ -147,7 +148,7 @@ dependencies:
   - r-lazyeval=0.2.1
   - r-magrittr=1.5
   - r-mass=7.3_48
-  - r-matrix=1.2_12
+  - r-matrix=1.2_14
   - r-matrixstats=0.53.1
   - r-munsell=0.4.3
   - r-pillar=1.2.2
@@ -211,7 +212,7 @@ dependencies:
   - q2-gneiss=2018.6.0.dev0
   - q2-longitudinal=2018.6.0.dev0
   - q2-metadata=2018.6.0.dev0
-  - q2-phylogeny=2018.6.0.dev0
+  - q2-phylogeny=2018.6.0.dev0+1.g35704a7
   - q2-quality-control=2018.6.0.dev0
   - q2-quality-filter=2018.6.0.dev0
   - q2-sample-classifier=2018.6.0.dev0
@@ -227,5 +228,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/a01def8c-ce1b-4513-5376-b6d01f7944ee/volume/test-env
+prefix: /worker/volumes/live/691bab3c-ae06-40f0-7905-4d1dc47c0963/volume/test-env
 
