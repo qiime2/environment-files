@@ -206,7 +206,7 @@ dependencies:
   - q2-deblur=2018.6.0.dev0
   - q2-demux=2018.6.0.dev0
   - q2-diversity=2018.6.0.dev0
-  - q2-emperor=2018.6.0.dev0
+  - q2-emperor=2018.6.0.dev0+1.gfb8bec8
   - q2-feature-classifier=2018.6.0.dev0
   - q2-feature-table=2018.6.0.dev0
   - q2-gneiss=2018.6.0.dev0
@@ -228,5 +228,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/691bab3c-ae06-40f0-7905-4d1dc47c0963/volume/test-env
+prefix: /worker/volumes/live/293ab1ea-77bd-4a50-6abe-c99b6b474212/volume/test-env
 
