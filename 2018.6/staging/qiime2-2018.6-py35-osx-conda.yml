@@ -210,7 +210,7 @@ dependencies:
 - q2-deblur=2018.6.0.dev0
 - q2-demux=2018.6.0.dev0
 - q2-diversity=2018.6.0.dev0
-- q2-emperor=2018.6.0.dev0
+- q2-emperor=2018.6.0.dev0+1.gfb8bec8
 - q2-feature-classifier=2018.6.0.dev0
 - q2-feature-table=2018.6.0.dev0
 - q2-gneiss=2018.6.0.dev0
