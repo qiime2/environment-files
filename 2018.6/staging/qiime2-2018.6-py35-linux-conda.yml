@@ -53,7 +53,7 @@ dependencies:
 - curl=7.60.0
 - cycler=0.10.0
 - cython=0.28.3
-- dbus=1.11.0
+- dbus=1.13.0
 - decorator=4.3.0
 - emperor=1.0.0beta16
 - entrypoints=0.2.3
@@ -227,7 +227,7 @@ dependencies:
 - q2-gneiss=2018.6.0.dev0+2.g9f6f1e2
 - q2-longitudinal=2018.6.0.dev0+1.gd91016c
 - q2-metadata=2018.6.0.dev0
-- q2-phylogeny=2018.6.0.dev0+1.g35704a7
+- q2-phylogeny=2018.6.0.dev0+2.g8def601
 - q2-quality-control=2018.6.0.dev0
 - q2-quality-filter=2018.6.0.dev0
 - q2-sample-classifier=2018.6.0.dev0+1.g619e763
