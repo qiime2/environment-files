@@ -212,7 +212,7 @@ dependencies:
   - q2-gneiss=2018.6.0.dev0+2.g9f6f1e2
   - q2-longitudinal=2018.6.0.dev0+1.gd91016c
   - q2-metadata=2018.6.0.dev0
-  - q2-phylogeny=2018.6.0.dev0+1.g35704a7
+  - q2-phylogeny=2018.6.0.dev0+2.g8def601
   - q2-quality-control=2018.6.0.dev0
   - q2-quality-filter=2018.6.0.dev0
   - q2-sample-classifier=2018.6.0.dev0+1.g619e763
@@ -228,5 +228,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/0a1e72ac-e24e-4655-6cf0-b0a567f78236/volume/test-env
+prefix: /worker/volumes/live/68f5da0a-9b73-4859-6eba-210532ee84a5/volume/test-env
 
