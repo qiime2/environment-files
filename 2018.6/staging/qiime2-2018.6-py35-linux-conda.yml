@@ -58,7 +58,7 @@ dependencies:
 - emperor=1.0.0beta16
 - entrypoints=0.2.3
 - expat=2.2.5
-- fastcluster=1.1.24
+- fastcluster=1.1.25
 - fontconfig=2.12.6
 - freetype=2.8.1
 - future=0.16.0
@@ -121,7 +121,7 @@ dependencies:
 - pip=9.0.3
 - pixman=0.34.0
 - prompt_toolkit=1.0.15
-- psutil=5.4.5
+- psutil=5.4.6
 - ptyprocess=0.5.2
 - pycparser=2.18
 - pygments=2.2.0
@@ -169,7 +169,7 @@ dependencies:
 - r-rcppparallel=4.4.0
 - r-rcurl=1.95_4.8
 - r-reshape2=1.4.3
-- r-rlang=0.2.0
+- r-rlang=0.2.1
 - r-scales=0.5.0
 - r-snow=0.4_2
 - r-stringi=1.1.7
@@ -203,13 +203,13 @@ dependencies:
 - yaml=0.1.7
 - zeromq=4.2.5
 - zlib=1.2.11
-- intel-openmp=2018.0.0
+- intel-openmp=2018.0.3
 - libgcc=7.2.0
 - libgcc-ng=7.2.0
 - libgfortran=3.0.0
 - libgfortran-ng=7.2.0
 - libstdcxx-ng=7.2.0
-- mkl=2018.0.2
+- mkl=2018.0.3
 - numpy=1.12.1
 - scikit-learn=0.19.1
 - scipy=0.19.1
@@ -231,8 +231,8 @@ dependencies:
 - q2-quality-control=2018.6.0.dev0
 - q2-quality-filter=2018.6.0.dev0
 - q2-sample-classifier=2018.6.0.dev0+1.g619e763
-- q2-taxa=2018.6.0.dev0
-- q2-types=2018.6.0.dev0
+- q2-taxa=2018.6.0.dev0+1.g7953508
+- q2-types=2018.6.0.dev0+1.g418897a
 - q2-vsearch=2018.6.0.dev0
 - q2cli=2018.6.0.dev0
 - q2templates=2018.6.0.dev0
