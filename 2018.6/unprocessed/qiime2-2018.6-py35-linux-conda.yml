@@ -212,7 +212,7 @@ dependencies:
   - wget=1.19.5
   - q2-alignment=2018.6.0.dev0
   - q2-composition=2018.6.0.dev0+1.g50da396
-  - q2-cutadapt=2018.6.0.dev0
+  - q2-cutadapt=2018.6.0.dev0+2.gfb46db3
   - q2-dada2=2018.6.0.dev0
   - q2-deblur=2018.6.0.dev0+3.g5b43162
   - q2-demux=2018.6.0.dev0
@@ -228,7 +228,7 @@ dependencies:
   - q2-quality-filter=2018.6.0.dev0
   - q2-sample-classifier=2018.6.0.dev0+3.g8129e4a
   - q2-taxa=2018.6.0.dev0+1.g7953508
-  - q2-types=2018.6.0.dev0+1.g418897a
+  - q2-types=2018.6.0.dev0+2.g3f35944
   - q2-vsearch=2018.6.0.dev0
   - q2cli=2018.6.0.dev0+1.ga80daac
   - q2templates=2018.6.0.dev0
