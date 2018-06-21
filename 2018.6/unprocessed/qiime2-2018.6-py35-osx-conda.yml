@@ -204,10 +204,10 @@ dependencies:
   - q2-cutadapt=2018.6.0.dev0+2.gfb46db3
   - q2-dada2=2018.6.0.dev0
   - q2-deblur=2018.6.0.dev0+3.g5b43162
-  - q2-demux=2018.6.0.dev0
+  - q2-demux=2018.6.0.dev0+1.gac3346b
   - q2-diversity=2018.6.0.dev0+4.g566bd11
   - q2-emperor=2018.6.0.dev0+1.gfb8bec8
-  - q2-feature-classifier=2018.6.0.dev0+1.g12f876c
+  - q2-feature-classifier=2018.6.0.dev0+3.g8530d15
   - q2-feature-table=2018.6.0.dev0
   - q2-gneiss=2018.6.0.dev0+2.g9f6f1e2
   - q2-longitudinal=2018.6.0.dev0+3.g710ece0
@@ -215,7 +215,7 @@ dependencies:
   - q2-phylogeny=2018.6.0.dev0+2.g8def601
   - q2-quality-control=2018.6.0.dev0+2.g05d8867
   - q2-quality-filter=2018.6.0.dev0
-  - q2-sample-classifier=2018.6.0.dev0+4.g9981c3f
+  - q2-sample-classifier=2018.6.0.dev0+5.gc07867e
   - q2-taxa=2018.6.0.dev0+1.g7953508
   - q2-types=2018.6.0.dev0+2.g3f35944
   - q2-vsearch=2018.6.0.dev0
@@ -228,5 +228,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/1d0f2fed-b3cf-4b98-7a22-0ff6d4748062/volume/test-env
+prefix: /worker/volumes/live/fec1b636-033d-44b0-60ac-10932b0b9f91/volume/test-env
 
