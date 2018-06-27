@@ -122,7 +122,7 @@ dependencies:
 - pixman=0.34.0
 - prompt_toolkit=1.0.15
 - psutil=5.4.6
-- ptyprocess=0.5.2
+- ptyprocess=0.6.0
 - pycparser=2.18
 - pygments=2.2.0
 - pyopenssl=18.0.0
@@ -161,7 +161,7 @@ dependencies:
 - r-matrix=1.2_14
 - r-matrixstats=0.53.1
 - r-munsell=0.5.0
-- r-pillar=1.2.1
+- r-pillar=1.2.2
 - r-plyr=1.8.4
 - r-r6=2.2.2
 - r-rcolorbrewer=1.1_2
@@ -192,7 +192,7 @@ dependencies:
 - tk=8.6.7
 - tornado=5.0.2
 - traitlets=4.3.2
-- urllib3=1.22
+- urllib3=1.23
 - wcwidth=0.1.7
 - webencodings=0.5
 - wheel=0.31.0
@@ -228,7 +228,7 @@ dependencies:
 - q2-longitudinal=2018.6.0
 - q2-metadata=2018.6.0
 - q2-phylogeny=2018.6.0
-- q2-quality-control=2018.6.0
+- q2-quality-control=2018.6.1
 - q2-quality-filter=2018.6.0
 - q2-sample-classifier=2018.6.0
 - q2-taxa=2018.6.0
