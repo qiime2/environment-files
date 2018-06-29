@@ -228,13 +228,13 @@ dependencies:
 - q2-longitudinal=2018.8.0.dev0
 - q2-metadata=2018.8.0.dev0
 - q2-phylogeny=2018.8.0.dev0
-- q2-quality-control=2018.8.0.dev0
+- q2-quality-control=2018.8.0.dev0+1.ge43d1e8
 - q2-quality-filter=2018.8.0.dev0
 - q2-sample-classifier=2018.8.0.dev0
 - q2-taxa=2018.8.0.dev0
 - q2-types=2018.8.0.dev0
 - q2-vsearch=2018.8.0.dev0
-- q2cli=2018.8.0.dev0
+- q2cli=2018.8.0.dev0+2.g06130e7
 - q2templates=2018.8.0.dev0
 - qiime2=2018.8.0.dev0+1.g2788661
 - biom-format=2.1.6
