@@ -81,7 +81,7 @@ dependencies:
 - ipywidgets=7.2.1
 - jedi=0.12.0
 - jinja2=2.10
-- jpeg=9b
+- jpeg=9c
 - jsonschema=2.6.0
 - jupyter_client=5.2.3
 - jupyter_core=4.4.0
@@ -112,7 +112,7 @@ dependencies:
 - pandoc=2.2.1
 - pandocfilters=1.4.2
 - pango=1.40.14
-- parso=0.2.1
+- parso=0.3.0
 - patsy=0.5.0
 - pcre=8.39
 - pexpect=4.6.0
@@ -131,7 +131,7 @@ dependencies:
 - pysocks=1.6.8
 - python=3.5.5
 - python-dateutil=2.7.3
-- pytz=2018.4
+- pytz=2018.5
 - pyyaml=3.12
 - pyzmq=17.0.0
 - qt=5.6.2
@@ -203,6 +203,7 @@ dependencies:
 - yaml=0.1.7
 - zeromq=4.2.5
 - zlib=1.2.11
+- bz2file=0.98
 - intel-openmp=2018.0.3
 - libgcc=7.2.0
 - libgcc-ng=7.2.0
@@ -234,7 +235,7 @@ dependencies:
 - q2-taxa=2018.8.0.dev0
 - q2-types=2018.8.0.dev0
 - q2-vsearch=2018.8.0.dev0
-- q2cli=2018.8.0.dev0+2.g06130e7
+- q2cli=2018.8.0.dev0+3.g4a8c1b6
 - q2templates=2018.8.0.dev0
 - qiime2=2018.8.0.dev0+1.g2788661
 - biom-format=2.1.6
