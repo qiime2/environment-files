@@ -207,7 +207,7 @@ dependencies:
   - q2-dada2=2018.8.0.dev0
   - q2-deblur=2018.8.0.dev0
   - q2-demux=2018.8.0.dev0
-  - q2-diversity=2018.8.0.dev0
+  - q2-diversity=2018.8.0.dev0+1.ga08e70a
   - q2-emperor=2018.8.0.dev0
   - q2-feature-classifier=2018.8.0.dev0
   - q2-feature-table=2018.8.0.dev0
@@ -230,5 +230,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/62a76273-6c1f-4918-788d-51f8cf3e72b0/volume/test-env
+prefix: /worker/volumes/live/d2baaca8-a13f-48e9-6674-5809e7e4f904/volume/test-env
 
