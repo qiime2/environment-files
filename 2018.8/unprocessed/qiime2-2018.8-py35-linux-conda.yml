@@ -176,6 +176,7 @@ dependencies:
   - r-viridislite=0.3.0
   - readline=7.0
   - requests=2.19.1
+  - scikit-bio=0.5.2
   - seaborn=0.8.1
   - send2trash=1.5.0
   - setuptools=39.2.0
@@ -230,14 +231,13 @@ dependencies:
   - q2-quality-filter=2018.8.0.dev0
   - q2-sample-classifier=2018.8.0.dev0
   - q2-taxa=2018.8.0.dev0
-  - q2-types=2018.8.0.dev0
+  - q2-types=2018.8.0.dev0+1.g353056c
   - q2-vsearch=2018.8.0.dev0
   - q2cli=2018.8.0.dev0+3.g4a8c1b6
   - q2templates=2018.8.0.dev0
   - qiime2=2018.8.0.dev0+1.g2788661
   - biom-format=2.1.6
   - ijson=2.3
-  - scikit-bio=0.5.1
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
