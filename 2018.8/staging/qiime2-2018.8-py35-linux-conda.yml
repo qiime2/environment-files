@@ -53,7 +53,7 @@ dependencies:
 - cryptography=2.2.1
 - curl=7.60.0
 - cycler=0.10.0
-- cython=0.28.3
+- cython=0.28.4
 - dbus=1.13.0
 - decorator=4.3.0
 - emperor=1.0.0beta16
@@ -101,7 +101,7 @@ dependencies:
 - matplotlib=2.2.2
 - mistune=0.8.3
 - msgpack-python=0.5.6
-- natsort=5.3.2
+- natsort=5.3.3
 - nbconvert=5.3.1
 - nbformat=4.4.0
 - ncurses=5.9
@@ -109,7 +109,7 @@ dependencies:
 - notebook=5.5.0
 - openssl=1.0.2o
 - packaging=17.1
-- pandas=0.23.2
+- pandas=0.23.3
 - pandoc=2.2.1
 - pandocfilters=1.4.2
 - pango=1.40.14
@@ -123,6 +123,7 @@ dependencies:
 - pixman=0.34.0
 - prompt_toolkit=1.0.15
 - psutil=5.4.6
+- pthread-stubs=0.4
 - ptyprocess=0.6.0
 - pycparser=2.18
 - pygments=2.2.0
@@ -166,7 +167,7 @@ dependencies:
 - r-plyr=1.8.4
 - r-r6=2.2.2
 - r-rcolorbrewer=1.1_2
-- r-rcpp=0.12.15
+- r-rcpp=0.12.16
 - r-rcppparallel=4.4.0
 - r-rcurl=1.95_4.8
 - r-reshape2=1.4.3
@@ -183,7 +184,7 @@ dependencies:
 - scikit-bio=0.5.2
 - seaborn=0.8.1
 - send2trash=1.5.0
-- setuptools=39.2.0
+- setuptools=40.0.0
 - simplegeneric=0.8.1
 - sip=4.18
 - six=1.11.0
@@ -230,7 +231,7 @@ dependencies:
 - q2-gneiss=2018.8.0.dev0
 - q2-longitudinal=2018.8.0.dev0
 - q2-metadata=2018.8.0.dev0
-- q2-phylogeny=2018.8.0.dev0+1.gec4d218
+- q2-phylogeny=2018.8.0.dev0+2.ga7a3133
 - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
 - q2-quality-filter=2018.8.0.dev0
 - q2-sample-classifier=2018.8.0.dev0+1.g6158777
