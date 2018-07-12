@@ -192,7 +192,7 @@ dependencies:
   - terminado=0.8.1
   - testpath=0.3.1
   - tk=8.6.7
-  - tornado=5.0.2
+  - tornado=5.1
   - traitlets=4.3.2
   - urllib3=1.23
   - wcwidth=0.1.7
