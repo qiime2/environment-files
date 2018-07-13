@@ -129,7 +129,7 @@ dependencies:
 - python-dateutil=2.7.3
 - pytz=2018.5
 - pyyaml=3.12
-- pyzmq=17.0.0
+- pyzmq=17.1.0
 - r-assertthat=0.2.0
 - r-base=3.4.1
 - r-bh=1.66.0_1
@@ -188,7 +188,7 @@ dependencies:
 - terminado=0.8.1
 - testpath=0.3.1
 - tk=8.6.7
-- tornado=5.0.2
+- tornado=5.1
 - traitlets=4.3.2
 - urllib3=1.23
 - wcwidth=0.1.7
@@ -225,7 +225,7 @@ dependencies:
 - q2-phylogeny=2018.8.0.dev0+2.ga7a3133
 - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
 - q2-quality-filter=2018.8.0.dev0
-- q2-sample-classifier=2018.8.0.dev0+3.g52f006a
+- q2-sample-classifier=2018.8.0.dev0+4.gf0fe7fb
 - q2-taxa=2018.8.0.dev0
 - q2-types=2018.8.0.dev0+1.g353056c
 - q2-vsearch=2018.8.0.dev0
