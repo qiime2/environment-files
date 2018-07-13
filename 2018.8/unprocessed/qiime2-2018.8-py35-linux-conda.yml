@@ -131,7 +131,7 @@ dependencies:
   - python-dateutil=2.7.3
   - pytz=2018.5
   - pyyaml=3.12
-  - pyzmq=17.0.0
+  - pyzmq=17.1.0
   - qt=5.6.2
   - r-assertthat=0.2.0
   - r-base=3.4.1
@@ -233,7 +233,7 @@ dependencies:
   - q2-phylogeny=2018.8.0.dev0+2.ga7a3133
   - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
   - q2-quality-filter=2018.8.0.dev0
-  - q2-sample-classifier=2018.8.0.dev0+3.g52f006a
+  - q2-sample-classifier=2018.8.0.dev0+4.gf0fe7fb
   - q2-taxa=2018.8.0.dev0
   - q2-types=2018.8.0.dev0+1.g353056c
   - q2-vsearch=2018.8.0.dev0
