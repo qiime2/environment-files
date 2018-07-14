@@ -234,7 +234,7 @@ dependencies:
 - q2-gneiss=2018.8.0.dev0
 - q2-longitudinal=2018.8.0.dev0+1.g38f65ad
 - q2-metadata=2018.8.0.dev0
-- q2-phylogeny=2018.8.0.dev0+2.ga7a3133
+- q2-phylogeny=2018.8.0.dev0+3.gce607f0
 - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
 - q2-quality-filter=2018.8.0.dev0
 - q2-sample-classifier=2018.8.0.dev0+4.gf0fe7fb
