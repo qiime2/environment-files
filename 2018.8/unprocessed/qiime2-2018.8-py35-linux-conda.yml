@@ -81,7 +81,7 @@ dependencies:
   - ipykernel=4.8.2
   - ipython=6.4.0
   - ipython_genutils=0.2.0
-  - ipywidgets=7.2.1
+  - ipywidgets=7.3.0
   - jedi=0.12.1
   - jinja2=2.10
   - jpeg=9c
@@ -202,7 +202,7 @@ dependencies:
   - statsmodels=0.9.0
   - terminado=0.8.1
   - testpath=0.3.1
-  - tk=8.6.7
+  - tk=8.6.8
   - tornado=5.1
   - traitlets=4.3.2
   - twisted=18.7.0
@@ -210,7 +210,7 @@ dependencies:
   - wcwidth=0.1.7
   - webencodings=0.5
   - wheel=0.31.1
-  - widgetsnbextension=3.2.1
+  - widgetsnbextension=3.3.0
   - xorg-libxau=1.0.8
   - xorg-libxdmcp=1.1.2
   - xz=5.2.3
