@@ -218,20 +218,20 @@ dependencies:
   - scikit-learn=0.19.1
   - scipy=0.19.1
   - wget=1.19.5
-  - q2-alignment=2018.8.0.dev0
+  - q2-alignment=2018.8.0.dev0+1.gb3d813a
   - q2-composition=2018.8.0.dev0
   - q2-cutadapt=2018.8.0.dev0
   - q2-dada2=2018.8.0.dev0
   - q2-deblur=2018.8.0.dev0
   - q2-demux=2018.8.0.dev0
-  - q2-diversity=2018.8.0.dev0+1.ga08e70a
+  - q2-diversity=2018.8.0.dev0+2.g9be54f8
   - q2-emperor=2018.8.0.dev0
   - q2-feature-classifier=2018.8.0.dev0
   - q2-feature-table=2018.8.0.dev0
   - q2-gneiss=2018.8.0.dev0
   - q2-longitudinal=2018.8.0.dev0+1.g38f65ad
   - q2-metadata=2018.8.0.dev0
-  - q2-phylogeny=2018.8.0.dev0+3.gce607f0
+  - q2-phylogeny=2018.8.0.dev0+5.ga13fb44
   - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
   - q2-quality-filter=2018.8.0.dev0
   - q2-sample-classifier=2018.8.0.dev0+6.gaa7c54c
@@ -246,5 +246,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/aa5b178d-03b0-41fd-6a26-c584f1a461cf/volume/test-env
+prefix: /worker/volumes/live/f8e7c2af-e2c0-41e1-7d94-ab0b83cfcbcf/volume/test-env
 
