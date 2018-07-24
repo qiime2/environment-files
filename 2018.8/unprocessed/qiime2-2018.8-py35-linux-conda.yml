@@ -116,7 +116,7 @@ dependencies:
   - pandoc=2.2.2
   - pandocfilters=1.4.2
   - pango=1.40.14
-  - parso=0.3.0
+  - parso=0.3.1
   - patsy=0.5.0
   - pcre=8.39
   - pexpect=4.6.0
@@ -237,7 +237,7 @@ dependencies:
   - q2-dada2=2018.8.0.dev0
   - q2-deblur=2018.8.0.dev0
   - q2-demux=2018.8.0.dev0
-  - q2-diversity=2018.8.0.dev0+2.g9be54f8
+  - q2-diversity=2018.8.0.dev0+3.g6426d9c
   - q2-emperor=2018.8.0.dev0
   - q2-feature-classifier=2018.8.0.dev0
   - q2-feature-table=2018.8.0.dev0
