@@ -82,7 +82,7 @@ dependencies:
   - ipykernel=4.8.2
   - ipython=6.5.0
   - ipython_genutils=0.2.0
-  - ipywidgets=7.3.2
+  - ipywidgets=7.4.0
   - jedi=0.12.1
   - jinja2=2.10
   - jpeg=9c
@@ -211,7 +211,7 @@ dependencies:
   - wcwidth=0.1.7
   - webencodings=0.5
   - wheel=0.31.1
-  - widgetsnbextension=3.3.1
+  - widgetsnbextension=3.4.0
   - xorg-libxau=1.0.8
   - xorg-libxdmcp=1.1.2
   - xz=5.2.4
@@ -242,7 +242,7 @@ dependencies:
   - q2-feature-classifier=2018.8.0.dev0
   - q2-feature-table=2018.8.0.dev0
   - q2-gneiss=2018.8.0.dev0
-  - q2-longitudinal=2018.8.0.dev0+4.g1967617
+  - q2-longitudinal=2018.8.0.dev0+5.gb80bc79
   - q2-metadata=2018.8.0.dev0
   - q2-phylogeny=2018.8.0.dev0+5.ga13fb44
   - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
