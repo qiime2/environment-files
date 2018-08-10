@@ -97,7 +97,7 @@ dependencies:
   - llvmdev=6.0.0
   - lockfile=0.12.2
   - markupsafe=1.0
-  - matplotlib=2.2.2
+  - matplotlib=2.2.3
   - mistune=0.8.3
   - msgpack-python=0.5.6
   - natsort=5.3.3
@@ -136,7 +136,7 @@ dependencies:
   - python-dateutil=2.7.3
   - pytz=2018.5
   - pyyaml=3.12
-  - pyzmq=17.1.0
+  - pyzmq=17.1.2
   - r-assertthat=0.2.0
   - r-base=3.4.1
   - r-bh=1.66.0_1
@@ -235,7 +235,7 @@ dependencies:
   - q2-phylogeny=2018.8.0.dev0+5.ga13fb44
   - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
   - q2-quality-filter=2018.8.0.dev0
-  - q2-sample-classifier=2018.8.0.dev0+11.gb559366
+  - q2-sample-classifier=2018.8.0.dev0+13.g5fc7c78
   - q2-taxa=2018.8.0.dev0
   - q2-types=2018.8.0.dev0+1.g353056c
   - q2-vsearch=2018.8.0.dev0
@@ -245,5 +245,5 @@ dependencies:
   - biom-format=2.1.6
   - ijson=2.3
   - tzlocal=1.3
-prefix: /worker/volumes/live/570a209e-28d7-489d-6091-6810d8760f65/volume/test-env
+prefix: /worker/volumes/live/af8797ea-a3dc-44c7-54f9-97ee9180f051/volume/test-env
 
