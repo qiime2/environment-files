@@ -50,7 +50,7 @@ dependencies:
 - certifi=2018.4.16
 - cffi=1.11.5
 - chardet=3.0.4
-- clangdev=6.0.0
+- clangdev=6.0.1
 - click=6.7
 - constantly=15.1.0
 - cryptography=2.3
@@ -89,7 +89,7 @@ dependencies:
 - jupyter_core=4.4.0
 - kiwisolver=1.0.1
 - krb5=1.14.6
-- libcxx=6.0.0
+- libcxx=6.0.1
 - libffi=3.2.1
 - libiconv=1.15
 - libpng=1.6.34
@@ -97,8 +97,8 @@ dependencies:
 - libssh2=1.8.0
 - libtiff=4.0.9
 - libxml2=2.9.8
-- llvm-meta=6.0.0
-- llvmdev=6.0.0
+- llvm-meta=6.0.1
+- llvmdev=6.0.1
 - lockfile=0.12.2
 - markupsafe=1.0
 - matplotlib=2.2.3
@@ -234,7 +234,7 @@ dependencies:
 - q2-feature-classifier=2018.8.0.dev0
 - q2-feature-table=2018.8.0.dev0
 - q2-gneiss=2018.8.0.dev0
-- q2-longitudinal=2018.8.0.dev0+5.gb80bc79
+- q2-longitudinal=2018.8.0.dev0+6.g1238f7f
 - q2-metadata=2018.8.0.dev0
 - q2-phylogeny=2018.8.0.dev0+5.ga13fb44
 - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
