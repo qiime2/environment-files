@@ -242,7 +242,7 @@ dependencies:
   - q2-feature-classifier=2018.8.0.dev0
   - q2-feature-table=2018.8.0.dev0
   - q2-gneiss=2018.8.0.dev0
-  - q2-longitudinal=2018.8.0.dev0+5.gb80bc79
+  - q2-longitudinal=2018.8.0.dev0+6.g1238f7f
   - q2-metadata=2018.8.0.dev0
   - q2-phylogeny=2018.8.0.dev0+5.ga13fb44
   - q2-quality-control=2018.8.0.dev0+1.ge43d1e8
