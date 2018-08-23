@@ -205,7 +205,7 @@ dependencies:
 - seaborn=0.9.0
 - send2trash=1.5.0
 - service_identity=17.0.0
-- setuptools=40.0.0
+- setuptools=40.2.0
 - simplegeneric=0.8.1
 - sip=4.18
 - six=1.11.0
@@ -255,7 +255,7 @@ dependencies:
 - q2-sample-classifier=2018.8.0.dev0+13.g5fc7c78
 - q2-taxa=2018.8.0.dev0
 - q2-types=2018.8.0.dev0+4.g88a119a
-- q2-vsearch=2018.8.0.dev0
+- q2-vsearch=2018.8.0.dev0+3.g26e5237
 - q2cli=2018.8.0.dev0+3.g4a8c1b6
 - q2templates=2018.8.0.dev0+2.gba4f4a5
 - qiime2=2018.8.0.dev0+4.g566c0f8
