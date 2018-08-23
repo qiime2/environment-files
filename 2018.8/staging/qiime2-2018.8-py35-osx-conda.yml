@@ -59,7 +59,7 @@ dependencies:
 - cycler=0.10.0
 - cython=0.28.5
 - decorator=4.3.0
-- emperor=1.0.0beta16
+- emperor=1.0.0beta17
 - entrypoints=0.2.3
 - fastcluster=1.1.25
 - fontconfig=2.13.0
@@ -231,7 +231,7 @@ dependencies:
 - q2-deblur=2018.8.0.dev0+3.g2a790df
 - q2-demux=2018.8.0.dev0
 - q2-diversity=2018.8.0.dev0+3.g6426d9c
-- q2-emperor=2018.8.0.dev0
+- q2-emperor=2018.8.0.dev0+3.g09314ba
 - q2-feature-classifier=2018.8.0.dev0+3.g27e9157
 - q2-feature-table=2018.8.0.dev0
 - q2-gneiss=2018.8.0.dev0
