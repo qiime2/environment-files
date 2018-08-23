@@ -252,7 +252,7 @@ dependencies:
 - q2-phylogeny=2018.8.0.dev0+11.g707c4e3
 - q2-quality-control=2018.8.0.dev0+4.ga7be52f
 - q2-quality-filter=2018.8.0.dev0
-- q2-sample-classifier=2018.8.0.dev0+13.g5fc7c78
+- q2-sample-classifier=2018.8.0.dev0+14.geb800d8
 - q2-taxa=2018.8.0.dev0
 - q2-types=2018.8.0.dev0+4.g88a119a
 - q2-vsearch=2018.8.0.dev0+3.g26e5237
