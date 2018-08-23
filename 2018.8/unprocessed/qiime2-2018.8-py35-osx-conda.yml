@@ -190,7 +190,7 @@ dependencies:
   - seaborn=0.9.0
   - send2trash=1.5.0
   - service_identity=17.0.0
-  - setuptools=40.0.0
+  - setuptools=40.2.0
   - simplegeneric=0.8.1
   - six=1.11.0
   - sqlite=3.20.1
@@ -239,7 +239,7 @@ dependencies:
   - q2-sample-classifier=2018.8.0.dev0+13.g5fc7c78
   - q2-taxa=2018.8.0.dev0
   - q2-types=2018.8.0.dev0+4.g88a119a
-  - q2-vsearch=2018.8.0.dev0
+  - q2-vsearch=2018.8.0.dev0+3.g26e5237
   - q2cli=2018.8.0.dev0+3.g4a8c1b6
   - q2templates=2018.8.0.dev0+2.gba4f4a5
   - qiime2=2018.8.0.dev0+4.g566c0f8
@@ -248,5 +248,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/22b58338-e13e-4acc-73a4-42e01beebb44/volume/test-env
+prefix: /worker/volumes/live/d8e27b11-f9ed-4999-4cbc-2da9d1ced64a/volume/test-env
 
