@@ -44,10 +44,10 @@ dependencies:
 - bibtexparser=1.0.1
 - bleach=2.1.4
 - bokeh=0.13.0
-- ca-certificates=2018.8.13
+- ca-certificates=2018.8.24
 - cachecontrol=0.12.5
 - cairo=1.14.12
-- certifi=2018.8.13
+- certifi=2018.8.24
 - cffi=1.11.5
 - chardet=3.0.4
 - clangdev=6.0.1
@@ -230,7 +230,7 @@ dependencies:
 - q2-dada2=2018.8.0.dev0
 - q2-deblur=2018.8.0.dev0+3.g2a790df
 - q2-demux=2018.8.0.dev0
-- q2-diversity=2018.8.0.dev0+3.g6426d9c
+- q2-diversity=2018.8.0.dev0+6.g2c2d99b
 - q2-emperor=2018.8.0.dev0+3.g09314ba
 - q2-feature-classifier=2018.8.0.dev0+3.g27e9157
 - q2-feature-table=2018.8.0.dev0
