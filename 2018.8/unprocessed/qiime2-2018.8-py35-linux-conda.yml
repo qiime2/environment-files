@@ -147,7 +147,7 @@ dependencies:
   - python=3.5.5
   - python-dateutil=2.7.3
   - pytz=2018.5
-  - pyyaml=3.12
+  - pyyaml=3.13
   - pyzmq=17.1.2
   - qt=5.6.2
   - r-assertthat=0.2.0
@@ -197,13 +197,13 @@ dependencies:
   - r-withr=2.1.1
   - readline=7.0
   - requests=2.19.1
-  - scikit-bio=0.5.3
+  - scikit-bio=0.5.4
   - seaborn=0.9.0
   - send2trash=1.5.0
   - service_identity=17.0.0
   - setuptools=40.2.0
   - simplegeneric=0.8.1
-  - sip=4.18
+  - sip=4.18.1
   - six=1.11.0
   - sqlite=3.20.1
   - statsmodels=0.9.0
@@ -215,7 +215,7 @@ dependencies:
   - twisted=18.7.0
   - urllib3=1.23
   - wcwidth=0.1.7
-  - webencodings=0.5
+  - webencodings=0.5.1
   - wheel=0.31.1
   - widgetsnbextension=3.4.0
   - xorg-libxau=1.0.8
@@ -233,7 +233,7 @@ dependencies:
   - scikit-learn=0.19.1
   - scipy=0.19.1
   - wget=1.19.5
-  - q2-alignment=2018.8.0.dev0+3.g274d232
+  - q2-alignment=2018.8.0.dev0+5.gedf338d
   - q2-composition=2018.8.0.dev0+4.gb8a88f6
   - q2-cutadapt=2018.8.0.dev0
   - q2-dada2=2018.8.0.dev0
