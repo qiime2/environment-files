@@ -227,7 +227,7 @@ dependencies:
   - q2-dada2=2018.8.0.dev0
   - q2-deblur=2018.8.0.dev0+3.g2a790df
   - q2-demux=2018.8.0.dev0
-  - q2-diversity=2018.8.0.dev0+7.g66a3a2d
+  - q2-diversity=2018.8.0.dev0+9.g0fa1415
   - q2-emperor=2018.8.0.dev0+4.g030256f
   - q2-feature-classifier=2018.8.0.dev0+3.g27e9157
   - q2-feature-table=2018.8.0.dev0
@@ -237,7 +237,7 @@ dependencies:
   - q2-phylogeny=2018.8.0.dev0+11.g707c4e3
   - q2-quality-control=2018.8.0.dev0+4.ga7be52f
   - q2-quality-filter=2018.8.0.dev0
-  - q2-sample-classifier=2018.8.0.dev0+14.geb800d8
+  - q2-sample-classifier=2018.8.0.dev0+15.g55a4197
   - q2-taxa=2018.8.0.dev0
   - q2-types=2018.8.0.dev0+8.g45b2949
   - q2-vsearch=2018.8.0.dev0+3.g26e5237
@@ -249,5 +249,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/5b73c918-1393-4df2-5bc8-8b788f281d2a/volume/test-env
+prefix: /worker/volumes/live/9e01f7ea-8709-4f53-7609-08f833f2c13b/volume/test-env
 
