@@ -23,7 +23,7 @@ dependencies:
   - cutadapt=1.17
   - deblur=1.0.4
   - fasttree=2.1.10
-  - iqtree=1.5.5
+  - iqtree=1.6.7
   - mafft=7.310
   - raxml=8.2.10
   - sortmerna=2.0
@@ -108,6 +108,7 @@ dependencies:
   - ncurses=5.9
   - nose=1.3.7
   - notebook=5.6.0
+  - openmp=6.0.1
   - openssl=1.0.2p
   - packaging=17.1
   - pandas=0.22.0
@@ -232,12 +233,12 @@ dependencies:
   - q2-feature-classifier=2018.10.0.dev0
   - q2-feature-table=2018.10.0.dev0
   - q2-gneiss=2018.10.0.dev0
-  - q2-longitudinal=2018.10.0.dev0
+  - q2-longitudinal=2018.10.0.dev0+1.g94be41d
   - q2-metadata=2018.10.0.dev0
   - q2-phylogeny=2018.10.0.dev0
   - q2-quality-control=2018.10.0.dev0
   - q2-quality-filter=2018.10.0.dev0
-  - q2-sample-classifier=2018.10.0.dev0
+  - q2-sample-classifier=2018.10.0.dev0+1.gdb5adda
   - q2-taxa=2018.10.0.dev0
   - q2-types=2018.10.0.dev0
   - q2-vsearch=2018.10.0.dev0
@@ -249,5 +250,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/c27b8344-0ecf-472c-408f-f1f87747bdeb/volume/test-env
+prefix: /worker/volumes/live/a71d4bc4-5932-4924-516f-e3c4241acf8c/volume/test-env
 
