@@ -20,7 +20,7 @@ dependencies:
   - bioconductor-xvector=0.18.0
   - bioconductor-zlibbioc=1.24.0
   - blast=2.6.0
-  - cutadapt=1.17
+  - cutadapt=1.18
   - deblur=1.0.4
   - fasttree=2.1.10
   - iqtree=1.6.7
@@ -55,7 +55,6 @@ dependencies:
   - cycler=0.10.0
   - cython=0.28.5
   - decorator=4.3.0
-  - defusedxml=0.5.0
   - emperor=1.0.0beta17
   - entrypoints=0.2.3
   - fastcluster=1.1.25
@@ -67,7 +66,7 @@ dependencies:
   - graphite2=1.3.12
   - gsl=2.1
   - h5py=2.7.0
-  - harfbuzz=1.8.8
+  - harfbuzz=1.9.0
   - hdf5=1.8.17
   - hdmedians=0.13
   - html5lib=1.0.1
@@ -104,7 +103,7 @@ dependencies:
   - mistune=0.8.3
   - msgpack-python=0.5.6
   - natsort=5.4.0
-  - nbconvert=5.4.0
+  - nbconvert=5.3.1
   - nbformat=4.4.0
   - ncurses=5.9
   - nose=1.3.7
@@ -149,8 +148,8 @@ dependencies:
   - r-colorspace=1.3_2
   - r-crayon=1.3.4
   - r-data.table=1.11.4
-  - r-dichromat=2.0_0
   - r-digest=0.6.16
+  - r-fansi=0.3.0
   - r-futile.logger=1.4.3
   - r-futile.options=1.0.0
   - r-ggplot2=3.0.0
@@ -165,11 +164,11 @@ dependencies:
   - r-magrittr=1.5
   - r-mass=7.3_50
   - r-matrix=1.2_14
-  - r-matrixstats=0.53.1
+  - r-matrixstats=0.54.0
   - r-mgcv=1.8_24
   - r-munsell=0.5.0
   - r-nlme=3.1_137
-  - r-pillar=1.2.2
+  - r-pillar=1.3.0
   - r-plyr=1.8.4
   - r-r6=2.2.2
   - r-rcolorbrewer=1.1_2
@@ -239,7 +238,7 @@ dependencies:
   - q2-phylogeny=2018.10.0.dev0
   - q2-quality-control=2018.10.0.dev0
   - q2-quality-filter=2018.10.0.dev0
-  - q2-sample-classifier=2018.10.0.dev0+1.gdb5adda
+  - q2-sample-classifier=2018.10.0.dev0+2.gfa4d3eb
   - q2-taxa=2018.10.0.dev0
   - q2-types=2018.10.0.dev0
   - q2-vsearch=2018.10.0.dev0
@@ -251,5 +250,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/8063c4e0-15fc-4f47-430a-f63b69caa0c3/volume/test-env
+prefix: /worker/volumes/live/763c1e48-e18e-47b4-4ae5-63d5b31a49bd/volume/test-env
 
