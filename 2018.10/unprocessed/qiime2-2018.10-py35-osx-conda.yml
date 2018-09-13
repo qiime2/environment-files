@@ -31,11 +31,8 @@ dependencies:
   - xopen=0.3.2
   - gneiss=0.4.4
   - unifrac=0.9.2
-  - appdirs=1.4.3
   - appnope=0.1.0
   - asn1crypto=0.24.0
-  - attrs=18.2.0
-  - automat=0.7.0
   - backcall=0.1.0
   - bibtexparser=1.0.1
   - bleach=2.1.4
@@ -48,7 +45,6 @@ dependencies:
   - chardet=3.0.4
   - clangdev=6.0.1
   - click=6.7
-  - constantly=15.1.0
   - cryptography=2.3.1
   - cryptography-vectors=2.3.1
   - curl=7.61.0
@@ -58,7 +54,7 @@ dependencies:
   - emperor=1.0.0beta17
   - entrypoints=0.2.3
   - fastcluster=1.1.25
-  - fontconfig=2.13.0
+  - fontconfig=2.13.1
   - freetype=2.9.1
   - future=0.16.0
   - gettext=0.19.8.1
@@ -70,10 +66,8 @@ dependencies:
   - hdf5=1.8.17
   - hdmedians=0.13
   - html5lib=1.0.1
-  - hyperlink=17.3.1
   - icu=58.2
   - idna=2.7
-  - incremental=17.5.0
   - ipykernel=4.9.0
   - ipython=6.5.0
   - ipython_genutils=0.2.0
@@ -123,15 +117,12 @@ dependencies:
   - pigz=2.3.4
   - pip=18.0
   - pixman=0.34.0
-  - prometheus_client=0.3.0
+  - prometheus_client=0.3.1
   - prompt_toolkit=1.0.15
   - psutil=5.4.7
   - ptyprocess=0.6.0
-  - pyasn1=0.4.4
-  - pyasn1-modules=0.2.1
   - pycparser=2.18
   - pygments=2.2.0
-  - pyhamcrest=1.9.0
   - pyopenssl=18.0.0
   - pyparsing=2.2.0
   - pysocks=1.6.8
@@ -190,7 +181,6 @@ dependencies:
   - scikit-bio=0.5.4
   - seaborn=0.9.0
   - send2trash=1.5.0
-  - service_identity=17.0.0
   - setuptools=40.2.0
   - simplegeneric=0.8.1
   - six=1.11.0
@@ -201,7 +191,6 @@ dependencies:
   - tk=8.6.8
   - tornado=5.1
   - traitlets=4.3.2
-  - twisted=18.7.0
   - urllib3=1.23
   - wcwidth=0.1.7
   - webencodings=0.5.1
@@ -211,14 +200,13 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-  - zope.interface=4.5.0
   - blas=1.0
   - bz2file=0.98
-  - intel-openmp=2018.0.3
+  - intel-openmp=2019.0
   - libgfortran=3.0.1
-  - mkl=2018.0.3
+  - mkl=2019.0
   - numpy=1.12.1
-  - openjdk=8.0.121
+  - openjdk=8.0.152
   - scikit-learn=0.19.1
   - scipy=0.19.1
   - wget=1.19.5
@@ -250,5 +238,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/763c1e48-e18e-47b4-4ae5-63d5b31a49bd/volume/test-env
+prefix: /worker/volumes/live/7cccd448-61c6-4552-4d6b-327c52ae5ac1/volume/test-env
 
