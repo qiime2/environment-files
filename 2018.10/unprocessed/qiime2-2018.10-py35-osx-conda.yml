@@ -2,6 +2,7 @@ name: null
 channels:
   - defaults
 dependencies:
+  - arb-bio-tools=6.0.6
   - bioconductor-biobase=2.38.0
   - bioconductor-biocgenerics=0.24.0
   - bioconductor-biocparallel=1.12.0
@@ -24,8 +25,10 @@ dependencies:
   - deblur=1.0.4
   - fasttree=2.1.10
   - iqtree=1.6.7
+  - libarbdb=6.0.6
   - mafft=7.310
   - raxml=8.2.10
+  - sina=1.3.5
   - sortmerna=2.0
   - vsearch=2.7.0
   - xopen=0.3.2
@@ -37,6 +40,10 @@ dependencies:
   - bibtexparser=1.0.1
   - bleach=2.1.4
   - bokeh=0.13.0
+  - boost=1.67.0
+  - boost-cpp=1.67.0
+  - bz2file=0.98
+  - bzip2=1.0.6
   - ca-certificates=2018.8.24
   - cachecontrol=0.12.5
   - cairo=1.14.12
@@ -71,7 +78,7 @@ dependencies:
   - ipykernel=4.9.0
   - ipython=6.5.0
   - ipython_genutils=0.2.0
-  - ipywidgets=7.4.1
+  - ipywidgets=7.4.2
   - jedi=0.12.1
   - jinja2=2.10
   - jpeg=9c
@@ -101,7 +108,7 @@ dependencies:
   - nbformat=4.4.0
   - ncurses=5.9
   - nose=1.3.7
-  - notebook=5.6.0
+  - notebook=5.7.0
   - openmp=6.0.1
   - openssl=1.0.2p
   - packaging=17.1
@@ -121,10 +128,10 @@ dependencies:
   - prompt_toolkit=1.0.15
   - psutil=5.4.7
   - ptyprocess=0.6.0
-  - pycparser=2.18
+  - pycparser=2.19
   - pygments=2.2.0
   - pyopenssl=18.0.0
-  - pyparsing=2.2.0
+  - pyparsing=2.2.1
   - pysocks=1.6.8
   - python=3.5.5
   - python-dateutil=2.7.3
@@ -141,14 +148,15 @@ dependencies:
   - r-data.table=1.11.4
   - r-digest=0.6.16
   - r-fansi=0.3.0
+  - r-formatr=1.5
   - r-futile.logger=1.4.3
-  - r-futile.options=1.0.0
+  - r-futile.options=1.0.1
   - r-ggplot2=3.0.0
   - r-glue=1.3.0
   - r-gtable=0.2.0
   - r-hwriter=1.3.2
   - r-labeling=0.3
-  - r-lambda.r=1.2
+  - r-lambda.r=1.2.3
   - r-lattice=0.20_35
   - r-latticeextra=0.6_28
   - r-lazyeval=0.2.1
@@ -181,7 +189,7 @@ dependencies:
   - scikit-bio=0.5.4
   - seaborn=0.9.0
   - send2trash=1.5.0
-  - setuptools=40.2.0
+  - setuptools=40.4.0
   - simplegeneric=0.8.1
   - six=1.11.0
   - sqlite=3.20.1
@@ -189,19 +197,18 @@ dependencies:
   - terminado=0.8.1
   - testpath=0.3.1
   - tk=8.6.8
-  - tornado=5.1
+  - tornado=5.1.1
   - traitlets=4.3.2
   - urllib3=1.23
   - wcwidth=0.1.7
   - webencodings=0.5.1
   - wheel=0.31.1
-  - widgetsnbextension=3.4.1
+  - widgetsnbextension=3.4.2
   - xz=5.2.4
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
   - blas=1.0
-  - bz2file=0.98
   - intel-openmp=2019.0
   - libgfortran=3.0.1
   - mkl=2019.0
@@ -210,7 +217,7 @@ dependencies:
   - scikit-learn=0.19.1
   - scipy=0.19.1
   - wget=1.19.5
-  - q2-alignment=2018.10.0.dev0
+  - q2-alignment=2018.10.0.dev0+1.gae8420e
   - q2-composition=2018.10.0.dev0
   - q2-cutadapt=2018.10.0.dev0
   - q2-dada2=2018.10.0.dev0
@@ -218,13 +225,13 @@ dependencies:
   - q2-demux=2018.10.0.dev0
   - q2-diversity=2018.10.0.dev0
   - q2-emperor=2018.10.0.dev0
-  - q2-feature-classifier=2018.10.0.dev0
+  - q2-feature-classifier=2018.10.0.dev0+1.g09376d0
   - q2-feature-table=2018.10.0.dev0
   - q2-gneiss=2018.10.0.dev0+1.g942e0a2
   - q2-longitudinal=2018.10.0.dev0+1.g94be41d
   - q2-metadata=2018.10.0.dev0
   - q2-phylogeny=2018.10.0.dev0
-  - q2-quality-control=2018.10.0.dev0
+  - q2-quality-control=2018.10.0.dev0+1.g9d7a10c
   - q2-quality-filter=2018.10.0.dev0
   - q2-sample-classifier=2018.10.0.dev0+2.gfa4d3eb
   - q2-taxa=2018.10.0.dev0
@@ -238,5 +245,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/7cccd448-61c6-4552-4d6b-327c52ae5ac1/volume/test-env
+prefix: /worker/volumes/live/308526a0-b08c-42fe-6732-e575b1ff2a93/volume/test-env
 
