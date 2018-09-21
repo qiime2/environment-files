@@ -217,7 +217,7 @@ dependencies:
   - scikit-learn=0.19.1
   - scipy=0.19.1
   - wget=1.19.5
-  - q2-alignment=2018.10.0.dev0+1.gae8420e
+  - q2-alignment=2018.10.0.dev0+2.gf3b2b84
   - q2-composition=2018.10.0.dev0
   - q2-cutadapt=2018.10.0.dev0
   - q2-dada2=2018.10.0.dev0
@@ -245,5 +245,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/308526a0-b08c-42fe-6732-e575b1ff2a93/volume/test-env
+prefix: /worker/volumes/live/d17f48f7-4af9-427d-6780-844d4acab47d/volume/test-env
 
