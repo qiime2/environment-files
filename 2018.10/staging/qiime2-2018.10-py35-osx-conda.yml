@@ -221,7 +221,7 @@ dependencies:
 - scikit-learn=0.19.1
 - scipy=0.19.1
 - wget=1.19.5
-- q2-alignment=2018.10.0.dev0+1.gae8420e
+- q2-alignment=2018.10.0.dev0+2.gf3b2b84
 - q2-composition=2018.10.0.dev0
 - q2-cutadapt=2018.10.0.dev0
 - q2-dada2=2018.10.0.dev0
