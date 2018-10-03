@@ -221,7 +221,7 @@ dependencies:
 - scikit-bio=0.5.4
 - seaborn=0.9.0
 - send2trash=1.5.0
-- setuptools=40.4.0
+- setuptools=40.4.3
 - simplegeneric=0.8.1
 - sip=4.18.1
 - six=1.11.0
@@ -270,7 +270,7 @@ dependencies:
 - q2-diversity=2018.11.0.dev0
 - q2-emperor=2018.11.0.dev0
 - q2-feature-classifier=2018.11.0.dev0+1.ga4e7023
-- q2-feature-table=2018.11.0.dev0
+- q2-feature-table=2018.11.0.dev0+2.gbc8b108
 - q2-gneiss=2018.11.0.dev0
 - q2-longitudinal=2018.11.0.dev0
 - q2-metadata=2018.11.0.dev0
