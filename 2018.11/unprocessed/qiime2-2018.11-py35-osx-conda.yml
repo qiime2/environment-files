@@ -189,7 +189,7 @@ dependencies:
   - scikit-bio=0.5.4
   - seaborn=0.9.0
   - send2trash=1.5.0
-  - setuptools=40.4.0
+  - setuptools=40.4.3
   - simplegeneric=0.8.1
   - six=1.11.0
   - sqlite=3.20.1
@@ -226,7 +226,7 @@ dependencies:
   - q2-diversity=2018.11.0.dev0
   - q2-emperor=2018.11.0.dev0
   - q2-feature-classifier=2018.11.0.dev0+1.ga4e7023
-  - q2-feature-table=2018.11.0.dev0
+  - q2-feature-table=2018.11.0.dev0+2.gbc8b108
   - q2-gneiss=2018.11.0.dev0
   - q2-longitudinal=2018.11.0.dev0
   - q2-metadata=2018.11.0.dev0
@@ -245,5 +245,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/3d50baea-4e16-4aea-6275-e393ba89366a/volume/test-env
+prefix: /worker/volumes/live/5b108278-43e4-4f99-7a98-3766dd1b9101/volume/test-env
 
