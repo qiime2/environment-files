@@ -229,12 +229,12 @@ dependencies:
   - q2-feature-classifier=2018.11.0.dev0+1.ga4e7023
   - q2-feature-table=2018.11.0.dev0+3.g345ac6e
   - q2-gneiss=2018.11.0.dev0
-  - q2-longitudinal=2018.11.0.dev0
+  - q2-longitudinal=2018.11.0.dev0+1.gb4139da
   - q2-metadata=2018.11.0.dev0
   - q2-phylogeny=2018.11.0.dev0
   - q2-quality-control=2018.11.0.dev0
   - q2-quality-filter=2018.11.0.dev0
-  - q2-sample-classifier=2018.11.0.dev0+1.gc78ced4
+  - q2-sample-classifier=2018.11.0.dev0+2.g29d2d0a
   - q2-taxa=2018.11.0.dev0
   - q2-types=2018.11.0.dev0
   - q2-vsearch=2018.11.0.dev0
@@ -245,5 +245,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/afed8cb9-5ac0-4cdd-4ecb-99d865881504/volume/test-env
+prefix: /worker/volumes/live/c6877a9d-4522-498f-5158-e8be1f2d497e/volume/test-env
 
