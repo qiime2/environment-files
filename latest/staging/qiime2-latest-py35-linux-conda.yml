@@ -60,7 +60,7 @@ dependencies:
 - backcall=0.1.0
 - bibtexparser=1.0.1
 - biom-format=2.1.7
-- bleach=2.1.4
+- bleach=3.0.0
 - bokeh=0.13.0
 - boost=1.67.0
 - boost-cpp=1.67.0
@@ -273,12 +273,12 @@ dependencies:
 - q2-feature-classifier=2018.11.0.dev0+1.ga4e7023
 - q2-feature-table=2018.11.0.dev0+3.g345ac6e
 - q2-gneiss=2018.11.0.dev0
-- q2-longitudinal=2018.11.0.dev0
+- q2-longitudinal=2018.11.0.dev0+1.gb4139da
 - q2-metadata=2018.11.0.dev0
 - q2-phylogeny=2018.11.0.dev0
 - q2-quality-control=2018.11.0.dev0
 - q2-quality-filter=2018.11.0.dev0
-- q2-sample-classifier=2018.11.0.dev0+1.gc78ced4
+- q2-sample-classifier=2018.11.0.dev0+2.g29d2d0a
 - q2-taxa=2018.11.0.dev0
 - q2-types=2018.11.0.dev0
 - q2-vsearch=2018.11.0.dev0
