@@ -225,7 +225,7 @@ dependencies:
   - q2-demux=2018.11.0.dev0+1.g624fd63
   - q2-diversity=2018.11.0.dev0+1.g13c1ebf
   - q2-emperor=2018.11.0.dev0+1.gbf7ede5
-  - q2-feature-classifier=2018.11.0.dev0+2.gb461947
+  - q2-feature-classifier=2018.11.0.dev0+3.g31eb03b
   - q2-feature-table=2018.11.0.dev0+4.g66dcc6b
   - q2-gneiss=2018.11.0.dev0+1.g4a1d44f
   - q2-longitudinal=2018.11.0.dev0+3.gcb8460c
@@ -244,5 +244,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/c53373c8-146f-4597-59ac-bfaf33464296/volume/test-env
+prefix: /worker/volumes/live/067269ef-c3b6-4c6d-5f7e-d0325f6cb6dc/volume/test-env
 
