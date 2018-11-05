@@ -237,12 +237,12 @@ dependencies:
   - q2-taxa=2018.11.0.dev0+1.g1d04a4e
   - q2-types=2018.11.0.dev0+1.gc29cb8d
   - q2-vsearch=2018.11.0.dev0+1.g798488e
-  - q2cli=2018.11.0.dev0+1.g0bae666
+  - q2cli=2018.11.0.dev0+2.gb8a2d09
   - q2templates=2018.11.0.dev0+1.g2f3ae98
   - qiime2=2018.11.0.dev0+3.g6aca027
   - ijson=2.3
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/d2091b87-cbff-4a67-75f4-b6e6fce8b54b/volume/test-env
+prefix: /worker/volumes/live/56e4e47f-5c29-4016-62e3-dce4870104aa/volume/test-env
 
