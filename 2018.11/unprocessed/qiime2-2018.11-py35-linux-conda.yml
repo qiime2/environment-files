@@ -76,7 +76,7 @@ dependencies:
   - cython=0.28.5
   - dbus=1.13.0
   - decorator=4.3.0
-  - emperor=1.0.0beta17
+  - emperor=1.0.0beta18
   - entrypoints=0.2.3
   - expat=2.2.5
   - fastcluster=1.1.25
@@ -264,7 +264,7 @@ dependencies:
   - q2-deblur=2018.11.0.dev0+1.gf002a21
   - q2-demux=2018.11.0.dev0+1.g624fd63
   - q2-diversity=2018.11.0.dev0+1.g13c1ebf
-  - q2-emperor=2018.11.0.dev0+2.gc87c5de
+  - q2-emperor=2018.11.0.dev0+3.g13f1c3f
   - q2-feature-classifier=2018.11.0.dev0+4.gc759b8a
   - q2-feature-table=2018.11.0.dev0+5.gac8ef7d
   - q2-gneiss=2018.11.0.dev0+1.g4a1d44f
