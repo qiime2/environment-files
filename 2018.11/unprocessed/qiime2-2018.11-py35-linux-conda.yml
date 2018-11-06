@@ -221,7 +221,7 @@ dependencies:
   - simplegeneric=0.8.1
   - sip=4.18.1
   - six=1.11.0
-  - sqlite=3.25.2
+  - sqlite=3.25.3
   - statsmodels=0.9.0
   - terminado=0.8.1
   - testpath=0.3.1
@@ -263,7 +263,7 @@ dependencies:
   - q2-dada2=2018.11.0.dev0+6.ge92d9ab
   - q2-deblur=2018.11.0.dev0+2.ga1a55e2
   - q2-demux=2018.11.0.dev0+2.g95f1ebd
-  - q2-diversity=2018.11.0.dev0+2.g48eb2e4
+  - q2-diversity=2018.11.0.dev0+3.g476659b
   - q2-emperor=2018.11.0.dev0+4.g875e11a
   - q2-feature-classifier=2018.11.0.dev0+5.g9a9c9dd
   - q2-feature-table=2018.11.0.dev0+6.g7ea0ca0
