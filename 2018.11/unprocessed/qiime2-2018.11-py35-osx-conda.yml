@@ -228,7 +228,7 @@ dependencies:
   - q2-diversity=2018.11.0.dev0+4.gb4aef83
   - q2-emperor=2018.11.0.dev0+6.gf57da5c
   - q2-feature-classifier=2018.11.0.dev0+5.g9a9c9dd
-  - q2-feature-table=2018.11.0.dev0+6.g7ea0ca0
+  - q2-feature-table=2018.11.0.dev0+7.gf1dfea2
   - q2-fragment-insertion=2018.11.0.dev0+5.g4ca1932
   - q2-gneiss=2018.11.0.dev0+2.g41f8db7
   - q2-longitudinal=2018.11.0.dev0+6.gca36291
@@ -240,12 +240,12 @@ dependencies:
   - q2-taxa=2018.11.0.dev0+2.g4866d0c
   - q2-types=2018.11.0.dev0+4.gb6eaa95
   - q2-vsearch=2018.11.0.dev0+2.g260cbf8
-  - q2cli=2018.11.0.dev0+3.g65e3171
+  - q2cli=2018.11.0.dev0+4.g8d9e5e4
   - q2templates=2018.11.0.dev0+2.g323818d
-  - qiime2=2018.11.0.dev0+4.g49791e6
+  - qiime2=2018.11.0.dev0+5.g1185ecb
   - ijson=2.3
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/cef7b114-e59c-4eba-6202-194c9cd8076f/volume/test-env
+prefix: /worker/volumes/live/c7f96d3d-4ffa-4730-58de-6797627717d3/volume/test-env
 
