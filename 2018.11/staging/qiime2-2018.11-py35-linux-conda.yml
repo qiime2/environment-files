@@ -268,7 +268,7 @@ dependencies:
 - q2-cutadapt=2018.11.0.dev0+2.ga14a7ad
 - q2-dada2=2018.11.0.dev0+6.ge92d9ab
 - q2-deblur=2018.11.0.dev0+2.ga1a55e2
-- q2-demux=2018.11.0.dev0+2.g95f1ebd
+- q2-demux=2018.11.0.dev0+4.gc688c41
 - q2-diversity=2018.11.0.dev0+4.gb4aef83
 - q2-emperor=2018.11.0.dev0+6.gf57da5c
 - q2-feature-classifier=2018.11.0.dev0+5.g9a9c9dd
