@@ -173,7 +173,7 @@ dependencies:
   - r-plyr=1.8.4
   - r-r6=2.2.2
   - r-rcolorbrewer=1.1_2
-  - r-rcpp=0.12.17
+  - r-rcpp=1.0.0
   - r-rcppparallel=4.4.1
   - r-rcurl=1.95_4.11
   - r-reshape2=1.4.3
@@ -199,7 +199,7 @@ dependencies:
   - tbb=2019.2
   - terminado=0.8.1
   - testpath=0.3.1
-  - tk=8.6.8
+  - tk=8.6.9
   - tornado=5.1.1
   - traitlets=4.3.2
   - urllib3=1.23
@@ -248,5 +248,5 @@ dependencies:
   - tzlocal=1.3
   - pip:
     - msgpack==0.5.6
-prefix: /worker/volumes/live/dacbdc47-832f-40ab-7be6-61678fcae291/volume/test-env
+prefix: /worker/volumes/live/b6198488-11a1-4491-61c6-671c77a944a6/volume/test-env
 
