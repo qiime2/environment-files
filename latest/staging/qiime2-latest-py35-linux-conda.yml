@@ -42,7 +42,7 @@ dependencies:
 - perl-exporter=5.72
 - perl-exporter-tiny=1.000000
 - perl-extutils-makemaker=7.34
-- perl-io-compress=2.069
+- perl-io-compress=2.081
 - perl-io-zlib=1.10
 - perl-list-moreutils=0.428
 - perl-list-moreutils-xs=0.428
@@ -137,7 +137,7 @@ dependencies:
 - matplotlib=2.2.3
 - mistune=0.8.3
 - msgpack-python=0.5.6
-- natsort=5.4.0
+- natsort=5.5.0
 - nbconvert=5.3.1
 - nbformat=4.4.0
 - ncurses=6.1
@@ -262,8 +262,8 @@ dependencies:
 - zlib=1.2.11
 - blas=1.0
 - gsl=2.2.1
-- intel-openmp=2019.0
-- mkl=2019.0
+- intel-openmp=2019.1
+- mkl=2018.0.3
 - numpy=1.12.1
 - scikit-learn=0.19.1
 - scipy=0.19.1
@@ -289,7 +289,7 @@ dependencies:
 - q2-taxa=2019.1.0.dev0
 - q2-types=2019.1.0.dev0
 - q2-vsearch=2019.1.0.dev0
-- q2cli=2019.1.0.dev0
+- q2cli=2019.1.0.dev0+1.g1878ff8
 - q2templates=2019.1.0.dev0
 - qiime2=2019.1.0.dev0
 - ijson=2.3
