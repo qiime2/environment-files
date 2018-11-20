@@ -246,7 +246,7 @@ dependencies:
 - q2-types=2019.1.0.dev0
 - q2-vsearch=2019.1.0.dev0
 - q2cli=2019.1.0.dev0+1.g1878ff8
-- q2templates=2019.1.0.dev0
+- q2templates=2019.1.0.dev0+1.ga3766e1
 - qiime2=2019.1.0.dev0
 - ijson=2.3
 - tzlocal=1.3
