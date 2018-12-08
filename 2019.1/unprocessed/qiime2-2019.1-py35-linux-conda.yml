@@ -156,7 +156,7 @@ dependencies:
   - pigz=2.3.4
   - pip=18.0
   - pixman=0.34.0
-  - prometheus_client=0.4.2
+  - prometheus_client=0.5.0
   - prompt_toolkit=2.0.7
   - psutil=5.4.7
   - pthread-stubs=0.4
