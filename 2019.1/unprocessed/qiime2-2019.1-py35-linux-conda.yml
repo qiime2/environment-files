@@ -31,12 +31,12 @@ dependencies:
   - mafft=7.310
   - perl-archive-tar=2.32
   - perl-carp=1.38
-  - perl-compress-raw-bzip2=2.083
-  - perl-compress-raw-zlib=2.083
+  - perl-compress-raw-bzip2=2.084
+  - perl-compress-raw-zlib=2.084
   - perl-exporter=5.72
   - perl-exporter-tiny=1.002001
   - perl-extutils-makemaker=7.34
-  - perl-io-compress=2.083
+  - perl-io-compress=2.084
   - perl-io-zlib=1.10
   - perl-list-moreutils=0.428
   - perl-list-moreutils-xs=0.428
@@ -143,7 +143,7 @@ dependencies:
   - openjdk=8.0.112
   - openssl=1.0.2p
   - packaging=18.0
-  - pandas=0.22.0
+  - pandas=0.23.4
   - pandoc=2.5
   - pandocfilters=1.4.2
   - pango=1.40.14
@@ -271,7 +271,7 @@ dependencies:
   - scipy=0.19.1
   - wget=1.19.5
   - q2-alignment=2019.1.0.dev0+1.g9c765f8
-  - q2-composition=2019.1.0.dev0+2.g5cf1a95
+  - q2-composition=2019.1.0.dev0+3.ga73bac0
   - q2-cutadapt=2019.1.0.dev0+1.gf3f74e0
   - q2-dada2=2019.1.0.dev0+1.g5b2c08d
   - q2-deblur=2019.1.0.dev0+1.gbeaad95
