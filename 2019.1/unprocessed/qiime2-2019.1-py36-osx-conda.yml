@@ -120,7 +120,7 @@ dependencies:
   - openjdk=11.0.1
   - openmp=7.0.0
   - openssl=1.0.2p
-  - packaging=18.0
+  - packaging=19.0
   - pandas=0.23.4
   - pandoc=2.5
   - pandocfilters=1.4.2
@@ -258,5 +258,5 @@ dependencies:
   - qiime2=2019.1.0.dev0+8.ge938a76
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/ba83ab59-64fc-4d8b-5f7e-2e629da73c44/volume/test-env
+prefix: /worker/volumes/live/6a00b4bb-98b6-44c9-4335-cc8e2dada1cc/volume/test-env
 

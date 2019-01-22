@@ -146,7 +146,7 @@ dependencies:
   - olefile=0.46
   - openjdk=8.0.112
   - openssl=1.0.2p
-  - packaging=18.0
+  - packaging=19.0
   - pandas=0.23.4
   - pandoc=2.5
   - pandocfilters=1.4.2
