@@ -245,10 +245,10 @@ dependencies:
 - q2-demux=2019.1.0.dev0+4.g38673fd
 - q2-diversity=2019.1.0.dev0+8.g0fcf471
 - q2-emperor=2019.1.0.dev0+4.g5326b3b
-- q2-feature-classifier=2019.1.0.dev0+4.g9be899f
+- q2-feature-classifier=2019.1.0.dev0+5.gcd6c87f
 - q2-feature-table=2019.1.0.dev0+4.g5d111bb
 - q2-fragment-insertion=2019.1.0.dev0+4.g24f214d
-- q2-gneiss=2019.1.0.dev0+5.g414c8ff
+- q2-gneiss=2019.1.0.dev0+6.g50ffe1a
 - q2-longitudinal=2019.1.0.dev0+6.gdb69283
 - q2-metadata=2019.1.0.dev0+4.g3795a9f
 - q2-phylogeny=2019.1.0.dev0+4.g44b2e88
