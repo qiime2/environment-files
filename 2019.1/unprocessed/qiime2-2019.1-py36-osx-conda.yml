@@ -235,28 +235,28 @@ dependencies:
   - q2-alignment=2019.1.0.dev0+5.g82e0d74
   - q2-composition=2019.1.0.dev0+6.g1542c95
   - q2-cutadapt=2019.1.0.dev0+4.g67c3e3f
-  - q2-dada2=2019.1.0.dev0+3.g91543ac
+  - q2-dada2=2019.1.0.dev0+4.g630317c
   - q2-deblur=2019.1.0.dev0+4.g9ce62c4
   - q2-demux=2019.1.0.dev0+4.g38673fd
-  - q2-diversity=2019.1.0.dev0+3.gbb24658
+  - q2-diversity=2019.1.0.dev0+5.gd484d61
   - q2-emperor=2019.1.0.dev0+4.g5326b3b
   - q2-feature-classifier=2019.1.0.dev0+4.g9be899f
-  - q2-feature-table=2019.1.0.dev0+2.g4770060
-  - q2-fragment-insertion=2019.1.0.dev0+3.g5d5b42f
+  - q2-feature-table=2019.1.0.dev0+4.g5d111bb
+  - q2-fragment-insertion=2019.1.0.dev0+4.g24f214d
   - q2-gneiss=2019.1.0.dev0+5.g414c8ff
   - q2-longitudinal=2019.1.0.dev0+6.gdb69283
-  - q2-metadata=2019.1.0.dev0+2.gbcd74b4
+  - q2-metadata=2019.1.0.dev0+4.g3795a9f
   - q2-phylogeny=2019.1.0.dev0+4.g44b2e88
   - q2-quality-control=2019.1.0.dev0+4.g564b38c
-  - q2-quality-filter=2019.1.0.dev0+3.g7d08552
-  - q2-sample-classifier=2019.1.0.dev0+3.gab094c7
+  - q2-quality-filter=2019.1.0.dev0+4.g8f9944d
+  - q2-sample-classifier=2019.1.0.dev0+4.g9c92e84
   - q2-taxa=2019.1.0.dev0+4.g8579adb
   - q2-types=2019.1.0.dev0+4.g4af6eb1
-  - q2-vsearch=2019.1.0.dev0+2.g9190a79
+  - q2-vsearch=2019.1.0.dev0+4.g7d9c9bf
   - q2cli=2019.1.0.dev0+4.g043ed6c
   - q2templates=2019.1.0.dev0+4.g791b242
-  - qiime2=2019.1.0.dev0+9.gbc4ff55
+  - qiime2=2019.1.0.dev0+10.ga51a048
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/f3a68a90-1274-4e33-4c0a-3ad7713f86db/volume/test-env
+prefix: /worker/volumes/live/fc81a06d-e780-4d11-686c-edf7315b4398/volume/test-env
 
