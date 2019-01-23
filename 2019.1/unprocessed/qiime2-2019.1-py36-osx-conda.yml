@@ -157,6 +157,7 @@ dependencies:
   - r-bh=1.66.0_1
   - r-bitops=1.0_6
   - r-cli=1.0.0
+  - r-cluster=2.0.7_1
   - r-colorspace=1.3_2
   - r-crayon=1.3.4
   - r-digest=0.6.18
@@ -180,6 +181,7 @@ dependencies:
   - r-mgcv=1.8_24
   - r-munsell=0.5.0
   - r-nlme=3.1_137
+  - r-permute=0.9_4
   - r-pillar=1.3.0
   - r-plyr=1.8.4
   - r-r6=2.2.2
@@ -195,6 +197,7 @@ dependencies:
   - r-stringr=1.3.1
   - r-tibble=1.4.2
   - r-utf8=1.1.4
+  - r-vegan=2.5_3
   - r-viridislite=0.3.0
   - r-withr=2.1.2
   - readline=7.0
@@ -238,7 +241,7 @@ dependencies:
   - q2-dada2=2019.1.0.dev0+4.g630317c
   - q2-deblur=2019.1.0.dev0+4.g9ce62c4
   - q2-demux=2019.1.0.dev0+4.g38673fd
-  - q2-diversity=2019.1.0.dev0+5.gd484d61
+  - q2-diversity=2019.1.0.dev0+8.g0fcf471
   - q2-emperor=2019.1.0.dev0+4.g5326b3b
   - q2-feature-classifier=2019.1.0.dev0+4.g9be899f
   - q2-feature-table=2019.1.0.dev0+4.g5d111bb
@@ -258,5 +261,5 @@ dependencies:
   - qiime2=2019.1.0.dev0+10.ga51a048
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/c1f30528-f5fc-4cb2-42e8-20bbda24dd4e/volume/test-env
+prefix: /worker/volumes/live/3b56a5f0-f6c2-4338-7b88-b6a73d35d94d/volume/test-env
 
