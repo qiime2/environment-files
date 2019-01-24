@@ -241,7 +241,7 @@ dependencies:
   - q2-dada2=2019.1.0.dev0+4.g630317c
   - q2-deblur=2019.1.0.dev0+4.g9ce62c4
   - q2-demux=2019.1.0.dev0+4.g38673fd
-  - q2-diversity=2019.1.0.dev0+8.g0fcf471
+  - q2-diversity=2019.1.0.dev0+9.g5005f12
   - q2-emperor=2019.1.0.dev0+4.g5326b3b
   - q2-feature-classifier=2019.1.0.dev0+5.gcd6c87f
   - q2-feature-table=2019.1.0.dev0+4.g5d111bb
@@ -261,5 +261,5 @@ dependencies:
   - qiime2=2019.1.0.dev0+10.ga51a048
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/2a279437-a209-4669-695a-09b6638b69e4/volume/test-env
+prefix: /worker/volumes/live/fddb2dc9-7170-4540-5b2d-b97e6d2cc4e5/volume/test-env
 
