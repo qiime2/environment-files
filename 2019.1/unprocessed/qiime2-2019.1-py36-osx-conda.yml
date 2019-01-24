@@ -245,7 +245,7 @@ dependencies:
   - q2-emperor=2019.1.0.dev0+4.g5326b3b
   - q2-feature-classifier=2019.1.0.dev0+5.gcd6c87f
   - q2-feature-table=2019.1.0.dev0+4.g5d111bb
-  - q2-fragment-insertion=2019.1.0.dev0+4.g24f214d
+  - q2-fragment-insertion=2019.1.0.dev0+5.g4d04aec
   - q2-gneiss=2019.1.0.dev0+6.g50ffe1a
   - q2-longitudinal=2019.1.0.dev0+6.gdb69283
   - q2-metadata=2019.1.0.dev0+4.g3795a9f
@@ -261,5 +261,5 @@ dependencies:
   - qiime2=2019.1.0.dev0+10.ga51a048
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/fddb2dc9-7170-4540-5b2d-b97e6d2cc4e5/volume/test-env
+prefix: /worker/volumes/live/15abaff3-878c-43ae-6dc3-9c966c9c7ba7/volume/test-env
 
