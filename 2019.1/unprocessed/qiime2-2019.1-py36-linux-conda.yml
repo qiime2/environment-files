@@ -292,7 +292,7 @@ dependencies:
   - q2-fragment-insertion=2019.1.0.dev0+5.g4d04aec
   - q2-gneiss=2019.1.0.dev0+6.g50ffe1a
   - q2-longitudinal=2019.1.0.dev0+6.gdb69283
-  - q2-metadata=2019.1.0.dev0+4.g3795a9f
+  - q2-metadata=2019.1.0.dev0+5.g06c828e
   - q2-phylogeny=2019.1.0.dev0+4.g44b2e88
   - q2-quality-control=2019.1.0.dev0+4.g564b38c
   - q2-quality-filter=2019.1.0.dev0+4.g8f9944d
