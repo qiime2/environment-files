@@ -235,31 +235,31 @@ dependencies:
   - scikit-learn=0.19.1
   - scipy=1.1.0
   - wget=1.19.5
-  - q2-alignment=2019.1.0.dev0+5.g82e0d74
-  - q2-composition=2019.1.0.dev0+6.g1542c95
-  - q2-cutadapt=2019.1.0.dev0+4.g67c3e3f
-  - q2-dada2=2019.1.0.dev0+4.g630317c
-  - q2-deblur=2019.1.0.dev0+4.g9ce62c4
-  - q2-demux=2019.1.0.dev0+4.g38673fd
-  - q2-diversity=2019.1.0.dev0+9.g5005f12
-  - q2-emperor=2019.1.0.dev0+4.g5326b3b
-  - q2-feature-classifier=2019.1.0.dev0+5.gcd6c87f
-  - q2-feature-table=2019.1.0.dev0+4.g5d111bb
-  - q2-fragment-insertion=2019.1.0.dev0+5.g4d04aec
-  - q2-gneiss=2019.1.0.dev0+6.g50ffe1a
-  - q2-longitudinal=2019.1.0.dev0+6.gdb69283
-  - q2-metadata=2019.1.0.dev0+5.g06c828e
-  - q2-phylogeny=2019.1.0.dev0+4.g44b2e88
-  - q2-quality-control=2019.1.0.dev0+4.g564b38c
-  - q2-quality-filter=2019.1.0.dev0+4.g8f9944d
-  - q2-sample-classifier=2019.1.0.dev0+4.g9c92e84
-  - q2-taxa=2019.1.0.dev0+4.g8579adb
-  - q2-types=2019.1.0.dev0+5.gc8c0f1f
-  - q2-vsearch=2019.1.0.dev0+4.g7d9c9bf
-  - q2cli=2019.1.0.dev0+4.g043ed6c
-  - q2templates=2019.1.0.dev0+4.g791b242
-  - qiime2=2019.1.0.dev0+10.ga51a048
+  - q2-alignment=2019.1.0.dev0+6.gc2a6adb
+  - q2-composition=2019.1.0.dev0+7.g76e26bf
+  - q2-cutadapt=2019.1.0.dev0+5.g57399d6
+  - q2-dada2=2019.1.0.dev0+5.g5862b05
+  - q2-deblur=2019.1.0.dev0+5.g3a70a11
+  - q2-demux=2019.1.0.dev0+5.g8e459eb
+  - q2-diversity=2019.1.0.dev0+10.ga94c7f4
+  - q2-emperor=2019.1.0.dev0+5.g5fcc2df
+  - q2-feature-classifier=2019.1.0.dev0+6.g59f643d
+  - q2-feature-table=2019.1.0.dev0+5.gd71c1bc
+  - q2-fragment-insertion=2019.1.0.dev0+6.ga6fc2a4
+  - q2-gneiss=2019.1.0.dev0+7.g3e270e8
+  - q2-longitudinal=2019.1.0.dev0+7.g1526169
+  - q2-metadata=2019.1.0.dev0+6.g2031993
+  - q2-phylogeny=2019.1.0.dev0+5.g5e1d354
+  - q2-quality-control=2019.1.0.dev0+5.gf153bf4
+  - q2-quality-filter=2019.1.0.dev0+5.gcee56e5
+  - q2-sample-classifier=2019.1.0.dev0+5.g2cd52a0
+  - q2-taxa=2019.1.0.dev0+5.gacdfcb4
+  - q2-types=2019.1.0.dev0+6.gdc08d55
+  - q2-vsearch=2019.1.0.dev0+5.gac84b81
+  - q2cli=2019.1.0.dev0+5.g48792ea
+  - q2templates=2019.1.0.dev0+5.ge360aad
+  - qiime2=2019.1.0.dev0+11.g450a2b5
   - pip:
     - msgpack==0.6.0
-prefix: /worker/volumes/live/3d6e8a7e-b010-4075-74d7-ee200b5d624d/volume/test-env
+prefix: /worker/volumes/live/26d17a4d-884f-4897-679d-59dee1be2dc4/volume/test-env
 
