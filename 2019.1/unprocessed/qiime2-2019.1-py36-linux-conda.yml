@@ -21,11 +21,9 @@ dependencies:
   - bioconductor-xvector=0.18.0
   - bioconductor-zlibbioc=1.24.0
   - blast=2.7.1
-  - bleach=1.4.2
   - cutadapt=1.18
   - deblur=1.1.0
   - fasttree=2.1.10
-  - gdk-pixbuf=2.32.2
   - gneiss=0.4.4
   - iqtree=1.6.9
   - java-jdk=8.0.112
@@ -46,7 +44,6 @@ dependencies:
   - perl-scalar-list-utils=1.45
   - perl-test-more=1.001002
   - perl-xsloader=0.24
-  - r-data.table=1.11.6
   - raxml=8.2.12
   - sina=1.4.0
   - sortmerna=2.0
@@ -60,6 +57,7 @@ dependencies:
   - backcall=0.1.0
   - bibtexparser=1.1.0
   - biom-format=2.1.7
+  - bleach=3.1.0
   - bokeh=1.0.4
   - boost=1.67.0
   - boost-cpp=1.67.0
@@ -84,6 +82,7 @@ dependencies:
   - fontconfig=2.13.1
   - freetype=2.9.1
   - future=0.17.1
+  - gdk-pixbuf=2.36.12
   - gettext=0.19.8.1
   - glib=2.56.2
   - gmp=6.1.2
@@ -97,7 +96,6 @@ dependencies:
   - harfbuzz=1.9.0
   - hdf5=1.10.4
   - hdmedians=0.13
-  - html5lib=1.0.1
   - icu=58.2
   - idna=2.8
   - ijson=2.3
@@ -190,6 +188,7 @@ dependencies:
   - r-cluster=2.0.7_1
   - r-colorspace=1.3_2
   - r-crayon=1.3.4
+  - r-data.table=1.11.4
   - r-digest=0.6.18
   - r-fansi=0.3.0
   - r-formatr=1.5
