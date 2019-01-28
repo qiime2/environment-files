@@ -173,7 +173,7 @@ dependencies:
 - q2-taxa=2019.1.0.dev0+5.gacdfcb4
 - q2-types=2019.1.0.dev0+8.g3155ac8
 - q2-vsearch=2019.1.0.dev0+5.gac84b81
-- q2cli=2019.1.0.dev0+6.gabbdf11
+- q2cli=2019.1.0.dev0+7.g5530ddb
 - q2templates=2019.1.0.dev0+5.ge360aad
 - qiime2=2019.1.0.dev0+12.gd1093db
 - r-assertthat=0.2.0
