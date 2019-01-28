@@ -105,7 +105,7 @@ dependencies:
   - mkl_fft=1.0.10
   - mkl_random=1.0.2
   - more-itertools=4.3.0
-  - msgpack-python=0.6.0
+  - msgpack-python=0.6.1
   - natsort=5.5.0
   - nbconvert=5.3.1
   - nbformat=4.4.0
@@ -123,14 +123,14 @@ dependencies:
   - pandoc=2.5
   - pandocfilters=1.4.2
   - pango=1.40.14
-  - parso=0.3.1
+  - parso=0.3.2
   - patsy=0.5.1
   - pcre=8.39
   - pexpect=4.6.0
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=5.4.1
-  - pip=18.1
+  - pip=19.0.1
   - pixman=0.34.0
   - pluggy=0.8.1
   - prometheus_client=0.5.0
@@ -257,5 +257,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/fdf8b9a7-0bf0-41d6-6801-1412f5dfb80f/volume/test-env
+prefix: /worker/volumes/live/dc2f6264-1283-467d-521f-2e97b79f1d26/volume/test-env
 
