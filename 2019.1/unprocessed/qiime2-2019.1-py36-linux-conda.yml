@@ -188,7 +188,7 @@ dependencies:
   - q2-diversity=2019.1.0.dev0+10.ga94c7f4
   - q2-emperor=2019.1.0.dev0+5.g5fcc2df
   - q2-feature-classifier=2019.1.0.dev0+9.g3c4f399
-  - q2-feature-table=2019.1.0.dev0+5.gd71c1bc
+  - q2-feature-table=2019.1.0.dev0+6.g039e04b
   - q2-fragment-insertion=2019.1.0.dev0+7.gb3d0d63
   - q2-gneiss=2019.1.0.dev0+7.g3e270e8
   - q2-longitudinal=2019.1.0.dev0+7.g1526169
@@ -198,7 +198,7 @@ dependencies:
   - q2-quality-filter=2019.1.0.dev0+5.gcee56e5
   - q2-sample-classifier=2019.1.0.dev0+5.g2cd52a0
   - q2-taxa=2019.1.0.dev0+5.gacdfcb4
-  - q2-types=2019.1.0.dev0+7.gadf0ad0
+  - q2-types=2019.1.0.dev0+8.g3155ac8
   - q2-vsearch=2019.1.0.dev0+5.gac84b81
   - q2cli=2019.1.0.dev0+6.gabbdf11
   - q2templates=2019.1.0.dev0+5.ge360aad
