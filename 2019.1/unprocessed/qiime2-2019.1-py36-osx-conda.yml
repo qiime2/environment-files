@@ -171,7 +171,7 @@ dependencies:
   - q2-taxa=2019.1.0.dev0+5.gacdfcb4
   - q2-types=2019.1.0.dev0+8.g3155ac8
   - q2-vsearch=2019.1.0.dev0+5.gac84b81
-  - q2cli=2019.1.0.dev0+6.gabbdf11
+  - q2cli=2019.1.0.dev0+7.g5530ddb
   - q2templates=2019.1.0.dev0+5.ge360aad
   - qiime2=2019.1.0.dev0+12.gd1093db
   - r-assertthat=0.2.0
@@ -257,5 +257,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/bf6ee9f6-607a-42ed-54bf-7d5cb0c63e62/volume/test-env
+prefix: /worker/volumes/live/fe8bb516-630d-45fa-7131-479b7f2ca29b/volume/test-env
 
