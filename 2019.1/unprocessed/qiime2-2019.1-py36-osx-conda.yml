@@ -134,7 +134,7 @@ dependencies:
   - pixman=0.34.0
   - pluggy=0.8.1
   - prometheus_client=0.5.0
-  - prompt_toolkit=2.0.7
+  - prompt_toolkit=2.0.8
   - psutil=5.4.8
   - ptyprocess=0.6.0
   - py=1.7.0
@@ -156,7 +156,7 @@ dependencies:
   - q2-dada2=2019.1.0.dev0+5.g5862b05
   - q2-deblur=2019.1.0.dev0+5.g3a70a11
   - q2-demux=2019.1.0.dev0+5.g8e459eb
-  - q2-diversity=2019.1.0.dev0+10.ga94c7f4
+  - q2-diversity=2019.1.0.dev0+11.g251efe2
   - q2-emperor=2019.1.0.dev0+5.g5fcc2df
   - q2-feature-classifier=2019.1.0.dev0+9.g3c4f399
   - q2-feature-table=2019.1.0.dev0+6.g039e04b
@@ -231,7 +231,7 @@ dependencies:
   - scipy=1.2.0
   - seaborn=0.9.0
   - send2trash=1.5.0
-  - setuptools=40.6.3
+  - setuptools=40.7.0
   - sina=1.4.0
   - six=1.12.0
   - sortmerna=2.0
@@ -257,5 +257,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/fe8bb516-630d-45fa-7131-479b7f2ca29b/volume/test-env
+prefix: /worker/volumes/live/da5dc878-ee22-448d-4fd2-6b04e35ed9c3/volume/test-env
 
