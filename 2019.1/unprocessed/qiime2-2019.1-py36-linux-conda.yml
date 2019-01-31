@@ -43,7 +43,7 @@ dependencies:
   - cffi=1.11.5
   - chardet=3.0.4
   - click=7.0
-  - cryptography=2.3.1
+  - cryptography=2.5
   - curl=7.61.0
   - cutadapt=1.18
   - cycler=0.10.0
@@ -131,7 +131,7 @@ dependencies:
   - openssl=1.0.2p
   - packaging=19.0
   - pandas=0.23.4
-  - pandoc=2.5
+  - pandoc=2.6
   - pandocfilters=1.4.2
   - pango=1.40.14
   - parso=0.3.2
@@ -283,7 +283,7 @@ dependencies:
   - wget=1.19.5
   - wheel=0.32.3
   - widgetsnbextension=3.4.2
-  - xopen=0.4.1
+  - xopen=0.5.0
   - xorg-kbproto=1.0.7
   - xorg-libice=1.0.9
   - xorg-libsm=1.2.3

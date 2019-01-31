@@ -43,7 +43,7 @@ dependencies:
   - cffi=1.11.5
   - chardet=3.0.4
   - click=7.0
-  - cryptography=2.3.1
+  - cryptography=2.5
   - curl=7.63.0
   - cutadapt=1.18
   - cycler=0.10.0
@@ -120,7 +120,7 @@ dependencies:
   - openssl=1.0.2p
   - packaging=19.0
   - pandas=0.23.4
-  - pandoc=2.5
+  - pandoc=2.6
   - pandocfilters=1.4.2
   - pango=1.40.14
   - parso=0.3.2
@@ -252,10 +252,10 @@ dependencies:
   - wget=1.19.5
   - wheel=0.32.3
   - widgetsnbextension=3.4.2
-  - xopen=0.4.1
+  - xopen=0.5.0
   - xz=5.2.4
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/cf5e8781-9a5a-48ac-70cb-7d0d99e9ffc2/volume/test-env
+prefix: /worker/volumes/live/ba4327ce-7f7f-48e2-6453-346d17829503/volume/test-env
 
