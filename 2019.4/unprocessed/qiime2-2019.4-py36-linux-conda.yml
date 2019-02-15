@@ -181,7 +181,7 @@ dependencies:
   - q2-dada2=2019.4.0.dev0+1.gf260266
   - q2-deblur=2019.4.0.dev0+1.gdd9c20f
   - q2-demux=2019.4.0.dev0+1.gb461840
-  - q2-diversity=2019.4.0.dev0
+  - q2-diversity=2019.4.0.dev0+2.g9cf5f52
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
   - q2-feature-classifier=2019.4.0.dev0+1.gabb2ffc
@@ -190,10 +190,10 @@ dependencies:
   - q2-gneiss=2019.4.0.dev0+1.gb88fa58
   - q2-longitudinal=2019.4.0.dev0
   - q2-metadata=2019.4.0.dev0+1.gee6153e
-  - q2-phylogeny=2019.4.0.dev0
-  - q2-quality-control=2019.4.0.dev0
+  - q2-phylogeny=2019.4.0.dev0+1.gab68dd3
+  - q2-quality-control=2019.4.0.dev0+1.gd5c70f9
   - q2-quality-filter=2019.4.0.dev0+1.g4187f77
-  - q2-sample-classifier=2019.4.0.dev0
+  - q2-sample-classifier=2019.4.0.dev0+1.gad62afc
   - q2-taxa=2019.4.0.dev0+1.g41d729b
   - q2-types=2019.4.0.dev0+2.g4fa47e6
   - q2-vsearch=2019.4.0.dev0+1.g144a2c6
