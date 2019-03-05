@@ -144,7 +144,7 @@ dependencies:
   - python-dateutil=2.8.0
   - pytz=2018.9
   - pyyaml=3.13
-  - pyzmq=18.0.0
+  - pyzmq=18.0.1
   - q2-alignment=2019.4.0.dev0+3.ged1d841
   - q2-composition=2019.4.0.dev0+1.g7b2e9cf
   - q2-cutadapt=2019.4.0.dev0+1.gbe181d9
@@ -253,5 +253,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/1d277a75-8102-4e8f-6ea7-3e68160720f7/volume/test-env
+prefix: /worker/volumes/live/67189b75-8340-4606-562e-2d35fcffba00/volume/test-env
 
