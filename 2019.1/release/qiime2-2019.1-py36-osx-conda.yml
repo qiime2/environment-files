@@ -3,6 +3,7 @@ channels:
 - conda-forge
 - bioconda
 - defaults
+- conda-forge/label/broken
 dependencies:
 - _r-mutex=1.0.0
 - appnope=0.1.0
