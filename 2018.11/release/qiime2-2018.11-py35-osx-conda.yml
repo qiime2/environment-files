@@ -5,7 +5,6 @@ channels:
 - defaults
 - bioconda
 - biocore
-- conda-forge/label/broken
 dependencies:
 - arb-bio-tools=6.0.6
 - bioconductor-biobase=2.38.0
@@ -94,7 +93,7 @@ dependencies:
 - kiwisolver=1.0.1
 - krb5=1.16.2
 - libcurl=7.62.0
-- libcxx=7.0.0
+- libcxx=4.0.1
 - libedit=3.1.20170329
 - libffi=3.2.1
 - libgcc=4.8.5
