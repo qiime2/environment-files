@@ -5,6 +5,7 @@ channels:
 - defaults
 - bioconda
 - biocore
+- conda-forge/label/broken
 dependencies:
 - arb-bio-tools=6.0.6
 - bioconductor-biobase=2.38.0
