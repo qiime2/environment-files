@@ -167,7 +167,7 @@ dependencies:
   - q2-feature-table=2019.4.0.dev0+1.g12e6cd6
   - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
   - q2-gneiss=2019.4.0.dev0+1.gb88fa58
-  - q2-longitudinal=2019.4.0.dev0+1.g50021d2
+  - q2-longitudinal=2019.4.0.dev0+2.g903be49
   - q2-metadata=2019.4.0.dev0+1.gee6153e
   - q2-phylogeny=2019.4.0.dev0+1.gab68dd3
   - q2-quality-control=2019.4.0.dev0+1.gd5c70f9
@@ -262,5 +262,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/5bb5e5f9-3f08-4106-605f-32f3caeb8676/volume/test-env
+prefix: /worker/volumes/live/4dc59f30-c4e3-4d84-594f-0732749e79b9/volume/test-env
 
