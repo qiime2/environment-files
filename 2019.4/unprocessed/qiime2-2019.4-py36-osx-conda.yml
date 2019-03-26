@@ -158,8 +158,8 @@ dependencies:
   - q2-composition=2019.4.0.dev0+1.g7b2e9cf
   - q2-cutadapt=2019.4.0.dev0+1.gbe181d9
   - q2-dada2=2019.4.0.dev0+3.gbf964de
-  - q2-deblur=2019.4.0.dev0+1.gdd9c20f
-  - q2-demux=2019.4.0.dev0+1.gb461840
+  - q2-deblur=2019.4.0.dev0+2.g12ba43e
+  - q2-demux=2019.4.0.dev0+2.g2efe574
   - q2-diversity=2019.4.0.dev0+3.g4459846
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
@@ -178,7 +178,7 @@ dependencies:
   - q2-vsearch=2019.4.0.dev0+1.g144a2c6
   - q2cli=2019.4.0.dev0+1.g4da757c
   - q2templates=2019.4.0.dev0+2.gc5f31f4
-  - qiime2=2019.4.0.dev0+2.ga16a403
+  - qiime2=2019.4.0.dev0+3.gaf5bdca
   - r-assertthat=0.2.0
   - r-base=3.4.1
   - r-bh=1.66.0_1
@@ -262,5 +262,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/4dc59f30-c4e3-4d84-594f-0732749e79b9/volume/test-env
+prefix: /worker/volumes/live/6866548a-0a5a-4870-6366-2e1576b9f513/volume/test-env
 
