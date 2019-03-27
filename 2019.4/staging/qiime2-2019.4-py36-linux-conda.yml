@@ -185,7 +185,7 @@ dependencies:
 - pyzmq=18.0.1
 - q2-alignment=2019.4.0.dev0+3.ged1d841
 - q2-composition=2019.4.0.dev0+1.g7b2e9cf
-- q2-cutadapt=2019.4.0.dev0+1.gbe181d9
+- q2-cutadapt=2019.4.0.dev0+2.g5af0672
 - q2-dada2=2019.4.0.dev0+3.gbf964de
 - q2-deblur=2019.4.0.dev0+2.g12ba43e
 - q2-demux=2019.4.0.dev0+2.g2efe574
