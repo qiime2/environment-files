@@ -185,10 +185,10 @@ dependencies:
 - pyzmq=18.0.1
 - q2-alignment=2019.4.0.dev0+3.ged1d841
 - q2-composition=2019.4.0.dev0+1.g7b2e9cf
-- q2-cutadapt=2019.4.0.dev0+2.g5af0672
+- q2-cutadapt=2019.4.0.dev0+3.g16819d7
 - q2-dada2=2019.4.0.dev0+3.gbf964de
 - q2-deblur=2019.4.0.dev0+2.g12ba43e
-- q2-demux=2019.4.0.dev0+2.g2efe574
+- q2-demux=2019.4.0.dev0+3.gb12a758
 - q2-diversity=2019.4.0.dev0+3.g4459846
 - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
 - q2-emperor=2019.4.0.dev0+1.gd9e7b23
@@ -205,7 +205,7 @@ dependencies:
 - q2-taxa=2019.4.0.dev0+1.g41d729b
 - q2-types=2019.4.0.dev0+2.g4fa47e6
 - q2-vsearch=2019.4.0.dev0+1.g144a2c6
-- q2cli=2019.4.0.dev0+1.g4da757c
+- q2cli=2019.4.0.dev0+2.gdb0212b
 - q2templates=2019.4.0.dev0+2.gc5f31f4
 - qiime2=2019.4.0.dev0+3.gaf5bdca
 - qt=5.6.2
