@@ -31,7 +31,7 @@ dependencies:
   - blas=2.4
   - blast=2.7.1
   - bleach=3.1.0
-  - bokeh=1.0.4
+  - bokeh=1.1.0
   - boost=1.67.0
   - boost-cpp=1.67.0
   - bz2file=0.98
@@ -84,7 +84,7 @@ dependencies:
   - ipywidgets=7.4.2
   - iqtree=1.6.10
   - jedi=0.13.3
-  - jinja2=2.10
+  - jinja2=2.10.1
   - jpeg=9c
   - jsonschema=3.0.1
   - jupyter_client=5.2.4
@@ -133,10 +133,10 @@ dependencies:
   - openssl=1.0.2r
   - packaging=19.0
   - pandas=0.23.4
-  - pandoc=2.7.1
+  - pandoc=2.7.2
   - pandocfilters=1.4.2
   - pango=1.40.14
-  - parso=0.3.4
+  - parso=0.4.0
   - patsy=0.5.1
   - pcre=8.41
   - perl=5.26.2
@@ -155,7 +155,7 @@ dependencies:
   - perl-scalar-list-utils=1.45
   - perl-test-more=1.001002
   - perl-xsloader=0.24
-  - pexpect=4.6.0
+  - pexpect=4.7.0
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=6.0.0
@@ -190,7 +190,7 @@ dependencies:
   - q2-diversity=2019.4.0.dev0+3.g4459846
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
-  - q2-feature-classifier=2019.4.0.dev0+1.gabb2ffc
+  - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
   - q2-feature-table=2019.4.0.dev0+1.g12e6cd6
   - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
   - q2-gneiss=2019.4.0.dev0+1.gb88fa58
@@ -264,7 +264,7 @@ dependencies:
   - scipy=1.2.1
   - seaborn=0.9.0
   - send2trash=1.5.0
-  - setuptools=40.8.0
+  - setuptools=41.0.0
   - sina=1.4.0
   - sip=4.18.1
   - six=1.12.0
