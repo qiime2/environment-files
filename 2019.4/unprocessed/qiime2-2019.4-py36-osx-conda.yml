@@ -88,6 +88,7 @@ dependencies:
   - libcblas=3.8.0
   - libcurl=7.64.0
   - libcxx=8.0.0
+  - libcxxabi=8.0.0
   - libedit=3.1.20170329
   - libffi=3.2.1
   - libgcc=4.8.5
@@ -163,7 +164,7 @@ dependencies:
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
   - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
-  - q2-feature-table=2019.4.0.dev0+1.g12e6cd6
+  - q2-feature-table=2019.4.0.dev0+2.g6aa94b2
   - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
   - q2-gneiss=2019.4.0.dev0+1.gb88fa58
   - q2-longitudinal=2019.4.0.dev0+2.g903be49
@@ -261,5 +262,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/fd25afe4-ea40-4a19-4c66-1d9cb5856e1c/volume/test-env
+prefix: /worker/volumes/live/82931167-307b-4cb5-6d0b-98041e2d114f/volume/test-env
 

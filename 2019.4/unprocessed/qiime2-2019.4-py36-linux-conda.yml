@@ -191,7 +191,7 @@ dependencies:
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
   - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
-  - q2-feature-table=2019.4.0.dev0+1.g12e6cd6
+  - q2-feature-table=2019.4.0.dev0+2.g6aa94b2
   - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
   - q2-gneiss=2019.4.0.dev0+1.gb88fa58
   - q2-longitudinal=2019.4.0.dev0+2.g903be49
