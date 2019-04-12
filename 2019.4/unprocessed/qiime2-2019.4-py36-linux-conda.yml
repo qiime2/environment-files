@@ -124,6 +124,7 @@ dependencies:
   - nbformat=4.4.0
   - ncurses=6.1
   - nettle=3.3
+  - networkx=2.3
   - nose=1.3.7
   - notebook=5.7.8
   - numpy=1.16.2
@@ -178,7 +179,7 @@ dependencies:
   - pytest=4.4.0
   - python=3.6.7
   - python-dateutil=2.8.0
-  - pytz=2018.9
+  - pytz=2019.1
   - pyyaml=5.1
   - pyzmq=18.0.1
   - q2-alignment=2019.4.0.dev0+3.ged1d841
@@ -187,7 +188,7 @@ dependencies:
   - q2-dada2=2019.4.0.dev0+3.gbf964de
   - q2-deblur=2019.4.0.dev0+2.g12ba43e
   - q2-demux=2019.4.0.dev0+3.gb12a758
-  - q2-diversity=2019.4.0.dev0+3.g4459846
+  - q2-diversity=2019.4.0.dev0+4.g86494b3
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
   - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
@@ -205,7 +206,7 @@ dependencies:
   - q2-vsearch=2019.4.0.dev0+1.g144a2c6
   - q2cli=2019.4.0.dev0+2.gdb0212b
   - q2templates=2019.4.0.dev0+3.ga97b2d2
-  - qiime2=2019.4.0.dev0+3.gaf5bdca
+  - qiime2=2019.4.0.dev0+4.ge776dc2
   - qt=5.6.2
   - r-assertthat=0.2.0
   - r-base=3.4.1
