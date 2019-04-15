@@ -161,7 +161,7 @@ dependencies:
   - q2-dada2=2019.4.0.dev0+3.gbf964de
   - q2-deblur=2019.4.0.dev0+2.g12ba43e
   - q2-demux=2019.4.0.dev0+3.gb12a758
-  - q2-diversity=2019.4.0.dev0+4.g86494b3
+  - q2-diversity=2019.4.0.dev0+5.g53ea3ad
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
   - q2-emperor=2019.4.0.dev0+1.gd9e7b23
   - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
@@ -263,5 +263,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /worker/volumes/live/2c19fd52-1724-4cbe-6108-ebb5c5c56dc4/volume/test-env
+prefix: /worker/volumes/live/600a6d5b-635d-42d6-4978-6334fa290474/volume/test-env
 
