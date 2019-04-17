@@ -28,7 +28,7 @@ dependencies:
   - bioconductor-xvector=0.18.0
   - bioconductor-zlibbioc=1.24.0
   - biom-format=2.1.7
-  - blas=2.4
+  - blas=2.5
   - blast=2.7.1
   - bleach=3.1.0
   - bokeh=1.1.0
@@ -176,7 +176,7 @@ dependencies:
   - pyqt=5.6.0
   - pyrsistent=0.14.11
   - pysocks=1.6.8
-  - pytest=4.4.0
+  - pytest=4.4.1
   - python=3.6.7
   - python-dateutil=2.8.0
   - pytz=2019.1
@@ -202,7 +202,7 @@ dependencies:
   - q2-quality-filter=2019.4.0.dev0+1.g4187f77
   - q2-sample-classifier=2019.4.0.dev0+2.gc3f59a6
   - q2-taxa=2019.4.0.dev0+1.g41d729b
-  - q2-types=2019.4.0.dev0+2.g4fa47e6
+  - q2-types=2019.4.0.dev0+4.g1514325
   - q2-vsearch=2019.4.0.dev0+1.g144a2c6
   - q2cli=2019.4.0.dev0+3.ga0a3404
   - q2templates=2019.4.0.dev0+3.ga97b2d2
