@@ -30,7 +30,7 @@ dependencies:
 - bioconductor-xvector=0.18.0
 - bioconductor-zlibbioc=1.24.0
 - biom-format=2.1.7
-- blas=2.5
+- blas=2.6
 - blast=2.7.1
 - bleach=3.1.0
 - bokeh=1.1.0
@@ -42,12 +42,12 @@ dependencies:
 - cachecontrol=0.12.5
 - cairo=1.14.12
 - certifi=2019.3.9
-- cffi=1.12.2
+- cffi=1.12.3
 - chardet=3.0.4
 - click=7.0
 - cryptography=2.5
 - curl=7.61.0
-- cutadapt=2.1
+- cutadapt=2.2
 - cycler=0.10.0
 - dbus=1.13.0
 - deblur=1.1.0
@@ -112,7 +112,7 @@ dependencies:
 - libtiff=4.0.10
 - libuuid=2.32.1
 - libxcb=1.13
-- libxml2=2.9.8
+- libxml2=2.9.9
 - lockfile=0.12.2
 - mafft=7.310
 - markupsafe=1.1.1
@@ -129,7 +129,7 @@ dependencies:
 - networkx=2.3
 - nose=1.3.7
 - notebook=5.7.8
-- numpy=1.16.2
+- numpy=1.16.3
 - olefile=0.46
 - openblas=0.3.5
 - openjdk=11.0.1
@@ -145,8 +145,8 @@ dependencies:
 - perl=5.26.2
 - perl-archive-tar=2.32
 - perl-carp=1.38
-- perl-compress-raw-bzip2=2.084
-- perl-compress-raw-zlib=2.084
+- perl-compress-raw-bzip2=2.086
+- perl-compress-raw-zlib=2.086
 - perl-exporter=5.72
 - perl-exporter-tiny=1.002001
 - perl-extutils-makemaker=7.34
@@ -154,9 +154,8 @@ dependencies:
 - perl-io-zlib=1.10
 - perl-list-moreutils=0.428
 - perl-list-moreutils-xs=0.428
-- perl-pathtools=3.73
+- perl-pathtools=3.75
 - perl-scalar-list-utils=1.45
-- perl-test-more=1.001002
 - perl-xsloader=0.24
 - pexpect=4.7.0
 - pickleshare=0.7.5
@@ -186,10 +185,10 @@ dependencies:
 - pyzmq=18.0.1
 - q2-alignment=2019.4.0.dev0+3.ged1d841
 - q2-composition=2019.4.0.dev0+1.g7b2e9cf
-- q2-cutadapt=2019.4.0.dev0+3.g16819d7
+- q2-cutadapt=2019.4.0.dev0+4.g2d6a52f
 - q2-dada2=2019.4.0.dev0+3.gbf964de
 - q2-deblur=2019.4.0.dev0+2.g12ba43e
-- q2-demux=2019.4.0.dev0+3.gb12a758
+- q2-demux=2019.4.0.dev0+5.g2a8ca86
 - q2-diversity=2019.4.0.dev0+5.g53ea3ad
 - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
 - q2-emperor=2019.4.0.dev0+1.gd9e7b23
@@ -267,7 +266,7 @@ dependencies:
 - scipy=1.2.1
 - seaborn=0.9.0
 - send2trash=1.5.0
-- setuptools=41.0.0
+- setuptools=41.0.1
 - sina=1.4.0
 - sip=4.18.1
 - six=1.12.0
@@ -282,7 +281,7 @@ dependencies:
 - traitlets=4.3.2
 - tzlocal=1.5.1
 - unifrac=0.9.3
-- urllib3=1.24.1
+- urllib3=1.24.2
 - vsearch=2.7.0
 - wcwidth=0.1.7
 - webencodings=0.5.1
@@ -304,5 +303,5 @@ dependencies:
 - xorg-xproto=7.0.31
 - xz=5.2.4
 - yaml=0.1.7
-- zeromq=4.2.5
+- zeromq=4.3.1
 - zlib=1.2.11
