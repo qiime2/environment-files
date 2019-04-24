@@ -52,7 +52,7 @@ dependencies:
   - decorator=4.4.0
   - defusedxml=0.5.0
   - dnaio=0.3
-  - emperor=1.0.0beta18
+  - emperor=1.0.0b19
   - entrypoints=0.3
   - expat=2.2.5
   - fastcluster=1.1.25
@@ -159,7 +159,7 @@ dependencies:
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=6.0.0
-  - pip=19.0.3
+  - pip=19.1
   - pixman=0.34.0
   - pluggy=0.9.0
   - prometheus_client=0.6.0
@@ -189,7 +189,7 @@ dependencies:
   - q2-demux=2019.4.0.dev0+5.g2a8ca86
   - q2-diversity=2019.4.0.dev0+5.g53ea3ad
   - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
-  - q2-emperor=2019.4.0.dev0+1.gd9e7b23
+  - q2-emperor=2019.4.0.dev0+3.gf60bf11
   - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
   - q2-feature-table=2019.4.0.dev0+2.g6aa94b2
   - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
