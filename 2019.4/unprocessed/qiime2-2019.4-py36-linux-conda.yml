@@ -133,7 +133,7 @@ dependencies:
   - openjdk=11.0.1
   - openssl=1.0.2r
   - packaging=19.0
-  - pandas=0.23.4
+  - pandas=0.24.2
   - pandoc=2.7.2
   - pandocfilters=1.4.2
   - pango=1.40.14
@@ -201,7 +201,7 @@ dependencies:
   - q2-quality-filter=2019.4.0.dev0+1.g4187f77
   - q2-sample-classifier=2019.4.0.dev0+2.gc3f59a6
   - q2-taxa=2019.4.0.dev0+1.g41d729b
-  - q2-types=2019.4.0.dev0+4.g1514325
+  - q2-types=2019.4.0.dev0+5.g067d83e
   - q2-vsearch=2019.4.0.dev0+1.g144a2c6
   - q2cli=2019.4.0.dev0+3.ga0a3404
   - q2templates=2019.4.0.dev0+3.ga97b2d2
@@ -286,7 +286,7 @@ dependencies:
   - wget=1.19.5
   - wheel=0.33.1
   - widgetsnbextension=3.4.2
-  - xopen=0.5.0
+  - xopen=0.5.1
   - xorg-kbproto=1.0.7
   - xorg-libice=1.0.9
   - xorg-libsm=1.2.3
