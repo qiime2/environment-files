@@ -147,14 +147,14 @@ dependencies:
 - pluggy=0.9.0
 - prometheus_client=0.6.0
 - prompt_toolkit=2.0.9
-- psutil=5.6.1
+- psutil=5.6.2
 - ptyprocess=0.6.0
 - py=1.8.0
 - pycparser=2.19
 - pygments=2.3.1
 - pyopenssl=19.0.0
 - pyparsing=2.3.0
-- pyrsistent=0.15.0
+- pyrsistent=0.15.1
 - pysocks=1.6.8
 - pytest=4.4.1
 - python=3.6.7
@@ -172,7 +172,7 @@ dependencies:
 - q2-diversity-lib=2019.4.0.dev0+2.g48cd226
 - q2-emperor=2019.4.0.dev0+3.gf60bf11
 - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
-- q2-feature-table=2019.4.0.dev0+2.g6aa94b2
+- q2-feature-table=2019.4.0.dev0+3.g8e77127
 - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
 - q2-gneiss=2019.4.0.dev0+1.gb88fa58
 - q2-longitudinal=2019.4.0.dev0+3.g5aab9a4
