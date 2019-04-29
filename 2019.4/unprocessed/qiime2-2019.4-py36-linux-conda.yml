@@ -157,8 +157,8 @@ dependencies:
   - perl-compress-raw-zlib=2.086
   - perl-exporter=5.72
   - perl-exporter-tiny=1.002001
-  - perl-extutils-makemaker=7.34
-  - perl-io-compress=2.084
+  - perl-extutils-makemaker=7.36
+  - perl-io-compress=2.086
   - perl-io-zlib=1.10
   - perl-list-moreutils=0.428
   - perl-list-moreutils-xs=0.428
@@ -193,7 +193,7 @@ dependencies:
   - pyzmq=18.0.1
   - q2-alignment=2019.4.0.dev0+3.ged1d841
   - q2-composition=2019.4.0.dev0+1.g7b2e9cf
-  - q2-cutadapt=2019.4.0.dev0+4.g2d6a52f
+  - q2-cutadapt=2019.4.0.dev0+5.g73a4f44
   - q2-dada2=2019.4.0.dev0+4.gbd2b060
   - q2-deblur=2019.4.0.dev0+2.g12ba43e
   - q2-demux=2019.4.0.dev0+5.g2a8ca86
@@ -241,7 +241,7 @@ dependencies:
   - r-latticeextra=0.6_28
   - r-lazyeval=0.2.2
   - r-magrittr=1.5
-  - r-mass=7.3_51.3
+  - r-mass=7.3_51.4
   - r-matrix=1.2_17
   - r-matrixstats=0.54.0
   - r-mgcv=1.8_28
