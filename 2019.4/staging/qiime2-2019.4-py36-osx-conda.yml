@@ -171,7 +171,7 @@ dependencies:
 - q2-diversity=2019.4.0.dev0+6.g61812eb
 - q2-emperor=2019.4.0.dev0+3.gf60bf11
 - q2-feature-classifier=2019.4.0.dev0+2.ga2ebdb1
-- q2-feature-table=2019.4.0.dev0+5.gebd18fe
+- q2-feature-table=2019.4.0.dev0+6.g2937ab1
 - q2-fragment-insertion=2019.4.0.dev0+1.gf1dcbc4
 - q2-gneiss=2019.4.0.dev0+1.gb88fa58
 - q2-longitudinal=2019.4.0.dev0+3.g5aab9a4
