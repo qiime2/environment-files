@@ -86,7 +86,7 @@ dependencies:
 - icu=58.2
 - idna=2.8
 - ijson=2.3
-- ipykernel=5.1.0
+- ipykernel=5.1.1
 - ipython=7.5.0
 - ipython_genutils=0.2.0
 - ipywidgets=7.4.2
@@ -158,7 +158,7 @@ dependencies:
 - perl-list-moreutils=0.428
 - perl-list-moreutils-xs=0.428
 - perl-pathtools=3.75
-- perl-scalar-list-utils=1.45
+- perl-scalar-list-utils=1.50
 - perl-xsloader=0.24
 - pexpect=4.7.0
 - pickleshare=0.7.5
@@ -188,7 +188,7 @@ dependencies:
 - pyzmq=18.0.1
 - q2-alignment=2019.7.0.dev0
 - q2-composition=2019.7.0.dev0
-- q2-cutadapt=2019.7.0.dev0
+- q2-cutadapt=2019.7.0.dev0+1.g70084a9
 - q2-dada2=2019.7.0.dev0
 - q2-deblur=2019.7.0.dev0
 - q2-demux=2019.7.0.dev0
@@ -213,6 +213,7 @@ dependencies:
 - qiime2=2019.7.0.dev0
 - qt=5.9.7
 - r-assertthat=0.2.1
+- r-backports=1.1.4
 - r-base=3.5.1
 - r-bh=1.69.0_1
 - r-bitops=1.0_6
@@ -243,7 +244,7 @@ dependencies:
 - r-munsell=0.5.0
 - r-nlme=3.1_139
 - r-permute=0.9_5
-- r-pillar=1.3.1
+- r-pillar=1.4.0
 - r-pkgconfig=2.0.2
 - r-plyr=1.8.4
 - r-r6=2.4.0
@@ -259,12 +260,14 @@ dependencies:
 - r-stringr=1.4.0
 - r-tibble=2.1.1
 - r-utf8=1.1.4
+- r-vctrs=0.1.0
 - r-vegan=2.5_4
 - r-viridislite=0.3.0
 - r-withr=2.1.2
+- r-zeallot=0.1.0
 - raxml=8.2.12
 - readline=7.0
-- requests=2.21.0
+- requests=2.22.0
 - scikit-bio=0.5.5
 - scikit-learn=0.20.2
 - scipy=1.2.1
@@ -286,7 +289,7 @@ dependencies:
 - traitlets=4.3.2
 - tzlocal=1.5.1
 - unifrac=0.9.3
-- urllib3=1.24.2
+- urllib3=1.24.3
 - vsearch=2.7.0
 - wcwidth=0.1.7
 - webencodings=0.5.1
