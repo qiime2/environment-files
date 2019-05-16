@@ -71,7 +71,7 @@ dependencies:
   - icu=58.2
   - idna=2.8
   - ijson=2.3
-  - ipykernel=5.1.0
+  - ipykernel=5.1.1
   - ipython=7.5.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.4.2
@@ -155,7 +155,7 @@ dependencies:
   - pyzmq=18.0.1
   - q2-alignment=2019.7.0.dev0
   - q2-composition=2019.7.0.dev0
-  - q2-cutadapt=2019.7.0.dev0
+  - q2-cutadapt=2019.7.0.dev0+1.g70084a9
   - q2-dada2=2019.7.0.dev0
   - q2-deblur=2019.7.0.dev0
   - q2-demux=2019.7.0.dev0
@@ -233,7 +233,7 @@ dependencies:
   - r-zeallot=0.1.0
   - raxml=8.2.12
   - readline=7.0
-  - requests=2.21.0
+  - requests=2.22.0
   - scikit-bio=0.5.5
   - scikit-learn=0.20.2
   - scipy=1.2.1
@@ -265,5 +265,5 @@ dependencies:
   - yaml=0.1.7
   - zeromq=4.3.1
   - zlib=1.2.11
-prefix: /worker/volumes/live/7dc8dd78-e372-42af-7dd1-aec272b81027/volume/test-env
+prefix: /worker/volumes/live/92d43d37-55cc-4a0a-4ce4-7d40c06a975d/volume/test-env
 
