@@ -31,7 +31,7 @@ dependencies:
   - blas=1.1
   - blast=2.6.0
   - bleach=3.1.0
-  - bokeh=1.1.0
+  - bokeh=1.2.0
   - boost=1.67.0
   - boost-cpp=1.67.0
   - bwidget=1.9.11
@@ -71,7 +71,7 @@ dependencies:
   - icu=58.2
   - idna=2.8
   - ijson=2.3
-  - importlib_metadata=0.15
+  - importlib_metadata=0.17
   - ipykernel=5.1.1
   - ipython=7.5.0
   - ipython_genutils=0.2.0
@@ -178,7 +178,7 @@ dependencies:
   - q2-vsearch=2019.7.0.dev0
   - q2cli=2019.7.0.dev0+1.gc338b4c
   - q2templates=2019.7.0.dev0
-  - qiime2=2019.7.0.dev0
+  - qiime2=2019.7.0.dev0+2.ga09e8c1
   - r-assertthat=0.2.1
   - r-backports=1.1.4
   - r-base=3.5.1
@@ -267,5 +267,5 @@ dependencies:
   - zeromq=4.3.1
   - zipp=0.5.0
   - zlib=1.2.11
-prefix: /worker/volumes/live/45d93292-8fb2-4a65-7117-23f4494e604b/volume/test-env
+prefix: /worker/volumes/live/0646cb57-3e2c-479b-7d0a-ac753add9d0d/volume/test-env
 
