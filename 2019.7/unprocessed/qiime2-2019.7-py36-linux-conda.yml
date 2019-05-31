@@ -188,7 +188,7 @@ dependencies:
   - q2-alignment=2019.7.0.dev0
   - q2-composition=2019.7.0.dev0
   - q2-cutadapt=2019.7.0.dev0+1.g70084a9
-  - q2-dada2=2019.7.0.dev0
+  - q2-dada2=2019.7.0.dev0+1.g3f54318
   - q2-deblur=2019.7.0.dev0
   - q2-demux=2019.7.0.dev0+2.ga484a35
   - q2-diversity=2019.7.0.dev0
