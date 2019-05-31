@@ -115,6 +115,7 @@ dependencies:
   - libxcb=1.13
   - libxml2=2.9.9
   - lockfile=0.12.2
+  - lz4-c=1.8.3
   - mafft=7.310
   - make=4.2.1
   - markupsafe=1.1.1
@@ -186,10 +187,10 @@ dependencies:
   - pyyaml=5.1
   - pyzmq=18.0.1
   - q2-alignment=2019.7.0.dev0
-  - q2-composition=2019.7.0.dev0
+  - q2-composition=2019.7.0.dev0+1.gb6dff60
   - q2-cutadapt=2019.7.0.dev0+1.g70084a9
   - q2-dada2=2019.7.0.dev0+1.g3f54318
-  - q2-deblur=2019.7.0.dev0
+  - q2-deblur=2019.7.0.dev0+1.g949e27f
   - q2-demux=2019.7.0.dev0+2.ga484a35
   - q2-diversity=2019.7.0.dev0
   - q2-diversity-lib=2019.7.0.dev0
@@ -204,7 +205,7 @@ dependencies:
   - q2-quality-control=2019.7.0.dev0
   - q2-quality-filter=2019.7.0.dev0
   - q2-sample-classifier=2019.7.0.dev0
-  - q2-taxa=2019.7.0.dev0
+  - q2-taxa=2019.7.0.dev0+1.g5e01e2d
   - q2-types=2019.7.0.dev0
   - q2-vsearch=2019.7.0.dev0
   - q2cli=2019.7.0.dev0+1.gc338b4c
@@ -311,5 +312,6 @@ dependencies:
   - zeromq=4.3.1
   - zipp=0.5.0
   - zlib=1.2.11
+  - zstd=1.4.0
 prefix: /tmp/build/669e1b31/test-env
 
