@@ -103,6 +103,7 @@ dependencies:
 - libxml2=2.9.9
 - llvm-openmp=8.0.0
 - lockfile=0.12.2
+- lz4-c=1.8.3
 - mafft=7.310
 - make=4.2.1
 - markupsafe=1.1.1
@@ -150,7 +151,7 @@ dependencies:
 - pyparsing=2.3.0
 - pyrsistent=0.15.2
 - pysocks=1.7.0
-- pytest=4.5.0
+- pytest=4.6.1
 - python=3.6.7
 - python-dateutil=2.8.0
 - pytz=2019.1
@@ -175,7 +176,7 @@ dependencies:
 - q2-quality-control=2019.7.0.dev0
 - q2-quality-filter=2019.7.0.dev0
 - q2-sample-classifier=2019.7.0.dev0
-- q2-taxa=2019.7.0.dev0+1.g5e01e2d
+- q2-taxa=2019.7.0.dev0+2.g0ef887b
 - q2-types=2019.7.0.dev0
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+1.gc338b4c
@@ -267,5 +268,6 @@ dependencies:
 - xz=5.2.4
 - yaml=0.1.7
 - zeromq=4.3.1
-- zipp=0.5.0
+- zipp=0.5.1
 - zlib=1.2.11
+- zstd=1.4.0
