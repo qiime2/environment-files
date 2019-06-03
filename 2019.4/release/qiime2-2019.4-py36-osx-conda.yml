@@ -244,7 +244,7 @@ dependencies:
 - sina=1.4.0
 - six=1.12.0
 - sortmerna=2.0
-- sqlite=3.26.0
+- sqlite=3.28.0
 - statsmodels=0.9.0
 - tbb=2019.4
 - terminado=0.8.2
