@@ -179,7 +179,7 @@ dependencies:
   - q2-taxa=2019.7.0.dev0+2.g0ef887b
   - q2-types=2019.7.0.dev0+1.g98d2e37
   - q2-vsearch=2019.7.0.dev0
-  - q2cli=2019.7.0.dev0+2.g5792e31
+  - q2cli=2019.7.0.dev0+3.g7c49365
   - q2templates=2019.7.0.dev0
   - qiime2=2019.7.0.dev0+4.g3e053cb
   - r-assertthat=0.2.1
@@ -271,5 +271,5 @@ dependencies:
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/fdb8921f-3737-4cdc-700b-32f592d44b82/volume/test-env
+prefix: /worker/volumes/live/e25f3f03-c3f3-4c05-7900-7b91c051bd96/volume/test-env
 

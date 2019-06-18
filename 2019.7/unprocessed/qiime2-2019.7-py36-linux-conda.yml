@@ -214,7 +214,7 @@ dependencies:
   - q2-taxa=2019.7.0.dev0+2.g0ef887b
   - q2-types=2019.7.0.dev0+1.g98d2e37
   - q2-vsearch=2019.7.0.dev0
-  - q2cli=2019.7.0.dev0+2.g5792e31
+  - q2cli=2019.7.0.dev0+3.g7c49365
   - q2templates=2019.7.0.dev0
   - qiime2=2019.7.0.dev0+4.g3e053cb
   - qt=5.9.7
