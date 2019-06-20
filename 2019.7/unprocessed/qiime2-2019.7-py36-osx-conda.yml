@@ -166,7 +166,7 @@ dependencies:
   - q2-diversity=2019.7.0.dev0
   - q2-diversity-lib=2019.7.0.dev0
   - q2-emperor=2019.7.0.dev0
-  - q2-feature-classifier=2019.7.0.dev0+4.gac35743
+  - q2-feature-classifier=2019.7.0.dev0+5.g2ee38e2
   - q2-feature-table=2019.7.0.dev0
   - q2-fragment-insertion=2019.7.0.dev0
   - q2-gneiss=2019.7.0.dev0+1.gb9ee3ef
@@ -220,7 +220,7 @@ dependencies:
   - r-r6=2.4.0
   - r-rcolorbrewer=1.1_2
   - r-rcpp=1.0.1
-  - r-rcppparallel=4.4.2
+  - r-rcppparallel=4.4.3
   - r-rcurl=1.95_4.12
   - r-reshape2=1.4.3
   - r-rlang=0.3.4
@@ -231,7 +231,7 @@ dependencies:
   - r-tibble=2.1.3
   - r-utf8=1.1.4
   - r-vctrs=0.1.0
-  - r-vegan=2.5_4
+  - r-vegan=2.5_5
   - r-viridislite=0.3.0
   - r-withr=2.1.2
   - r-zeallot=0.1.0
@@ -271,5 +271,5 @@ dependencies:
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/dedf54b9-6264-4dca-77be-eca017694523/volume/test-env
+prefix: /worker/volumes/live/7da66c2a-2dfb-4791-40b6-e1ce7b1342e6/volume/test-env
 
