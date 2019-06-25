@@ -40,7 +40,7 @@ dependencies:
   - ca-certificates=2019.6.16
   - cachecontrol=0.12.5
   - cairo=1.14.12
-  - certifi=2019.3.9
+  - certifi=2019.6.16
   - cffi=1.12.3
   - chardet=3.0.4
   - click=7.0
@@ -77,7 +77,7 @@ dependencies:
   - ipython_genutils=0.2.0
   - ipywidgets=7.4.2
   - iqtree=1.6.11
-  - jedi=0.13.3
+  - jedi=0.14.0
   - jinja2=2.10.1
   - joblib=0.13.2
   - jpeg=9c
@@ -130,7 +130,7 @@ dependencies:
   - pandoc=2.7.3
   - pandocfilters=1.4.2
   - pango=1.40.14
-  - parso=0.4.0
+  - parso=0.5.0
   - patsy=0.5.1
   - pcre=8.41
   - pexpect=4.7.0
@@ -140,7 +140,7 @@ dependencies:
   - pip=19.1.1
   - pixman=0.34.0
   - pluggy=0.12.0
-  - prometheus_client=0.7.0
+  - prometheus_client=0.7.1
   - prompt_toolkit=2.0.9
   - psutil=5.6.3
   - ptyprocess=0.6.0
@@ -175,7 +175,7 @@ dependencies:
   - q2-phylogeny=2019.7.0.dev0
   - q2-quality-control=2019.7.0.dev0
   - q2-quality-filter=2019.7.0.dev0
-  - q2-sample-classifier=2019.7.0.dev0+2.gcf8a15f
+  - q2-sample-classifier=2019.7.0.dev0+3.g9526961
   - q2-taxa=2019.7.0.dev0+2.g0ef887b
   - q2-types=2019.7.0.dev0+3.g35561ff
   - q2-vsearch=2019.7.0.dev0
@@ -254,7 +254,7 @@ dependencies:
   - testpath=0.4.2
   - tk=8.6.9
   - tktable=2.10
-  - tornado=6.0.2
+  - tornado=6.0.3
   - traitlets=4.3.2
   - tzlocal=1.5.1
   - unifrac=0.9.3
@@ -271,5 +271,5 @@ dependencies:
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/7da66c2a-2dfb-4791-40b6-e1ce7b1342e6/volume/test-env
+prefix: /worker/volumes/live/53ed1de1-8216-43fe-6fd3-468bca743bd7/volume/test-env
 
