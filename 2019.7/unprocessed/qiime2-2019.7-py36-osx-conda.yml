@@ -156,7 +156,7 @@ dependencies:
   - python-dateutil=2.8.0
   - pytz=2019.1
   - pyyaml=5.1.1
-  - pyzmq=18.0.1
+  - pyzmq=18.0.2
   - q2-alignment=2019.7.0.dev0
   - q2-composition=2019.7.0.dev0+1.gb6dff60
   - q2-cutadapt=2019.7.0.dev0+1.g70084a9
@@ -179,7 +179,7 @@ dependencies:
   - q2-taxa=2019.7.0.dev0+2.g0ef887b
   - q2-types=2019.7.0.dev0+3.g35561ff
   - q2-vsearch=2019.7.0.dev0
-  - q2cli=2019.7.0.dev0+3.g7c49365
+  - q2cli=2019.7.0.dev0+4.g318577b
   - q2templates=2019.7.0.dev0+1.g685270d
   - qiime2=2019.7.0.dev0+4.g3e053cb
   - r-assertthat=0.2.1
@@ -223,7 +223,7 @@ dependencies:
   - r-rcppparallel=4.4.3
   - r-rcurl=1.95_4.12
   - r-reshape2=1.4.3
-  - r-rlang=0.3.4
+  - r-rlang=0.4.0
   - r-scales=1.0.0
   - r-snow=0.4_3
   - r-stringi=1.4.3
@@ -248,7 +248,7 @@ dependencies:
   - six=1.12.0
   - sortmerna=2.0
   - sqlite=3.28.0
-  - statsmodels=0.9.0
+  - statsmodels=0.10.0
   - tbb=2019.7
   - terminado=0.8.2
   - testpath=0.4.2
@@ -264,12 +264,12 @@ dependencies:
   - webencodings=0.5.1
   - wheel=0.33.4
   - widgetsnbextension=3.4.2
-  - xopen=0.7.0
+  - xopen=0.7.1
   - xz=5.2.4
   - yaml=0.1.7
   - zeromq=4.3.1
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/53ed1de1-8216-43fe-6fd3-468bca743bd7/volume/test-env
+prefix: /worker/volumes/live/aea3f0ea-34d3-4d4a-522a-e674a02f2488/volume/test-env
 
