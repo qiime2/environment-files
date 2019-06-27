@@ -216,7 +216,7 @@ dependencies:
 - q2-taxa=2019.7.0.dev0+2.g0ef887b
 - q2-types=2019.7.0.dev0+3.g35561ff
 - q2-vsearch=2019.7.0.dev0
-- q2cli=2019.7.0.dev0+3.g7c49365
+- q2cli=2019.7.0.dev0+4.g318577b
 - q2templates=2019.7.0.dev0+1.g685270d
 - qiime2=2019.7.0.dev0+4.g3e053cb
 - qt=5.9.7
@@ -287,7 +287,7 @@ dependencies:
 - six=1.12.0
 - sortmerna=2.0
 - sqlite=3.28.0
-- statsmodels=0.9.0
+- statsmodels=0.10.0
 - tbb=2019.7
 - terminado=0.8.2
 - testpath=0.4.2
@@ -303,7 +303,7 @@ dependencies:
 - webencodings=0.5.1
 - wheel=0.33.4
 - widgetsnbextension=3.4.2
-- xopen=0.7.0
+- xopen=0.7.1
 - xorg-kbproto=1.0.7
 - xorg-libice=1.0.9
 - xorg-libsm=1.2.3
