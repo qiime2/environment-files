@@ -178,7 +178,7 @@ dependencies:
 - q2-quality-control=2019.7.0.dev0
 - q2-quality-filter=2019.7.0.dev0
 - q2-sample-classifier=2019.7.0.dev0+3.g9526961
-- q2-taxa=2019.7.0.dev0+2.g0ef887b
+- q2-taxa=2019.7.0.dev0+3.g0a840b7
 - q2-types=2019.7.0.dev0+3.g35561ff
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+4.g318577b

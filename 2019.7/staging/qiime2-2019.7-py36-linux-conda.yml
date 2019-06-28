@@ -193,7 +193,7 @@ dependencies:
 - python-dateutil=2.8.0
 - pytz=2019.1
 - pyyaml=5.1.1
-- pyzmq=18.0.1
+- pyzmq=18.0.2
 - q2-alignment=2019.7.0.dev0
 - q2-composition=2019.7.0.dev0+1.gb6dff60
 - q2-cutadapt=2019.7.0.dev0+1.g70084a9
@@ -213,7 +213,7 @@ dependencies:
 - q2-quality-control=2019.7.0.dev0
 - q2-quality-filter=2019.7.0.dev0
 - q2-sample-classifier=2019.7.0.dev0+3.g9526961
-- q2-taxa=2019.7.0.dev0+2.g0ef887b
+- q2-taxa=2019.7.0.dev0+3.g0a840b7
 - q2-types=2019.7.0.dev0+3.g35561ff
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+4.g318577b
@@ -261,7 +261,7 @@ dependencies:
 - r-rcppparallel=4.4.3
 - r-rcurl=1.95_4.12
 - r-reshape2=1.4.3
-- r-rlang=0.3.4
+- r-rlang=0.4.0
 - r-scales=1.0.0
 - r-snow=0.4_3
 - r-stringi=1.4.3
