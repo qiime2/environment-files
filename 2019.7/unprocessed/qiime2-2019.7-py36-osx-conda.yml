@@ -46,7 +46,7 @@ dependencies:
   - click=7.0
   - cryptography=2.7
   - curl=7.64.1
-  - cutadapt=2.3
+  - cutadapt=2.4
   - cycler=0.10.0
   - deblur=1.1.0
   - decorator=4.4.0
@@ -82,7 +82,7 @@ dependencies:
   - joblib=0.13.2
   - jpeg=9c
   - jsonschema=3.0.1
-  - jupyter_client=5.3.0
+  - jupyter_client=5.3.1
   - jupyter_core=4.4.0
   - kiwisolver=1.1.0
   - krb5=1.16.3
@@ -163,7 +163,7 @@ dependencies:
   - q2-dada2=2019.7.0.dev0+1.g3f54318
   - q2-deblur=2019.7.0.dev0+1.g949e27f
   - q2-demux=2019.7.0.dev0+2.ga484a35
-  - q2-diversity=2019.7.0.dev0
+  - q2-diversity=2019.7.0.dev0+1.g88d3f42
   - q2-diversity-lib=2019.7.0.dev0
   - q2-emperor=2019.7.0.dev0+1.g158475c
   - q2-feature-classifier=2019.7.0.dev0+5.g2ee38e2
@@ -272,5 +272,5 @@ dependencies:
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/cc96f564-09f9-4911-4a4c-b9c1517cc476/volume/test-env
+prefix: /worker/volumes/live/cdafe665-2951-4f1b-52ad-0531dd1585df/volume/test-env
 
