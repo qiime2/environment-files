@@ -201,7 +201,7 @@ dependencies:
 - q2-dada2=2019.7.0.dev0+1.g3f54318
 - q2-deblur=2019.7.0.dev0+1.g949e27f
 - q2-demux=2019.7.0.dev0+2.ga484a35
-- q2-diversity=2019.7.0.dev0+1.g88d3f42
+- q2-diversity=2019.7.0.dev0+2.g4c235a0
 - q2-diversity-lib=2019.7.0.dev0
 - q2-emperor=2019.7.0.dev0+1.g158475c
 - q2-feature-classifier=2019.7.0.dev0+5.g2ee38e2
@@ -298,7 +298,7 @@ dependencies:
 - tornado=6.0.3
 - traitlets=4.3.2
 - tzlocal=1.5.1
-- unifrac=0.9.3
+- unifrac=0.10.0
 - urllib3=1.24.3
 - vsearch=2.7.0
 - wcwidth=0.1.7
