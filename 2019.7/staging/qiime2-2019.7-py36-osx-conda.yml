@@ -126,7 +126,7 @@ dependencies:
 - openblas=0.3.3
 - openjdk=11.0.1
 - openmp=8.0.0
-- openssl=1.1.1b
+- openssl=1.1.1c
 - packaging=19.0
 - pandas=0.24.2
 - pandoc=2.7.3
@@ -172,14 +172,14 @@ dependencies:
 - q2-feature-table=2019.7.0.dev0
 - q2-fragment-insertion=2019.7.0.dev0
 - q2-gneiss=2019.7.0.dev0+1.gb9ee3ef
-- q2-longitudinal=2019.7.0.dev0+1.ga146031
+- q2-longitudinal=2019.7.0.dev0+2.gc2aa91c
 - q2-metadata=2019.7.0.dev0
 - q2-phylogeny=2019.7.0.dev0
 - q2-quality-control=2019.7.0.dev0
 - q2-quality-filter=2019.7.0.dev0
 - q2-sample-classifier=2019.7.0.dev0+3.g9526961
 - q2-taxa=2019.7.0.dev0+3.g0a840b7
-- q2-types=2019.7.0.dev0+3.g35561ff
+- q2-types=2019.7.0.dev0+4.g670bb0e
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+4.g318577b
 - q2templates=2019.7.0.dev0+1.g685270d
