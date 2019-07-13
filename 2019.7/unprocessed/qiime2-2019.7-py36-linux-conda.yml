@@ -110,7 +110,7 @@ dependencies:
   - libiconv=1.15
   - libopenblas=0.3.6
   - libpng=1.6.37
-  - libsodium=1.0.16
+  - libsodium=1.0.17
   - libssh2=1.8.2
   - libstdcxx-ng=9.1.0
   - libtiff=4.0.10
@@ -202,7 +202,7 @@ dependencies:
   - q2-diversity=2019.7.0.dev0+2.g4c235a0
   - q2-diversity-lib=2019.7.0.dev0
   - q2-emperor=2019.7.0.dev0+1.g158475c
-  - q2-feature-classifier=2019.7.0.dev0+5.g2ee38e2
+  - q2-feature-classifier=2019.7.0.dev0+6.g14cee1c
   - q2-feature-table=2019.7.0.dev0
   - q2-fragment-insertion=2019.7.0.dev0
   - q2-gneiss=2019.7.0.dev0+1.gb9ee3ef
@@ -297,7 +297,7 @@ dependencies:
   - traitlets=4.3.2
   - tzlocal=1.5.1
   - unifrac=0.10.0
-  - urllib3=1.24.3
+  - urllib3=1.25.3
   - vsearch=2.7.0
   - wcwidth=0.1.7
   - webencodings=0.5.1
@@ -317,7 +317,7 @@ dependencies:
   - xorg-xproto=7.0.31
   - xz=5.2.4
   - yaml=0.1.7
-  - zeromq=4.3.1
+  - zeromq=4.3.2
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
