@@ -38,7 +38,7 @@ dependencies:
 - boost-cpp=1.67.0
 - bwidget=1.9.11
 - bz2file=0.98
-- bzip2=1.0.6
+- bzip2=1.0.8
 - ca-certificates=2019.6.16
 - cachecontrol=0.12.5
 - cairo=1.14.12
@@ -47,7 +47,7 @@ dependencies:
 - chardet=3.0.4
 - click=7.0
 - cryptography=2.7
-- curl=7.64.1
+- curl=7.65.3
 - cutadapt=2.4
 - cycler=0.10.0
 - deblur=1.1.0
@@ -89,7 +89,7 @@ dependencies:
 - kiwisolver=1.1.0
 - krb5=1.16.3
 - libarbdb=6.0.6
-- libcurl=7.64.1
+- libcurl=7.65.3
 - libcxx=8.0.0
 - libcxxabi=8.0.0
 - libedit=3.1.20170329
@@ -120,7 +120,7 @@ dependencies:
 - ncurses=6.1
 - networkx=2.3
 - nose=1.3.7
-- notebook=5.7.8
+- notebook=6.0.0
 - numpy=1.16.2
 - olefile=0.46
 - openblas=0.3.3
@@ -132,7 +132,7 @@ dependencies:
 - pandoc=2.7.3
 - pandocfilters=1.4.2
 - pango=1.40.14
-- parso=0.5.0
+- parso=0.5.1
 - patsy=0.5.1
 - pcre=8.41
 - pexpect=4.7.0
@@ -172,7 +172,7 @@ dependencies:
 - q2-feature-table=2019.7.0.dev0
 - q2-fragment-insertion=2019.7.0.dev0
 - q2-gneiss=2019.7.0.dev0+1.gb9ee3ef
-- q2-longitudinal=2019.7.0.dev0+2.gc2aa91c
+- q2-longitudinal=2019.7.0.dev0+3.gc0aa01b
 - q2-metadata=2019.7.0.dev0
 - q2-phylogeny=2019.7.0.dev0
 - q2-quality-control=2019.7.0.dev0
@@ -183,7 +183,7 @@ dependencies:
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+4.g318577b
 - q2templates=2019.7.0.dev0+1.g685270d
-- qiime2=2019.7.0.dev0+4.g3e053cb
+- qiime2=2019.7.0.dev0+6.gb94e144
 - r-assertthat=0.2.1
 - r-backports=1.1.4
 - r-base=3.5.1
@@ -251,7 +251,7 @@ dependencies:
 - six=1.12.0
 - sortmerna=2.0
 - sqlite=3.28.0
-- statsmodels=0.10.0
+- statsmodels=0.10.1
 - tbb=2019.7
 - terminado=0.8.2
 - testpath=0.4.2
