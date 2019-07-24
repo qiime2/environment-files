@@ -33,7 +33,7 @@ dependencies:
   - blas=1.1
   - blast=2.9.0
   - bleach=3.1.0
-  - bokeh=1.2.0
+  - bokeh=1.3.0
   - boost=1.68.0
   - boost-cpp=1.68.0
   - bwidget=1.9.11
@@ -171,7 +171,7 @@ dependencies:
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=6.0.0
-  - pip=19.1.1
+  - pip=19.2.1
   - pixman=0.38.0
   - pluggy=0.12.0
   - prometheus_client=0.7.1
@@ -211,7 +211,7 @@ dependencies:
   - q2-phylogeny=2019.7.0.dev0
   - q2-quality-control=2019.7.0.dev0
   - q2-quality-filter=2019.7.0.dev0
-  - q2-sample-classifier=2019.7.0.dev0+3.g9526961
+  - q2-sample-classifier=2019.7.0.dev0+5.g37eb6a8
   - q2-taxa=2019.7.0.dev0+3.g0a840b7
   - q2-types=2019.7.0.dev0+4.g670bb0e
   - q2-vsearch=2019.7.0.dev0
@@ -295,7 +295,7 @@ dependencies:
   - tktable=2.10
   - tornado=6.0.3
   - traitlets=4.3.2
-  - tzlocal=1.5.1
+  - tzlocal=2.0.0
   - unifrac=0.10.0
   - urllib3=1.25.3
   - vsearch=2.7.0
