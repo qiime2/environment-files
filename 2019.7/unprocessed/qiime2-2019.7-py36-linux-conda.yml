@@ -211,8 +211,8 @@ dependencies:
   - q2-phylogeny=2019.7.0.dev0
   - q2-quality-control=2019.7.0.dev0
   - q2-quality-filter=2019.7.0.dev0
-  - q2-sample-classifier=2019.7.0.dev0+5.g37eb6a8
-  - q2-taxa=2019.7.0.dev0+3.g0a840b7
+  - q2-sample-classifier=2019.7.0.dev0+6.g226324b
+  - q2-taxa=2019.7.0.dev0+4.g37228ae
   - q2-types=2019.7.0.dev0+4.g670bb0e
   - q2-vsearch=2019.7.0.dev0
   - q2cli=2019.7.0.dev0+5.g1091b1b
