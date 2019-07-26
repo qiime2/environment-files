@@ -165,7 +165,7 @@ dependencies:
 - q2-dada2=2019.7.0.dev0+1.g3f54318
 - q2-deblur=2019.7.0.dev0+1.g949e27f
 - q2-demux=2019.7.0.dev0+2.ga484a35
-- q2-diversity=2019.7.0.dev0+4.g4ea7abd
+- q2-diversity=2019.7.0.dev0+5.g272a79e
 - q2-diversity-lib=2019.7.0.dev0
 - q2-emperor=2019.7.0.dev0+1.g158475c
 - q2-feature-classifier=2019.7.0.dev0+6.g14cee1c
@@ -177,13 +177,13 @@ dependencies:
 - q2-phylogeny=2019.7.0.dev0
 - q2-quality-control=2019.7.0.dev0
 - q2-quality-filter=2019.7.0.dev0
-- q2-sample-classifier=2019.7.0.dev0+5.g37eb6a8
-- q2-taxa=2019.7.0.dev0+3.g0a840b7
+- q2-sample-classifier=2019.7.0.dev0+6.g226324b
+- q2-taxa=2019.7.0.dev0+4.g37228ae
 - q2-types=2019.7.0.dev0+4.g670bb0e
 - q2-vsearch=2019.7.0.dev0
 - q2cli=2019.7.0.dev0+5.g1091b1b
 - q2templates=2019.7.0.dev0+1.g685270d
-- qiime2=2019.7.0.dev0+6.gb94e144
+- qiime2=2019.7.0.dev0+7.g0fc8e57
 - r-assertthat=0.2.1
 - r-backports=1.1.4
 - r-base=3.5.1
