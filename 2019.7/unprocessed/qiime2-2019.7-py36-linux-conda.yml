@@ -87,7 +87,7 @@ dependencies:
   - ijson=2.3
   - importlib_metadata=0.18
   - ipykernel=5.1.1
-  - ipython=7.6.1
+  - ipython=7.7.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.5.0
   - iqtree=1.6.11
@@ -211,7 +211,7 @@ dependencies:
   - q2-phylogeny=2019.7.0.dev0
   - q2-quality-control=2019.7.0.dev0
   - q2-quality-filter=2019.7.0.dev0
-  - q2-sample-classifier=2019.7.0.dev0+6.g226324b
+  - q2-sample-classifier=2019.7.0.dev0+7.ga3255b6
   - q2-taxa=2019.7.0.dev0+4.g37228ae
   - q2-types=2019.7.0.dev0+4.g670bb0e
   - q2-vsearch=2019.7.0.dev0
