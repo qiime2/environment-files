@@ -185,7 +185,7 @@ dependencies:
   - pyopenssl=19.0.0
   - pyparsing=2.3.0
   - pyqt=5.9.2
-  - pyrsistent=0.15.3
+  - pyrsistent=0.15.4
   - pysocks=1.7.0
   - pytest=5.0.1
   - python=3.6.7

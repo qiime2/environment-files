@@ -149,7 +149,7 @@ dependencies:
   - pygments=2.4.2
   - pyopenssl=19.0.0
   - pyparsing=2.3.0
-  - pyrsistent=0.15.3
+  - pyrsistent=0.15.4
   - pysocks=1.7.0
   - pytest=5.0.1
   - python=3.6.7
@@ -272,5 +272,5 @@ dependencies:
   - zipp=0.5.1
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/fc787038-7165-4841-7db8-06f5e3b2ff32/volume/test-env
+prefix: /worker/volumes/live/1bf1b8f8-cc0b-4c79-7492-2149fcefdc94/volume/test-env
 
