@@ -208,7 +208,7 @@ dependencies:
   - q2-feature-classifier=2019.7.0.dev0+13.g576ead7
   - q2-feature-table=2019.7.0.dev0
   - q2-fragment-insertion=2019.7.0.dev0
-  - q2-gneiss=2019.7.0.dev0+2.g5f66f79
+  - q2-gneiss=2019.7.0.dev0+3.g22ec9e1
   - q2-longitudinal=2019.7.0.dev0+3.gc0aa01b
   - q2-metadata=2019.7.0.dev0
   - q2-phylogeny=2019.7.0.dev0
@@ -216,9 +216,9 @@ dependencies:
   - q2-quality-filter=2019.7.0.dev0
   - q2-sample-classifier=2019.7.0.dev0+9.gba1d02d
   - q2-taxa=2019.7.0.dev0+4.g37228ae
-  - q2-types=2019.7.0.dev0+8.gccdc9a2
+  - q2-types=2019.7.0.dev0+11.g8d7855f
   - q2-vsearch=2019.7.0.dev0
-  - q2cli=2019.7.0.dev0+6.gda2664e
+  - q2cli=2019.7.0.dev0+8.gd0410cd
   - q2templates=2019.7.0.dev0+1.g685270d
   - qiime2=2019.7.0.dev0+10.g0a30ed1
   - qt=5.9.7
