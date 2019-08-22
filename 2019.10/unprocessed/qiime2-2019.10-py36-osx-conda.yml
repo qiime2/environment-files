@@ -131,7 +131,7 @@ dependencies:
   - ncurses=6.1
   - networkx=2.3
   - nose=1.3.7
-  - notebook=6.0.0
+  - notebook=6.0.1
   - numpy=1.17.0
   - olefile=0.46
   - openjdk=11.0.1
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.5.2
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/95011395-2e60-4cc3-5385-bb42f382b36a/volume/test-env
+prefix: /worker/volumes/live/476a974f-1a37-4e85-441b-9f35e5301cf0/volume/test-env
 
