@@ -149,7 +149,7 @@ dependencies:
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=6.1.0
-  - pip=19.2.2
+  - pip=19.2.3
   - pixman=0.34.0
   - pluggy=0.12.0
   - prometheus_client=0.7.1
@@ -177,22 +177,22 @@ dependencies:
   - q2-demux=2019.10.0.dev0
   - q2-diversity=2019.10.0.dev0
   - q2-emperor=2019.10.0.dev0
-  - q2-feature-classifier=2019.10.0.dev0+2.g45bf1d7
-  - q2-feature-table=2019.10.0.dev0+1.g6360541
+  - q2-feature-classifier=2019.10.0.dev0+3.g00dc2b3
+  - q2-feature-table=2019.10.0.dev0+2.gfbd72ce
   - q2-fragment-insertion=2019.10.0.dev0
   - q2-gneiss=2019.10.0.dev0+1.ge558760
-  - q2-longitudinal=2019.10.0.dev0
+  - q2-longitudinal=2019.10.0.dev0+1.g6e816ba
   - q2-metadata=2019.10.0.dev0
   - q2-phylogeny=2019.10.0.dev0
   - q2-quality-control=2019.10.0.dev0
   - q2-quality-filter=2019.10.0.dev0
-  - q2-sample-classifier=2019.10.0.dev0+1.g2b2c0b5
+  - q2-sample-classifier=2019.10.0.dev0+3.gbe9fcca
   - q2-taxa=2019.10.0.dev0
   - q2-types=2019.10.0.dev0+2.ge046b9a
   - q2-vsearch=2019.10.0.dev0
   - q2cli=2019.10.0.dev0+1.gd68a52c
   - q2templates=2019.10.0.dev0
-  - qiime2=2019.10.0.dev0+1.g503845e
+  - qiime2=2019.10.0.dev0+3.g19b5964
   - r-assertthat=0.2.1
   - r-backports=1.1.4
   - r-base=3.5.1
@@ -280,8 +280,8 @@ dependencies:
   - xz=5.2.4
   - yaml=0.1.7
   - zeromq=4.3.2
-  - zipp=0.5.2
+  - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/476a974f-1a37-4e85-441b-9f35e5301cf0/volume/test-env
+prefix: /worker/volumes/live/4374a5e6-8177-4d8e-56ec-f7795b7072d5/volume/test-env
 
