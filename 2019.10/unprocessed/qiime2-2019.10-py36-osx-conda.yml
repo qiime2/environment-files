@@ -186,7 +186,7 @@ dependencies:
   - q2-phylogeny=2019.10.0.dev0
   - q2-quality-control=2019.10.0.dev0
   - q2-quality-filter=2019.10.0.dev0
-  - q2-sample-classifier=2019.10.0.dev0+3.gbe9fcca
+  - q2-sample-classifier=2019.10.0.dev0+4.g8ab8702
   - q2-taxa=2019.10.0.dev0
   - q2-types=2019.10.0.dev0+2.ge046b9a
   - q2-vsearch=2019.10.0.dev0
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/8027829c-df60-409d-743e-dd94ff82be65/volume/test-env
+prefix: /worker/volumes/live/407222f5-b3d8-4668-5f61-8aa1af91bac2/volume/test-env
 
