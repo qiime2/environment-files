@@ -134,7 +134,7 @@ dependencies:
 - networkx=2.3
 - nose=1.3.7
 - notebook=6.0.1
-- numpy=1.17.0
+- numpy=1.17.1
 - olefile=0.46
 - openjdk=11.0.1
 - openmp=8.0.1
@@ -192,7 +192,7 @@ dependencies:
 - q2-taxa=2019.10.0.dev0
 - q2-types=2019.10.0.dev0+2.ge046b9a
 - q2-vsearch=2019.10.0.dev0
-- q2cli=2019.10.0.dev0+1.gd68a52c
+- q2cli=2019.10.0.dev0+2.gbbe9549
 - q2templates=2019.10.0.dev0
 - qiime2=2019.10.0.dev0+3.g19b5964
 - r-assertthat=0.2.1
@@ -263,7 +263,7 @@ dependencies:
 - sortmerna=2.0
 - sqlite=3.28.0
 - statsmodels=0.10.1
-- tbb=2019.7
+- tbb=2019.8
 - terminado=0.8.2
 - testpath=0.4.2
 - tk=8.6.9
