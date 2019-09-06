@@ -53,7 +53,7 @@ dependencies:
 - compiler-rt=8.0.1
 - cryptography=2.7
 - curl=7.65.3
-- cutadapt=2.4
+- cutadapt=2.5
 - cycler=0.10.0
 - cython=0.29.13
 - deblur=1.1.0
@@ -79,7 +79,7 @@ dependencies:
 - icu=58.2
 - idna=2.8
 - ijson=2.4
-- importlib_metadata=0.18
+- importlib_metadata=0.20
 - ipykernel=5.1.2
 - ipython=7.8.0
 - ipython_genutils=0.2.0
@@ -191,7 +191,7 @@ dependencies:
 - q2-sample-classifier=2019.10.0.dev0+5.g76878b2
 - q2-taxa=2019.10.0.dev0
 - q2-types=2019.10.0.dev0+2.ge046b9a
-- q2-vsearch=2019.10.0.dev0
+- q2-vsearch=2019.10.0.dev0+1.g411400f
 - q2cli=2019.10.0.dev0+2.gbbe9549
 - q2templates=2019.10.0.dev0
 - qiime2=2019.10.0.dev0+5.g99aac43
