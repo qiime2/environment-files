@@ -218,7 +218,7 @@ dependencies:
 - q2-phylogeny=2019.10.0.dev0
 - q2-quality-control=2019.10.0.dev0
 - q2-quality-filter=2019.10.0.dev0
-- q2-sample-classifier=2019.10.0.dev0+5.g76878b2
+- q2-sample-classifier=2019.10.0.dev0+6.gf4cf057
 - q2-taxa=2019.10.0.dev0
 - q2-types=2019.10.0.dev0+2.ge046b9a
 - q2-vsearch=2019.10.0.dev0+1.g411400f
@@ -310,7 +310,7 @@ dependencies:
 - webencodings=0.5.1
 - wheel=0.33.6
 - widgetsnbextension=3.5.1
-- xopen=0.8.1
+- xopen=0.8.2
 - xorg-fixesproto=5.0
 - xorg-inputproto=2.3.2
 - xorg-kbproto=1.0.7
