@@ -132,7 +132,7 @@ dependencies:
   - networkx=2.3
   - nose=1.3.7
   - notebook=6.0.1
-  - numpy=1.17.1
+  - numpy=1.17.2
   - olefile=0.46
   - openjdk=11.0.1
   - openmp=8.0.1
@@ -187,8 +187,8 @@ dependencies:
   - q2-quality-control=2019.10.0.dev0
   - q2-quality-filter=2019.10.0.dev0
   - q2-sample-classifier=2019.10.0.dev0+6.gf4cf057
-  - q2-taxa=2019.10.0.dev0
-  - q2-types=2019.10.0.dev0+2.ge046b9a
+  - q2-taxa=2019.10.0.dev0+1.gdcf7c7d
+  - q2-types=2019.10.0.dev0+3.g6dd5ec3
   - q2-vsearch=2019.10.0.dev0+1.g411400f
   - q2cli=2019.10.0.dev0+2.gbbe9549
   - q2templates=2019.10.0.dev0
@@ -221,7 +221,7 @@ dependencies:
   - r-magrittr=1.5
   - r-mass=7.3_51.4
   - r-matrix=1.2_17
-  - r-matrixstats=0.54.0
+  - r-matrixstats=0.55.0
   - r-mgcv=1.8_28
   - r-munsell=0.5.0
   - r-nlme=3.1_141
@@ -243,7 +243,7 @@ dependencies:
   - r-tibble=2.1.3
   - r-utf8=1.1.4
   - r-vctrs=0.2.0
-  - r-vegan=2.5_5
+  - r-vegan=2.5_6
   - r-viridislite=0.3.0
   - r-withr=2.1.2
   - r-zeallot=0.1.0
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/02029baa-7cc7-4a3a-5ddd-f2bfd066f1ee/volume/test-env
+prefix: /worker/volumes/live/6b182f28-8f77-4b76-6504-f38fc123908a/volume/test-env
 
