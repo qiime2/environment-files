@@ -36,7 +36,7 @@ dependencies:
   - boost-cpp=1.67.0
   - bwidget=1.9.11
   - bzip2=1.0.8
-  - ca-certificates=2019.6.16
+  - ca-certificates=2019.9.11
   - cachecontrol=0.12.5
   - cairo=1.14.12
   - cctools=895
@@ -70,14 +70,14 @@ dependencies:
   - glib=2.56.2
   - gneiss=0.4.5
   - graphite2=1.3.13
-  - h5py=2.9.0
+  - h5py=2.10.0
   - harfbuzz=1.9.0
   - hdf5=1.10.5
   - hdmedians=0.13
   - icu=58.2
   - idna=2.8
   - ijson=2.4
-  - importlib_metadata=0.20
+  - importlib_metadata=0.22
   - ipykernel=5.1.2
   - ipython=7.8.0
   - ipython_genutils=0.2.0
@@ -168,7 +168,7 @@ dependencies:
   - python-dateutil=2.8.0
   - pytz=2019.2
   - pyyaml=5.1.2
-  - pyzmq=18.0.2
+  - pyzmq=18.1.0
   - q2-alignment=2019.10.0.dev0
   - q2-composition=2019.10.0.dev0
   - q2-cutadapt=2019.10.0.dev0
@@ -190,7 +190,7 @@ dependencies:
   - q2-taxa=2019.10.0.dev0+1.gdcf7c7d
   - q2-types=2019.10.0.dev0+3.g6dd5ec3
   - q2-vsearch=2019.10.0.dev0+1.g411400f
-  - q2cli=2019.10.0.dev0+2.gbbe9549
+  - q2cli=2019.10.0.dev0+3.g72c3e4f
   - q2templates=2019.10.0.dev0
   - qiime2=2019.10.0.dev0+5.g99aac43
   - r-assertthat=0.2.1
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/6b182f28-8f77-4b76-6504-f38fc123908a/volume/test-env
+prefix: /worker/volumes/live/3b30607c-d1d5-488e-7bca-b8e918e0b1bd/volume/test-env
 
