@@ -39,7 +39,7 @@ dependencies:
   - ca-certificates=2019.9.11
   - cachecontrol=0.12.5
   - cairo=1.14.12
-  - cctools=895
+  - cctools=921
   - certifi=2019.6.16
   - cffi=1.12.3
   - chardet=3.0.4
@@ -76,8 +76,8 @@ dependencies:
   - hdmedians=0.13
   - icu=58.2
   - idna=2.8
-  - ijson=2.4
-  - importlib_metadata=0.22
+  - ijson=2.5
+  - importlib_metadata=0.23
   - ipykernel=5.1.2
   - ipython=7.8.0
   - ipython_genutils=0.2.0
@@ -92,7 +92,7 @@ dependencies:
   - jupyter_core=4.4.0
   - kiwisolver=1.1.0
   - krb5=1.16.3
-  - ld64=274.2
+  - ld64=409.12
   - libarbdb=6.0.6
   - libblas=3.8.0
   - libcblas=3.8.0
@@ -113,7 +113,6 @@ dependencies:
   - libssh2=1.8.2
   - libtiff=4.0.10
   - libxml2=2.9.9
-  - llvm-lto-tapi=4.0.1
   - llvm-openmp=8.0.1
   - lockfile=0.12.2
   - lz4-c=1.8.3
@@ -137,7 +136,7 @@ dependencies:
   - openjdk=11.0.1
   - openmp=8.0.1
   - openssl=1.1.1c
-  - packaging=19.0
+  - packaging=19.2
   - pandas=0.24.2
   - pandoc=2.7.3
   - pandocfilters=1.4.2
@@ -190,7 +189,7 @@ dependencies:
   - q2-taxa=2019.10.0.dev0+1.gdcf7c7d
   - q2-types=2019.10.0.dev0+3.g6dd5ec3
   - q2-vsearch=2019.10.0.dev0+1.g411400f
-  - q2cli=2019.10.0.dev0+3.g72c3e4f
+  - q2cli=2019.10.0.dev0+4.g3f55149
   - q2templates=2019.10.0.dev0
   - qiime2=2019.10.0.dev0+5.g99aac43
   - r-assertthat=0.2.1
@@ -214,7 +213,7 @@ dependencies:
   - r-gtable=0.3.0
   - r-hwriter=1.3.2
   - r-labeling=0.3
-  - r-lambda.r=1.2.3
+  - r-lambda.r=1.2.4
   - r-lattice=0.20_38
   - r-latticeextra=0.6_28
   - r-lazyeval=0.2.2
@@ -261,6 +260,7 @@ dependencies:
   - sortmerna=2.0
   - sqlite=3.28.0
   - statsmodels=0.10.1
+  - tapi=1000.10.8
   - tbb=2019.8
   - terminado=0.8.2
   - testpath=0.4.2
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/3b30607c-d1d5-488e-7bca-b8e918e0b1bd/volume/test-env
+prefix: /worker/volumes/live/fcb4374b-fd53-4428-552b-c2bd77873ae0/volume/test-env
 
