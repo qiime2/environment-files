@@ -43,12 +43,12 @@ dependencies:
   - certifi=2019.6.16
   - cffi=1.12.3
   - chardet=3.0.4
-  - clang=8.0.1
-  - clang_osx-64=8.0.1
-  - clangxx=8.0.1
-  - clangxx_osx-64=8.0.1
+  - clang=9.0.0
+  - clang_osx-64=9.0.0
+  - clangxx=9.0.0
+  - clangxx_osx-64=9.0.0
   - click=7.0
-  - compiler-rt=8.0.1
+  - compiler-rt=9.0.0
   - cryptography=2.7
   - curl=7.65.3
   - cutadapt=2.5
@@ -88,7 +88,7 @@ dependencies:
   - joblib=0.13.2
   - jpeg=9c
   - jsonschema=3.0.2
-  - jupyter_client=5.3.1
+  - jupyter_client=5.3.3
   - jupyter_core=4.4.0
   - kiwisolver=1.1.0
   - krb5=1.16.3
@@ -97,8 +97,8 @@ dependencies:
   - libblas=3.8.0
   - libcblas=3.8.0
   - libcurl=7.65.3
-  - libcxx=8.0.1
-  - libcxxabi=8.0.1
+  - libcxx=9.0.0
+  - libcxxabi=9.0.0
   - libedit=3.1.20170329
   - libffi=3.2.1
   - libgcc=4.8.5
@@ -106,7 +106,7 @@ dependencies:
   - libiconv=1.15
   - liblapack=3.8.0
   - liblapacke=3.8.0
-  - libllvm8=8.0.1
+  - libllvm9=9.0.0
   - libopenblas=0.3.7
   - libpng=1.6.37
   - libsodium=1.0.17
@@ -191,7 +191,7 @@ dependencies:
   - q2-vsearch=2019.10.0.dev0+1.g411400f
   - q2cli=2019.10.0.dev0+5.gb961653
   - q2templates=2019.10.0.dev0
-  - qiime2=2019.10.0.dev0+5.g99aac43
+  - qiime2=2019.10.0.dev0+6.gfe22993
   - r-assertthat=0.2.1
   - r-backports=1.1.4
   - r-base=3.5.1
@@ -202,8 +202,8 @@ dependencies:
   - r-colorspace=1.4_1
   - r-crayon=1.3.4
   - r-data.table=1.12.2
-  - r-digest=0.6.20
-  - r-ellipsis=0.2.0.1
+  - r-digest=0.6.21
+  - r-ellipsis=0.3.0
   - r-fansi=0.4.0
   - r-formatr=1.7
   - r-futile.logger=1.4.3
@@ -226,7 +226,7 @@ dependencies:
   - r-nlme=3.1_141
   - r-permute=0.9_5
   - r-pillar=1.4.2
-  - r-pkgconfig=2.0.2
+  - r-pkgconfig=2.0.3
   - r-plyr=1.8.4
   - r-r6=2.4.0
   - r-rcolorbrewer=1.1_2
@@ -270,7 +270,7 @@ dependencies:
   - traitlets=4.3.2
   - tzlocal=2.0.0
   - unifrac=0.10.0
-  - urllib3=1.25.5
+  - urllib3=1.25.6
   - vsearch=2.7.0
   - wcwidth=0.1.7
   - webencodings=0.5.1
@@ -283,5 +283,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.0
-prefix: /worker/volumes/live/f1547b99-09f5-4e57-42fd-56848cc596dc/volume/test-env
+prefix: /worker/volumes/live/52ef73cb-fa59-4f7b-509e-d8287c3565a1/volume/test-env
 
