@@ -100,7 +100,7 @@ dependencies:
 - joblib=0.13.2
 - jpeg=9c
 - jsonschema=3.0.2
-- jupyter_client=5.3.1
+- jupyter_client=5.3.3
 - jupyter_core=4.4.0
 - kiwisolver=1.1.0
 - krb5=1.16.3
@@ -224,7 +224,7 @@ dependencies:
 - q2-vsearch=2019.10.0.dev0+1.g411400f
 - q2cli=2019.10.0.dev0+5.gb961653
 - q2templates=2019.10.0.dev0
-- qiime2=2019.10.0.dev0+5.g99aac43
+- qiime2=2019.10.0.dev0+6.gfe22993
 - qt=5.9.7
 - r-assertthat=0.2.1
 - r-backports=1.1.4
@@ -236,8 +236,8 @@ dependencies:
 - r-colorspace=1.4_1
 - r-crayon=1.3.4
 - r-data.table=1.12.2
-- r-digest=0.6.20
-- r-ellipsis=0.2.0.1
+- r-digest=0.6.21
+- r-ellipsis=0.3.0
 - r-fansi=0.4.0
 - r-formatr=1.7
 - r-futile.logger=1.4.3
@@ -255,12 +255,12 @@ dependencies:
 - r-mass=7.3_51.4
 - r-matrix=1.2_17
 - r-matrixstats=0.55.0
-- r-mgcv=1.8_28
+- r-mgcv=1.8_29
 - r-munsell=0.5.0
 - r-nlme=3.1_141
 - r-permute=0.9_5
 - r-pillar=1.4.2
-- r-pkgconfig=2.0.2
+- r-pkgconfig=2.0.3
 - r-plyr=1.8.4
 - r-r6=2.4.0
 - r-rcolorbrewer=1.1_2
@@ -304,7 +304,7 @@ dependencies:
 - traitlets=4.3.2
 - tzlocal=2.0.0
 - unifrac=0.10.0
-- urllib3=1.25.5
+- urllib3=1.25.6
 - vsearch=2.7.0
 - wcwidth=0.1.7
 - webencodings=0.5.1
