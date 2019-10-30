@@ -179,7 +179,7 @@ dependencies:
   - q2-emperor=2019.10.0.dev0
   - q2-feature-classifier=2019.10.0.dev0+3.g00dc2b3
   - q2-feature-table=2019.10.0.dev0+2.gfbd72ce
-  - q2-fragment-insertion=2019.10.0.dev0+5.g8d19e74
+  - q2-fragment-insertion=2019.10.0.dev0+6.g4e658ab
   - q2-gneiss=2019.10.0.dev0+2.gea06c5d
   - q2-longitudinal=2019.10.0.dev0+1.g6e816ba
   - q2-metadata=2019.10.0.dev0
@@ -285,5 +285,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.3
-prefix: /worker/volumes/live/26652cb0-aa0a-45fd-7bed-7cac50556d4c/volume/test-env
+prefix: /worker/volumes/live/22787d00-3216-476b-5382-ba62d152f3ea/volume/test-env
 
