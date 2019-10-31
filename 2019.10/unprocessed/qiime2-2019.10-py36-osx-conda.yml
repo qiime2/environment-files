@@ -160,7 +160,7 @@ dependencies:
   - pycparser=2.19
   - pygments=2.4.2
   - pyopenssl=19.0.0
-  - pyparsing=2.3.0
+  - pyparsing=2.4.2
   - pyrsistent=0.15.5
   - pysocks=1.7.1
   - pytest=5.2.2
@@ -190,9 +190,9 @@ dependencies:
   - q2-taxa=2019.10.0.dev0+1.gdcf7c7d
   - q2-types=2019.10.0.dev0+5.g8470cf2
   - q2-vsearch=2019.10.0.dev0+1.g411400f
-  - q2cli=2019.10.0.dev0+8.gb06d130
+  - q2cli=2019.10.0.dev0+9.g040523e
   - q2templates=2019.10.0.dev0
-  - qiime2=2019.10.0.dev0+7.g8582df6
+  - qiime2=2019.10.0.dev0+10.gbe5d0f1
   - r-assertthat=0.2.1
   - r-backports=1.1.5
   - r-base=3.5.1
@@ -285,5 +285,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.3
-prefix: /worker/volumes/live/1126f103-833c-4b98-63d3-3ac50144d0e2/volume/test-env
+prefix: /worker/volumes/live/b75cdbc5-6427-456e-6f77-a66a62276f4f/volume/test-env
 

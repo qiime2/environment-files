@@ -191,7 +191,7 @@ dependencies:
   - pycparser=2.19
   - pygments=2.4.2
   - pyopenssl=19.0.0
-  - pyparsing=2.3.0
+  - pyparsing=2.4.2
   - pyqt=5.9.2
   - pyrsistent=0.15.5
   - pysocks=1.7.1
@@ -222,9 +222,9 @@ dependencies:
   - q2-taxa=2019.10.0.dev0+1.gdcf7c7d
   - q2-types=2019.10.0.dev0+5.g8470cf2
   - q2-vsearch=2019.10.0.dev0+1.g411400f
-  - q2cli=2019.10.0.dev0+8.gb06d130
+  - q2cli=2019.10.0.dev0+9.g040523e
   - q2templates=2019.10.0.dev0
-  - qiime2=2019.10.0.dev0+7.g8582df6
+  - qiime2=2019.10.0.dev0+10.gbe5d0f1
   - qt=5.9.7
   - r-assertthat=0.2.1
   - r-backports=1.1.5
