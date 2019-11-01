@@ -215,7 +215,7 @@ dependencies:
 - q2-feature-table=2019.10.0.dev0+2.gfbd72ce
 - q2-fragment-insertion=2019.10.0.dev0+7.gc34157e
 - q2-gneiss=2019.10.0.dev0+2.gea06c5d
-- q2-longitudinal=2019.10.0.dev0+1.g6e816ba
+- q2-longitudinal=2019.10.0.dev0+2.g426f772
 - q2-metadata=2019.10.0.dev0
 - q2-phylogeny=2019.10.0.dev0
 - q2-quality-control=2019.10.0.dev0
