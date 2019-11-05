@@ -160,7 +160,7 @@ dependencies:
   - pycparser=2.19
   - pygments=2.4.2
   - pyopenssl=19.0.0
-  - pyparsing=2.4.2
+  - pyparsing=2.4.3
   - pyrsistent=0.15.5
   - pysocks=1.7.1
   - pytest=5.2.2
@@ -285,5 +285,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.3
-prefix: /worker/volumes/live/0e59de0b-3fa1-4431-6153-12a6fce79812/volume/test-env
+prefix: /worker/volumes/live/ff13cb41-577b-4a3b-6f3a-3b227485c1b0/volume/test-env
 
