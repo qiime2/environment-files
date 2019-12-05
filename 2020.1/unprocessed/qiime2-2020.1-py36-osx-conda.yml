@@ -182,7 +182,7 @@ dependencies:
   - q2-gneiss=2020.1.0.dev0
   - q2-longitudinal=2020.1.0.dev0
   - q2-metadata=2020.1.0.dev0
-  - q2-phylogeny=2020.1.0.dev0
+  - q2-phylogeny=2020.1.0.dev0+1.g89e45f4
   - q2-quality-control=2020.1.0.dev0
   - q2-quality-filter=2020.1.0.dev0
   - q2-sample-classifier=2020.1.0.dev0+1.g17cf350
@@ -286,5 +286,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/9f34405f-32d2-4020-799b-4e109f47e975/volume/test-env
+prefix: /worker/volumes/live/b1694078-7fbc-40ef-57e5-549418365e0a/volume/test-env
 
