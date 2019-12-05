@@ -216,7 +216,7 @@ dependencies:
 - q2-gneiss=2020.1.0.dev0
 - q2-longitudinal=2020.1.0.dev0
 - q2-metadata=2020.1.0.dev0
-- q2-phylogeny=2020.1.0.dev0
+- q2-phylogeny=2020.1.0.dev0+1.g89e45f4
 - q2-quality-control=2020.1.0.dev0
 - q2-quality-filter=2020.1.0.dev0
 - q2-sample-classifier=2020.1.0.dev0+1.g17cf350
