@@ -122,7 +122,7 @@ dependencies:
   - matplotlib=3.1.0
   - matplotlib-base=3.1.0
   - mistune=0.8.4
-  - more-itertools=8.0.0
+  - more-itertools=8.0.2
   - msgpack-python=0.6.2
   - natsort=6.2.0
   - nbconvert=5.6.1
@@ -138,7 +138,7 @@ dependencies:
   - openssl=1.1.1d
   - packaging=19.2
   - pandas=0.25.3
-  - pandoc=2.8.0.1
+  - pandoc=2.8.1
   - pandocfilters=1.4.2
   - pango=1.40.14
   - parso=0.5.1
@@ -182,7 +182,7 @@ dependencies:
   - q2-gneiss=2020.1.0.dev0
   - q2-longitudinal=2020.1.0.dev0
   - q2-metadata=2020.1.0.dev0
-  - q2-phylogeny=2020.1.0.dev0+1.g89e45f4
+  - q2-phylogeny=2020.1.0.dev0+2.ga3107e7
   - q2-quality-control=2020.1.0.dev0
   - q2-quality-filter=2020.1.0.dev0
   - q2-sample-classifier=2020.1.0.dev0+1.g17cf350
@@ -197,7 +197,7 @@ dependencies:
   - r-base=3.5.1
   - r-bh=1.69.0_1
   - r-bitops=1.0_6
-  - r-cli=1.1.0
+  - r-cli=2.0.0
   - r-cluster=2.1.0
   - r-colorspace=1.4_1
   - r-crayon=1.3.4
@@ -286,5 +286,5 @@ dependencies:
   - zipp=0.6.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/b1694078-7fbc-40ef-57e5-549418365e0a/volume/test-env
+prefix: /worker/volumes/live/0a2ca84a-4bc0-4254-584f-54dc83dadf77/volume/test-env
 
