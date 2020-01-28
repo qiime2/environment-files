@@ -126,7 +126,7 @@ dependencies:
   - mistune=0.8.4
   - more-itertools=8.1.0
   - msgpack-python=0.6.2
-  - natsort=7.0.0
+  - natsort=7.0.1
   - nbconvert=5.6.1
   - nbformat=5.0.4
   - ncurses=6.1
@@ -192,7 +192,7 @@ dependencies:
   - q2-types=2020.2.0.dev0+1.gadf2699
   - q2-vsearch=2020.2.0.dev0+1.g58389bc
   - q2cli=2020.2.0.dev0+1.g72fda51
-  - q2templates=2020.2.0.dev0
+  - q2templates=2020.2.0.dev0+1.g6d2e26c
   - qiime2=2020.2.0.dev0+1.g3dfb618
   - r-assertthat=0.2.1
   - r-backports=1.1.5
@@ -288,5 +288,5 @@ dependencies:
   - zipp=2.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/ca63fdf5-56c3-420e-53e2-50cb6aa42ca7/volume/test-env
+prefix: /worker/volumes/live/fcc5fd01-8e92-4e14-5abd-8fc87f6e77db/volume/test-env
 
