@@ -126,7 +126,7 @@ dependencies:
 - matplotlib=3.1.0
 - matplotlib-base=3.1.0
 - mistune=0.8.4
-- more-itertools=8.1.0
+- more-itertools=8.2.0
 - msgpack-python=0.6.2
 - natsort=7.0.1
 - nbconvert=5.6.1
@@ -175,7 +175,7 @@ dependencies:
 - q2-alignment=2020.2.0.dev0+1.gb791b01
 - q2-composition=2020.2.0.dev0+1.g3f00558
 - q2-cutadapt=2020.2.0.dev0+1.gdf47daa
-- q2-dada2=2020.2.0.dev0+1.g4272182
+- q2-dada2=2020.2.0.dev0+2.g61417ae
 - q2-deblur=2020.2.0.dev0+1.ge3011d5
 - q2-demux=2020.2.0.dev0+1.g78162bc
 - q2-diversity=2020.2.0.dev0+1.gebb99f8
