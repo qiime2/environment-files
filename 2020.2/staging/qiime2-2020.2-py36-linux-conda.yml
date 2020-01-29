@@ -31,7 +31,7 @@ dependencies:
 - bioconductor-summarizedexperiment=1.12.0
 - bioconductor-xvector=0.22.0
 - bioconductor-zlibbioc=1.28.0
-- biom-format=2.1.7
+- biom-format=2.1.8
 - blas=2.14
 - blast=2.9.0
 - bleach=3.1.0
@@ -89,8 +89,8 @@ dependencies:
 - hmmer=3.1b2
 - icu=58.2
 - idna=2.8
-- ijson=2.5
-- importlib_metadata=1.4.0
+- ijson=2.6.0
+- importlib_metadata=1.5.0
 - inflect=4.0.0
 - ipykernel=5.1.4
 - ipython=7.11.1
@@ -99,7 +99,7 @@ dependencies:
 - iqtree=1.6.12
 - jaraco.itertools=5.0.0
 - jedi=0.16.0
-- jinja2=2.10.3
+- jinja2=2.11.0
 - joblib=0.14.1
 - jpeg=9c
 - jsonschema=3.2.0
@@ -188,7 +188,7 @@ dependencies:
 - pixman=0.38.0
 - pluggy=0.12.0
 - prometheus_client=0.7.1
-- prompt_toolkit=3.0.2
+- prompt_toolkit=3.0.3
 - psutil=5.6.7
 - pthread-stubs=0.4
 - ptyprocess=0.6.0
@@ -209,7 +209,7 @@ dependencies:
 - q2-alignment=2020.2.0.dev0+1.gb791b01
 - q2-composition=2020.2.0.dev0+1.g3f00558
 - q2-cutadapt=2020.2.0.dev0+1.gdf47daa
-- q2-dada2=2020.2.0.dev0
+- q2-dada2=2020.2.0.dev0+1.g4272182
 - q2-deblur=2020.2.0.dev0+1.ge3011d5
 - q2-demux=2020.2.0.dev0+1.g78162bc
 - q2-diversity=2020.2.0.dev0+1.gebb99f8
@@ -275,7 +275,7 @@ dependencies:
 - r-rcppparallel=4.4.4
 - r-rcurl=1.98_1.1
 - r-reshape2=1.4.3
-- r-rlang=0.4.3
+- r-rlang=0.4.4
 - r-scales=1.1.0
 - r-snow=0.4_3
 - r-stringi=1.4.3
