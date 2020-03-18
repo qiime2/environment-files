@@ -49,7 +49,7 @@ dependencies:
   - compiler-rt_osx-64=9.0.1
   - cryptography=2.8
   - curl=7.68.0
-  - cutadapt=2.8
+  - cutadapt=2.9
   - cycler=0.10.0
   - cython=0.29.15
   - deblur=1.1.0
@@ -162,7 +162,6 @@ dependencies:
   - pluggy=0.12.0
   - prometheus_client=0.7.1
   - prompt-toolkit=3.0.4
-  - prompt_toolkit=3.0.4
   - psutil=5.7.0
   - ptyprocess=0.6.0
   - py=1.8.1
@@ -200,7 +199,7 @@ dependencies:
   - q2-taxa=2020.5.0.dev0
   - q2-types=2020.5.0.dev0
   - q2-vsearch=2020.5.0.dev0
-  - q2cli=2020.5.0.dev0
+  - q2cli=2020.5.0.dev0+2.g7fb9228
   - q2templates=2020.5.0.dev0
   - qiime2=2020.5.0.dev0
   - r-assertthat=0.2.1
@@ -310,5 +309,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/02c32328-32c5-4807-6161-0bf32641428b/volume/test-env
+prefix: /worker/volumes/live/7de268f8-1f98-49fa-5fbb-c10c470f36d6/volume/test-env
 
