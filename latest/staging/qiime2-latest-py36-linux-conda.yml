@@ -14,8 +14,8 @@ dependencies:
 - attrs=19.3.0
 - backcall=0.1.0
 - bibtexparser=1.1.0
-- binutils_impl_linux-64=2.33.1
-- binutils_linux-64=2.33.1
+- binutils_impl_linux-64=2.34
+- binutils_linux-64=2.34
 - bioconductor-biobase=2.42.0
 - bioconductor-biocgenerics=0.28.0
 - bioconductor-biocparallel=1.16.6
@@ -50,7 +50,7 @@ dependencies:
 - click=7.1.1
 - cryptography=2.8
 - curl=7.68.0
-- cutadapt=2.8
+- cutadapt=2.9
 - cycler=0.10.0
 - cython=0.29.15
 - dbus=1.13.6
@@ -108,7 +108,7 @@ dependencies:
 - kiwisolver=1.1.0
 - krb5=1.16.4
 - lcms2=2.9
-- ld_impl_linux-64=2.33.1
+- ld_impl_linux-64=2.34
 - libarbdb=6.0.6
 - libblas=3.8.0
 - libcblas=3.8.0
@@ -241,7 +241,6 @@ dependencies:
 - pluggy=0.12.0
 - prometheus_client=0.7.1
 - prompt-toolkit=3.0.4
-- prompt_toolkit=3.0.4
 - psutil=5.7.0
 - pthread-stubs=0.4
 - ptyprocess=0.6.0
@@ -281,7 +280,7 @@ dependencies:
 - q2-taxa=2020.5.0.dev0
 - q2-types=2020.5.0.dev0
 - q2-vsearch=2020.5.0.dev0
-- q2cli=2020.5.0.dev0
+- q2cli=2020.5.0.dev0+2.g7fb9228
 - q2templates=2020.5.0.dev0
 - qiime2=2020.5.0.dev0
 - qt=5.12.5
