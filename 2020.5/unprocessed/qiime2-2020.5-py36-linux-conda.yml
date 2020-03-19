@@ -62,8 +62,8 @@ dependencies:
   - fastcluster=1.1.26
   - fasttree=2.1.10
   - fontconfig=2.13.1
-  - freetype=2.10.0
-  - fribidi=1.0.5
+  - freetype=2.10.1
+  - fribidi=1.0.9
   - future=0.18.2
   - gcc_impl_linux-64=7.3.0
   - gcc_linux-64=7.3.0
@@ -138,8 +138,8 @@ dependencies:
   - mafft=7.310
   - make=4.3
   - markupsafe=1.1.1
-  - matplotlib=3.2.0
-  - matplotlib-base=3.2.0
+  - matplotlib=3.2.1
+  - matplotlib-base=3.2.1
   - mistune=0.8.4
   - more-itertools=8.2.0
   - msgpack-python=1.0.0
@@ -155,7 +155,7 @@ dependencies:
   - numpy=1.18.1
   - olefile=0.46
   - openjdk=11.0.1
-  - openssl=1.1.1d
+  - openssl=1.1.1e
   - packaging=20.1
   - pandas=0.25.3
   - pandoc=2.9.2
@@ -253,7 +253,7 @@ dependencies:
   - python-dateutil=2.8.1
   - python_abi=3.6
   - pytz=2019.3
-  - pyyaml=5.3
+  - pyyaml=5.3.1
   - pyzmq=19.0.0
   - q2-alignment=2020.5.0.dev0
   - q2-composition=2020.5.0.dev0
