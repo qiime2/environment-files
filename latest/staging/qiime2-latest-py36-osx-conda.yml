@@ -105,7 +105,7 @@ dependencies:
 - libblas=3.8.0
 - libcblas=3.8.0
 - libcurl=7.68.0
-- libcxx=9.0.1
+- libcxx=10.0.0
 - libedit=3.1.20170329
 - libffi=3.2.1
 - libgcc=4.8.5
@@ -168,7 +168,7 @@ dependencies:
 - pycparser=2.20
 - pygments=2.6.1
 - pyopenssl=19.1.0
-- pyparsing=2.4.6
+- pyparsing=2.4.7
 - pyrsistent=0.16.0
 - pysocks=1.7.1
 - pytest=5.4.1
@@ -190,7 +190,7 @@ dependencies:
 - q2-feature-table=2020.5.0.dev0
 - q2-fragment-insertion=2020.5.0.dev0
 - q2-gneiss=2020.5.0.dev0
-- q2-longitudinal=2020.5.0.dev0
+- q2-longitudinal=2020.5.0.dev0+1.g17f62e9
 - q2-metadata=2020.5.0.dev0
 - q2-phylogeny=2020.5.0.dev0+3.g3e24893
 - q2-quality-control=2020.5.0.dev0
@@ -303,7 +303,7 @@ dependencies:
 - wheel=0.34.2
 - widgetsnbextension=3.5.1
 - xopen=0.9.0
-- xz=5.2.4
+- xz=5.2.5
 - yaml=0.2.2
 - zeromq=4.3.2
 - zipp=3.1.0
