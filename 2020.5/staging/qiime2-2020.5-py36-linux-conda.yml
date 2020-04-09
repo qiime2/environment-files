@@ -88,7 +88,7 @@ dependencies:
 - hmmer=3.1b2
 - icu=64.2
 - idna=2.9
-- ijson=2.6.1
+- ijson=3.0
 - importlib-metadata=1.6.0
 - importlib_metadata=1.6.0
 - ipykernel=5.2.0
@@ -136,7 +136,7 @@ dependencies:
 - llvm-openmp=9.0.1
 - lockfile=0.12.2
 - lz4-c=1.8.3
-- mafft=7.310
+- mafft=7.458
 - make=4.3
 - markupsafe=1.1.1
 - matplotlib=3.2.1
@@ -276,7 +276,7 @@ dependencies:
 - q2-sample-classifier=2020.5.0.dev0
 - q2-taxa=2020.5.0.dev0
 - q2-types=2020.5.0.dev0+3.g004403d
-- q2-vsearch=2020.5.0.dev0
+- q2-vsearch=2020.5.0.dev0+1.ge17a7d0
 - q2cli=2020.5.0.dev0+2.g7fb9228
 - q2templates=2020.5.0.dev0
 - qiime2=2020.5.0.dev0+2.g1fdcb51
@@ -333,7 +333,7 @@ dependencies:
 - r-rcpp=1.0.4
 - r-rcppparallel=5.0.0
 - r-rcurl=1.98_1.1
-- r-reshape2=1.4.3
+- r-reshape2=1.4.4
 - r-rlang=0.4.5
 - r-rprojroot=1.3_2
 - r-rstudioapi=0.11
