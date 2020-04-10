@@ -177,7 +177,7 @@ dependencies:
   - pyyaml=5.3.1
   - pyzmq=19.0.0
   - q2-alignment=2020.5.0.dev0
-  - q2-composition=2020.5.0.dev0
+  - q2-composition=2020.5.0.dev0+1.gae8045b
   - q2-cutadapt=2020.5.0.dev0
   - q2-dada2=2020.5.0.dev0
   - q2-deblur=2020.5.0.dev0
@@ -307,5 +307,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/db63e28f-e722-4339-77c6-2b5335684df1/volume/test-env
+prefix: /worker/volumes/live/8fc15d8b-0f45-4d0c-519f-7b53eae5fa71/volume/test-env
 
