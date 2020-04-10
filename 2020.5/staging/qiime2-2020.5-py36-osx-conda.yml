@@ -179,7 +179,7 @@ dependencies:
 - pyyaml=5.3.1
 - pyzmq=19.0.0
 - q2-alignment=2020.5.0.dev0
-- q2-composition=2020.5.0.dev0
+- q2-composition=2020.5.0.dev0+1.gae8045b
 - q2-cutadapt=2020.5.0.dev0
 - q2-dada2=2020.5.0.dev0
 - q2-deblur=2020.5.0.dev0
