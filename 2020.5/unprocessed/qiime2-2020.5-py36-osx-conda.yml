@@ -199,7 +199,7 @@ dependencies:
   - q2-vsearch=2020.5.0.dev0+1.ge17a7d0
   - q2cli=2020.5.0.dev0+2.g7fb9228
   - q2templates=2020.5.0.dev0
-  - qiime2=2020.5.0.dev0+2.g1fdcb51
+  - qiime2=2020.5.0.dev0+4.gfe00d51
   - r-assertthat=0.2.1
   - r-backports=1.1.6
   - r-base=3.5.1
@@ -294,7 +294,7 @@ dependencies:
   - typing_extensions=3.7.4.1
   - tzlocal=2.0.0
   - unifrac=0.10.0
-  - urllib3=1.25.7
+  - urllib3=1.25.8
   - vsearch=2.7.0
   - wcwidth=0.1.9
   - webencodings=0.5.1
@@ -307,5 +307,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/ec6369a8-b4d4-4052-5cd5-f4196b76c323/volume/test-env
+prefix: /worker/volumes/live/db63e28f-e722-4339-77c6-2b5335684df1/volume/test-env
 
