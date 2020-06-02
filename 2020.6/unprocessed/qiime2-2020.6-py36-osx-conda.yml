@@ -187,7 +187,7 @@ dependencies:
   - q2-diversity=2020.6.0.dev0
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
-  - q2-feature-classifier=2020.6.0.dev0+1.g0a620f3
+  - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
   - q2-feature-table=2020.6.0.dev0
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
@@ -305,10 +305,10 @@ dependencies:
   - widgetsnbextension=3.5.1
   - xopen=0.9.0
   - xz=5.2.5
-  - yaml=0.2.4
+  - yaml=0.2.5
   - zeromq=4.3.2
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/410145ce-8bba-47c0-7fc0-9ab2d2e49900/volume/test-env
+prefix: /worker/volumes/live/3d90056e-85f2-4470-5add-56d928fd6a74/volume/test-env
 
