@@ -266,7 +266,7 @@ dependencies:
   - q2-diversity=2020.6.0.dev0
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
-  - q2-feature-classifier=2020.6.0.dev0+1.g0a620f3
+  - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
   - q2-feature-table=2020.6.0.dev0
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
@@ -402,7 +402,7 @@ dependencies:
   - xorg-xextproto=7.3.0
   - xorg-xproto=7.0.31
   - xz=5.2.5
-  - yaml=0.2.4
+  - yaml=0.2.5
   - zeromq=4.3.2
   - zipp=3.1.0
   - zlib=1.2.11
