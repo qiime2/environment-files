@@ -111,7 +111,7 @@ dependencies:
   - libcblas=3.8.0
   - libclang=9.0.1
   - libcurl=7.68.0
-  - libedit=3.1.20170329
+  - libedit=3.1.20191231
   - libffi=3.2.1
   - libgcc=7.2.0
   - libgcc-ng=9.2.0
@@ -248,7 +248,7 @@ dependencies:
   - pyqt=5.12.3
   - pyrsistent=0.16.0
   - pysocks=1.7.1
-  - pytest=5.4.2
+  - pytest=5.4.3
   - python=3.6.10
   - python-dateutil=2.8.1
   - python_abi=3.6
@@ -256,7 +256,7 @@ dependencies:
   - pyyaml=5.3.1
   - pyzmq=19.0.1
   - q2-alignment=2020.6.0.dev0
-  - q2-composition=2020.6.0.dev0
+  - q2-composition=2020.6.0.dev0+1.g5d71e2b
   - q2-cutadapt=2020.6.0.dev0
   - q2-dada2=2020.6.0.dev0
   - q2-deblur=2020.6.0.dev0
@@ -377,7 +377,7 @@ dependencies:
   - unifrac=0.10.0
   - urllib3=1.25.9
   - vsearch=2.7.0
-  - wcwidth=0.2.2
+  - wcwidth=0.2.3
   - webencodings=0.5.1
   - wheel=0.34.2
   - widgetsnbextension=3.5.1

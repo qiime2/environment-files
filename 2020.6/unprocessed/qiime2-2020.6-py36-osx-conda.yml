@@ -106,7 +106,7 @@ dependencies:
   - libcblas=3.8.0
   - libcurl=7.68.0
   - libcxx=10.0.0
-  - libedit=3.1.20170329
+  - libedit=3.1.20191231
   - libffi=3.2.1
   - libgcc=4.8.5
   - libgfortran=4.0.0
@@ -171,7 +171,7 @@ dependencies:
   - pyparsing=2.4.7
   - pyrsistent=0.16.0
   - pysocks=1.7.1
-  - pytest=5.4.2
+  - pytest=5.4.3
   - python=3.6.10
   - python-dateutil=2.8.1
   - python_abi=3.6
@@ -179,7 +179,7 @@ dependencies:
   - pyyaml=5.3.1
   - pyzmq=19.0.1
   - q2-alignment=2020.6.0.dev0
-  - q2-composition=2020.6.0.dev0
+  - q2-composition=2020.6.0.dev0+1.g5d71e2b
   - q2-cutadapt=2020.6.0.dev0
   - q2-dada2=2020.6.0.dev0
   - q2-deblur=2020.6.0.dev0
@@ -299,7 +299,7 @@ dependencies:
   - unifrac=0.10.0
   - urllib3=1.25.9
   - vsearch=2.7.0
-  - wcwidth=0.2.2
+  - wcwidth=0.2.3
   - webencodings=0.5.1
   - wheel=0.34.2
   - widgetsnbextension=3.5.1
@@ -310,5 +310,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/3d90056e-85f2-4470-5add-56d928fd6a74/volume/test-env
+prefix: /worker/volumes/live/edecad78-664b-4f4e-4fc5-5a62b0d7597f/volume/test-env
 
