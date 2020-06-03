@@ -199,7 +199,7 @@ dependencies:
   - q2-sample-classifier=2020.6.0.dev0
   - q2-taxa=2020.6.0.dev0
   - q2-types=2020.6.0.dev0+1.g57b66d1
-  - q2-vsearch=2020.6.0.dev0
+  - q2-vsearch=2020.6.0.dev0+1.gf718620
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
   - qiime2=2020.6.0.dev0
@@ -310,5 +310,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/5ae16a4c-a01d-4231-5d33-9123f840ee9d/volume/test-env
+prefix: /worker/volumes/live/0ade93e4-f96b-491c-5755-b59c678f0ab0/volume/test-env
 

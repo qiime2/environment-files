@@ -276,7 +276,7 @@ dependencies:
   - q2-sample-classifier=2020.6.0.dev0
   - q2-taxa=2020.6.0.dev0
   - q2-types=2020.6.0.dev0+1.g57b66d1
-  - q2-vsearch=2020.6.0.dev0
+  - q2-vsearch=2020.6.0.dev0+1.gf718620
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
   - qiime2=2020.6.0.dev0
