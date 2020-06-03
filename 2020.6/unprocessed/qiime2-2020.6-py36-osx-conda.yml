@@ -188,7 +188,7 @@ dependencies:
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
-  - q2-feature-table=2020.6.0.dev0
+  - q2-feature-table=2020.6.0.dev0+1.g3e57996
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
   - q2-longitudinal=2020.6.0.dev0
@@ -310,5 +310,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/edecad78-664b-4f4e-4fc5-5a62b0d7597f/volume/test-env
+prefix: /worker/volumes/live/5ae16a4c-a01d-4231-5d33-9123f840ee9d/volume/test-env
 
