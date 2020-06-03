@@ -190,7 +190,7 @@ dependencies:
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
-  - q2-feature-table=2020.6.0.dev0
+  - q2-feature-table=2020.6.0.dev0+1.g3e57996
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
   - q2-longitudinal=2020.6.0.dev0
