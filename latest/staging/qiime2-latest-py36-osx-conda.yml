@@ -190,10 +190,10 @@ dependencies:
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
-  - q2-feature-table=2020.6.0.dev0+1.g3e57996
+  - q2-feature-table=2020.6.0.dev0+2.gaee5c96
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
-  - q2-longitudinal=2020.6.0.dev0
+  - q2-longitudinal=2020.6.0.dev0+1.g183051b
   - q2-metadata=2020.6.0.dev0
   - q2-phylogeny=2020.6.0.dev0
   - q2-quality-control=2020.6.0.dev0
@@ -201,7 +201,7 @@ dependencies:
   - q2-sample-classifier=2020.6.0.dev0
   - q2-taxa=2020.6.0.dev0
   - q2-types=2020.6.0.dev0+1.g57b66d1
-  - q2-vsearch=2020.6.0.dev0+1.gf718620
+  - q2-vsearch=2020.6.0.dev0+2.g143833f
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
   - qiime2=2020.6.0.dev0
