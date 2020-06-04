@@ -31,6 +31,7 @@ dependencies:
   - bleach=3.1.5
   - bokeh=2.0.1
   - boost-cpp=1.70.0
+  - bowtie2=2.3.5.1
   - brotlipy=0.7.0
   - bwidget=1.9.14
   - bzip2=1.0.8
@@ -80,6 +81,7 @@ dependencies:
   - hdf5=1.10.5
   - hdmedians=0.13
   - hmmer=3.1b2
+  - htslib=1.10.2
   - icu=64.2
   - idna=2.9
   - ijson=3.0.4
@@ -106,6 +108,7 @@ dependencies:
   - libcblas=3.8.0
   - libcurl=7.68.0
   - libcxx=10.0.0
+  - libdeflate=1.3
   - libedit=3.1.20191231
   - libffi=3.2.1
   - libgcc=4.8.5
@@ -153,6 +156,7 @@ dependencies:
   - parso=0.7.0
   - patsy=0.5.1
   - pcre=8.44
+  - perl=5.26.2
   - pexpect=4.8.0
   - pickleshare=0.7.5
   - pigz=2.3.4
@@ -194,7 +198,7 @@ dependencies:
   - q2-longitudinal=2020.6.0.dev0+1.g183051b
   - q2-metadata=2020.6.0.dev0
   - q2-phylogeny=2020.6.0.dev0
-  - q2-quality-control=2020.6.0.dev0
+  - q2-quality-control=2020.6.0.dev0+1.ge708058
   - q2-quality-filter=2020.6.0.dev0
   - q2-sample-classifier=2020.6.0.dev0
   - q2-taxa=2020.6.0.dev0
@@ -274,6 +278,7 @@ dependencies:
   - raxml=8.2.12
   - readline=8.0
   - requests=2.23.0
+  - samtools=1.10
   - scikit-bio=0.5.5
   - scikit-learn=0.22.1
   - scipy=1.4.1
@@ -310,5 +315,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/c554e8a0-13ad-4730-40f5-c51bd6f75186/volume/test-env
+prefix: /worker/volumes/live/5164f296-22db-4648-6acb-69f065125d7a/volume/test-env
 
