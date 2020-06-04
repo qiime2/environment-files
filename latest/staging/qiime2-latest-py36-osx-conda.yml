@@ -204,7 +204,7 @@ dependencies:
   - q2-vsearch=2020.6.0.dev0+2.g143833f
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
-  - qiime2=2020.6.0.dev0
+  - qiime2=2020.6.0.dev0+1.g89b17dc
   - r-assertthat=0.2.1
   - r-backports=1.1.6
   - r-base=3.5.1
