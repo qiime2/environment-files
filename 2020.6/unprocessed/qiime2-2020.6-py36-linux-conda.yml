@@ -35,14 +35,14 @@ dependencies:
   - bleach=3.1.5
   - bokeh=2.0.1
   - boost-cpp=1.70.0
-  - bowtie2=2.3.5.1
+  - bowtie2=2.4.1
   - brotlipy=0.7.0
   - bwidget=1.9.14
   - bzip2=1.0.8
-  - ca-certificates=2020.4.5.1
+  - ca-certificates=2020.4.5.2
   - cachecontrol=0.12.6
   - cairo=1.16.0
-  - certifi=2020.4.5.1
+  - certifi=2020.4.5.2
   - cffi=1.14.0
   - chardet=3.0.4
   - click=7.1.2
@@ -89,8 +89,8 @@ dependencies:
   - icu=64.2
   - idna=2.9
   - ijson=3.0.4
-  - importlib-metadata=1.6.0
-  - importlib_metadata=1.6.0
+  - importlib-metadata=1.6.1
+  - importlib_metadata=1.6.1
   - ipykernel=5.3.0
   - ipython=7.15.0
   - ipython_genutils=0.2.0
@@ -153,7 +153,7 @@ dependencies:
   - notebook=6.0.3
   - nspr=4.25
   - nss=3.47
-  - numpy=1.18.4
+  - numpy=1.18.5
   - olefile=0.46
   - openjdk=11.0.1
   - openssl=1.1.1g
@@ -261,7 +261,7 @@ dependencies:
   - q2-cutadapt=2020.6.0.dev0
   - q2-dada2=2020.6.0.dev0
   - q2-deblur=2020.6.0.dev0
-  - q2-demux=2020.6.0.dev0
+  - q2-demux=2020.6.0.dev0+2.ga0310df
   - q2-diversity=2020.6.0.dev0
   - q2-diversity-lib=2020.6.0.dev0
   - q2-emperor=2020.6.0.dev0
@@ -280,7 +280,7 @@ dependencies:
   - q2-vsearch=2020.6.0.dev0+2.g143833f
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
-  - qiime2=2020.6.0.dev0+1.g89b17dc
+  - qiime2=2020.6.0.dev0+2.g81f9bc1
   - qt=5.12.5
   - r-assertthat=0.2.1
   - r-backports=1.1.6
@@ -366,7 +366,6 @@ dependencies:
   - sortmerna=2.0
   - sqlite=3.30.1
   - statsmodels=0.11.1
-  - sysroot_linux-64=2.12
   - tbb=2020.1
   - terminado=0.8.3
   - testpath=0.4.4
@@ -379,7 +378,7 @@ dependencies:
   - unifrac=0.10.0
   - urllib3=1.25.9
   - vsearch=2.7.0
-  - wcwidth=0.2.3
+  - wcwidth=0.2.4
   - webencodings=0.5.1
   - wheel=0.34.2
   - widgetsnbextension=3.5.1
