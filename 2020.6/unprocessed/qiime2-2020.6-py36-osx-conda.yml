@@ -29,7 +29,7 @@ dependencies:
   - blas=2.16
   - blast=2.6.0
   - bleach=3.1.5
-  - bokeh=2.0.1
+  - bokeh=2.0.2
   - boost-cpp=1.70.0
   - bowtie2=2.4.1
   - brotlipy=0.7.0
@@ -133,7 +133,7 @@ dependencies:
   - matplotlib=3.2.1
   - matplotlib-base=3.2.1
   - mistune=0.8.4
-  - more-itertools=8.3.0
+  - more-itertools=8.4.0
   - mpc=1.1.0
   - mpfr=4.0.2
   - msgpack-python=1.0.0
@@ -168,7 +168,7 @@ dependencies:
   - prompt-toolkit=3.0.5
   - psutil=5.7.0
   - ptyprocess=0.6.0
-  - py=1.8.1
+  - py=1.8.2
   - pycparser=2.20
   - pygments=2.6.1
   - pyopenssl=19.1.0
@@ -189,7 +189,7 @@ dependencies:
   - q2-deblur=2020.6.0.dev0
   - q2-demux=2020.6.0.dev0+2.ga0310df
   - q2-diversity=2020.6.0.dev0+1.gbc44d0e
-  - q2-diversity-lib=2020.6.0.dev0+1.g2995d07
+  - q2-diversity-lib=2020.6.0.dev0+2.g8f4e655
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
   - q2-feature-table=2020.6.0.dev0+2.gaee5c96
@@ -283,6 +283,7 @@ dependencies:
   - scikit-learn=0.22.1
   - scipy=1.4.1
   - seaborn=0.10.1
+  - seaborn-base=0.10.1
   - send2trash=1.5.0
   - sepp=4.3.10
   - setuptools=47.1.1
@@ -315,5 +316,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/f7fb27d3-1d60-43a2-5438-4cd433417858/volume/test-env
+prefix: /worker/volumes/live/8b543dfe-911f-4e7c-4cd4-a866c1d1dd4b/volume/test-env
 
