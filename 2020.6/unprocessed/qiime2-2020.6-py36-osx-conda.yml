@@ -6,7 +6,7 @@ dependencies:
   - appnope=0.1.0
   - arb-bio-tools=6.0.6
   - attrs=19.3.0
-  - backcall=0.1.0
+  - backcall=0.2.0
   - bibtexparser=1.1.0
   - bioconductor-biobase=2.42.0
   - bioconductor-biocgenerics=0.28.0
@@ -29,7 +29,7 @@ dependencies:
   - blas=2.16
   - blast=2.6.0
   - bleach=3.1.5
-  - bokeh=2.0.2
+  - bokeh=2.1.0
   - boost-cpp=1.70.0
   - bowtie2=2.4.1
   - brotlipy=0.7.0
@@ -188,7 +188,7 @@ dependencies:
   - q2-dada2=2020.6.0.dev0+1.gdf19553
   - q2-deblur=2020.6.0.dev0
   - q2-demux=2020.6.0.dev0+2.ga0310df
-  - q2-diversity=2020.6.0.dev0+2.gef3ce7f
+  - q2-diversity=2020.6.0.dev0+3.ga323e14
   - q2-diversity-lib=2020.6.0.dev0+2.g8f4e655
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+2.g0bf9b60
@@ -286,7 +286,7 @@ dependencies:
   - seaborn-base=0.10.1
   - send2trash=1.5.0
   - sepp=4.3.10
-  - setuptools=47.2.0
+  - setuptools=47.3.0
   - sina=1.6.1
   - six=1.15.0
   - sortmerna=2.0
@@ -316,5 +316,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/aed88fbf-9754-451e-68fe-9dafcd041d82/volume/test-env
+prefix: /worker/volumes/live/546f4c6f-8f79-4047-5941-b5a6518f1777/volume/test-env
 
