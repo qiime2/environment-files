@@ -208,7 +208,7 @@ dependencies:
   - q2-vsearch=2020.6.0.dev0+4.g5ee5a95
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
-  - qiime2=2020.6.0.dev0+3.g57827c8
+  - qiime2=2020.6.0.dev0+4.ga47e5ea
   - r-assertthat=0.2.1
   - r-backports=1.1.6
   - r-base=3.5.1
@@ -288,7 +288,7 @@ dependencies:
   - seaborn-base=0.10.1
   - send2trash=1.5.0
   - sepp=4.3.10
-  - setuptools=47.3.0
+  - setuptools=47.3.1
   - sina=1.6.1
   - six=1.15.0
   - sortmerna=2.0
