@@ -286,7 +286,7 @@ dependencies:
   - seaborn-base=0.10.1
   - send2trash=1.5.0
   - sepp=4.3.10
-  - setuptools=47.3.0
+  - setuptools=47.3.1
   - sina=1.6.1
   - six=1.15.0
   - sortmerna=2.0
@@ -316,5 +316,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/61ce7d30-805f-41c9-440d-642a3a76aeb3/volume/test-env
+prefix: /worker/volumes/live/77090a21-8404-4e47-7362-cbd3fbaa8ad1/volume/test-env
 

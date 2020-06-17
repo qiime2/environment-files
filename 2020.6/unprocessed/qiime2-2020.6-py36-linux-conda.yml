@@ -105,7 +105,7 @@ dependencies:
   - jupyter_core=4.6.3
   - kiwisolver=1.2.0
   - krb5=1.16.4
-  - lcms2=2.9
+  - lcms2=2.11
   - ld_impl_linux-64=2.34
   - libarbdb=6.0.6
   - libblas=3.8.0
@@ -361,7 +361,7 @@ dependencies:
   - seaborn-base=0.10.1
   - send2trash=1.5.0
   - sepp=4.3.10
-  - setuptools=47.3.0
+  - setuptools=47.3.1
   - sina=1.6.1
   - six=1.15.0
   - sortmerna=2.0
