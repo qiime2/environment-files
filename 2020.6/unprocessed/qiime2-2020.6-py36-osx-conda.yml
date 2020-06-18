@@ -185,7 +185,7 @@ dependencies:
   - q2-alignment=2020.6.0.dev0
   - q2-composition=2020.6.0.dev0+1.g5d71e2b
   - q2-cutadapt=2020.6.0.dev0
-  - q2-dada2=2020.6.0.dev0+1.gdf19553
+  - q2-dada2=2020.6.0.dev0+2.g3d7d3b6
   - q2-deblur=2020.6.0.dev0
   - q2-demux=2020.6.0.dev0+2.ga0310df
   - q2-diversity=2020.6.0.dev0+3.ga323e14
@@ -277,7 +277,7 @@ dependencies:
   - r-zeallot=0.1.0
   - raxml=8.2.12
   - readline=8.0
-  - requests=2.23.0
+  - requests=2.24.0
   - samtools=1.10
   - scikit-bio=0.5.5
   - scikit-learn=0.22.1
@@ -316,5 +316,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/5ce18f37-6ddd-4783-481c-2df8f9eb2b88/volume/test-env
+prefix: /worker/volumes/live/5e94ba7d-12d1-4629-5590-0d4c414fa469/volume/test-env
 
