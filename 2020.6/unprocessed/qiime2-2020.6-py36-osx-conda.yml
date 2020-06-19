@@ -130,8 +130,8 @@ dependencies:
   - mafft=7.467
   - make=4.3
   - markupsafe=1.1.1
-  - matplotlib=3.2.1
-  - matplotlib-base=3.2.1
+  - matplotlib=3.2.2
+  - matplotlib-base=3.2.2
   - mistune=0.8.4
   - more-itertools=8.4.0
   - mpc=1.1.0
@@ -317,5 +317,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/56bc7bd0-58a2-4379-50ba-295b74d3f28e/volume/test-env
+prefix: /worker/volumes/live/f052ff32-ba4e-45aa-6603-f80fa00a34ff/volume/test-env
 
