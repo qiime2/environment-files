@@ -268,7 +268,7 @@ dependencies:
   - q2-diversity-lib=2020.6.0.dev0+2.g8f4e655
   - q2-emperor=2020.6.0.dev0
   - q2-feature-classifier=2020.6.0.dev0+3.g0c4d14e
-  - q2-feature-table=2020.6.0.dev0+4.g1eca3dc
+  - q2-feature-table=2020.6.0.dev0+5.gc41a803
   - q2-fragment-insertion=2020.6.0.dev0
   - q2-gneiss=2020.6.0.dev0
   - q2-longitudinal=2020.6.0.dev0+1.g183051b
@@ -282,7 +282,7 @@ dependencies:
   - q2-vsearch=2020.6.0.dev0+4.g5ee5a95
   - q2cli=2020.6.0.dev0
   - q2templates=2020.6.0.dev0
-  - qiime2=2020.6.0.dev0+4.ga47e5ea
+  - qiime2=2020.6.0.dev0+5.g2af5c53
   - qt=5.12.5
   - r-assertthat=0.2.1
   - r-backports=1.1.6
