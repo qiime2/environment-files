@@ -91,6 +91,7 @@ dependencies:
   - ijson=3.1.post0
   - importlib-metadata=1.7.0
   - importlib_metadata=1.7.0
+  - iniconfig=1.0.0
   - ipykernel=5.3.2
   - ipython=7.16.1
   - ipython_genutils=0.2.0
@@ -244,7 +245,7 @@ dependencies:
   - pyparsing=2.4.7
   - pyrsistent=0.16.0
   - pysocks=1.7.1
-  - pytest=5.4.3
+  - pytest=6.0.0rc1
   - python=3.6.10
   - python-dateutil=2.8.1
   - python_abi=3.6
@@ -254,7 +255,7 @@ dependencies:
   - q2-alignment=2020.8.0.dev0
   - q2-composition=2020.8.0.dev0
   - q2-cutadapt=2020.8.0.dev0
-  - q2-dada2=2020.8.0.dev0+1.g56e3aac
+  - q2-dada2=2020.8.0.dev0+2.g7199a6a
   - q2-deblur=2020.8.0.dev0
   - q2-demux=2020.8.0.dev0
   - q2-diversity=2020.8.0.dev0
@@ -367,6 +368,7 @@ dependencies:
   - threadpoolctl=2.1.0
   - tk=8.6.10
   - tktable=2.10
+  - toml=0.10.1
   - tornado=6.0.4
   - traitlets=4.3.3
   - typing_extensions=3.7.4.2
