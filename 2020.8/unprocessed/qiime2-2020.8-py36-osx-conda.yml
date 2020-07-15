@@ -100,7 +100,7 @@ dependencies:
   - joblib=0.16.0
   - jpeg=9d
   - jsonschema=3.2.0
-  - jupyter_client=6.1.5
+  - jupyter_client=6.1.6
   - jupyter_core=4.6.3
   - kiwisolver=1.2.0
   - krb5=1.16.4
@@ -322,5 +322,5 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.4
-prefix: /worker/volumes/live/e08e4540-90d1-4f52-7f6d-45ae278c3b04/volume/test-env
+prefix: /worker/volumes/live/d58f939f-fd92-4c09-4a44-277d56b17e92/volume/test-env
 
