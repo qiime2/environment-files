@@ -245,7 +245,7 @@ dependencies:
   - pyparsing=2.4.7
   - pyrsistent=0.16.0
   - pysocks=1.7.1
-  - pytest=6.0.0rc1
+  - pytest=5.4.3
   - python=3.6.10
   - python-dateutil=2.8.1
   - python_abi=3.6
