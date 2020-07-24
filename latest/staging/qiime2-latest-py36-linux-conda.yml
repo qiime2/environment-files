@@ -149,16 +149,16 @@ dependencies:
   - networkx=2.4
   - nose=1.3.7
   - notebook=6.0.3
-  - numpy=1.19.0
+  - numpy=1.19.1
   - olefile=0.46
   - openjdk=11.0.1
   - openssl=1.1.1g
   - packaging=20.4
   - pandas=0.25.3
-  - pandoc=2.10
+  - pandoc=2.10.1
   - pandocfilters=1.4.2
   - pango=1.42.4
-  - parso=0.7.0
+  - parso=0.7.1
   - patsy=0.5.1
   - pcre=8.44
   - perl=5.26.2
@@ -268,7 +268,7 @@ dependencies:
   - q2-metadata=2020.8.0.dev0
   - q2-phylogeny=2020.8.0.dev0
   - q2-quality-control=2020.8.0.dev0
-  - q2-quality-filter=2020.8.0.dev0
+  - q2-quality-filter=2020.8.0.dev0+1.g6fe924d
   - q2-sample-classifier=2020.8.0.dev0
   - q2-taxa=2020.8.0.dev0
   - q2-types=2020.8.0.dev0
@@ -350,7 +350,7 @@ dependencies:
   - samtools=1.10
   - scikit-bio=0.5.5
   - scikit-learn=0.23.1
-  - scipy=1.5.1
+  - scipy=1.5.2
   - seaborn=0.10.1
   - seaborn-base=0.10.1
   - send2trash=1.5.0
