@@ -122,7 +122,7 @@ dependencies:
   - libgcc-ng=9.3.0
   - libgfortran-ng=7.5.0
   - libgomp=9.3.0
-  - libiconv=1.15
+  - libiconv=1.16
   - liblapack=3.8.0
   - liblapacke=3.8.0
   - libopenblas=0.3.10
@@ -261,8 +261,8 @@ dependencies:
   - q2-dada2=2020.8.0.dev0+2.g7199a6a
   - q2-deblur=2020.8.0.dev0
   - q2-demux=2020.8.0.dev0
-  - q2-diversity=2020.8.0.dev0+1.g3990d34
-  - q2-diversity-lib=2020.8.0.dev0+1.ge6a149d
+  - q2-diversity=2020.8.0.dev0+3.g1c98481
+  - q2-diversity-lib=2020.8.0.dev0+2.gf460099
   - q2-emperor=2020.8.0.dev0
   - q2-feature-classifier=2020.8.0.dev0+1.ge71cc73
   - q2-feature-table=2020.8.0.dev0
@@ -360,7 +360,7 @@ dependencies:
   - send2trash=1.5.0
   - sepp=4.3.10
   - setuptools=49.6.0
-  - sina=1.7.0
+  - sina=1.7.1
   - six=1.15.0
   - sortmerna=2.0
   - sqlite=3.32.3
