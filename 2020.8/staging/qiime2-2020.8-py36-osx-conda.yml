@@ -8,7 +8,7 @@ dependencies:
   - appnope=0.1.0
   - arb-bio-tools=6.0.6
   - argon2-cffi=20.1.0
-  - attrs=19.3.0
+  - attrs=20.1.0
   - backcall=0.2.0
   - backports=1.0
   - backports.functools_lru_cache=1.6.1
@@ -255,7 +255,7 @@ dependencies:
   - q2-cutadapt=2020.8.0.dev0
   - q2-dada2=2020.8.0.dev0+2.g7199a6a
   - q2-deblur=2020.8.0.dev0
-  - q2-demux=2020.8.0.dev0
+  - q2-demux=2020.8.0.dev0+2.g9c39b6e
   - q2-diversity=2020.8.0.dev0+3.g1c98481
   - q2-diversity-lib=2020.8.0.dev0+2.gf460099
   - q2-emperor=2020.8.0.dev0
@@ -270,7 +270,7 @@ dependencies:
   - q2-quality-filter=2020.8.0.dev0+2.g4c961fc
   - q2-sample-classifier=2020.8.0.dev0+3.g7174203
   - q2-taxa=2020.8.0.dev0
-  - q2-types=2020.8.0.dev0+2.gf5b1440
+  - q2-types=2020.8.0.dev0+3.g9c5f600
   - q2-vsearch=2020.8.0.dev0
   - q2cli=2020.8.0.dev0
   - q2templates=2020.8.0.dev0
