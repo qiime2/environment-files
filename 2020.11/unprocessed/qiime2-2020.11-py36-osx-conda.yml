@@ -6,7 +6,7 @@ dependencies:
   - appnope=0.1.0
   - arb-bio-tools=6.0.6
   - argon2-cffi=20.1.0
-  - attrs=20.1.0
+  - attrs=20.2.0
   - backcall=0.2.0
   - backports=1.0
   - backports.functools_lru_cache=1.6.1
@@ -230,7 +230,7 @@ dependencies:
   - pickleshare=0.7.5
   - pigz=2.3.4
   - pillow=7.2.0
-  - pip=20.2.2
+  - pip=20.2.3
   - pixman=0.38.0
   - pluggy=0.13.1
   - prometheus_client=0.8.0
@@ -351,8 +351,8 @@ dependencies:
   - scikit-bio=0.5.5
   - scikit-learn=0.23.1
   - scipy=1.5.2
-  - seaborn=0.10.1
-  - seaborn-base=0.10.1
+  - seaborn=0.11.0
+  - seaborn-base=0.11.0
   - send2trash=1.5.0
   - sepp=4.3.10
   - setuptools=49.6.0
@@ -387,4 +387,4 @@ dependencies:
   - zipp=3.1.0
   - zlib=1.2.11
   - zstd=1.4.5
-prefix: /worker/volumes/live/c5a55e01-f484-4dd8-506f-b52c9cc47b77/volume/test-env
+prefix: /worker/volumes/live/7457f478-e1eb-477c-45ac-5b88097f5b87/volume/test-env
