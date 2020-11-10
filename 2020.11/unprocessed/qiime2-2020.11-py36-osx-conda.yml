@@ -264,7 +264,7 @@ dependencies:
   - q2-deblur=2020.11.0.dev0
   - q2-demux=2020.11.0.dev0
   - q2-diversity=2020.11.0.dev0+1.gaa1e9c1
-  - q2-diversity-lib=2020.11.0.dev0
+  - q2-diversity-lib=2020.11.0.dev0+1.g5c277ae
   - q2-emperor=2020.11.0.dev0
   - q2-feature-classifier=2020.11.0.dev0
   - q2-feature-table=2020.11.0.dev0+1.g0b7b071
@@ -393,4 +393,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.5
-prefix: /worker/volumes/live/bef6a546-6e4d-42b8-7443-069d5a8fdda2/volume/test-env
+prefix: /worker/volumes/live/fdbbdda3-a886-43ee-6cfa-d3d9b5df82c1/volume/test-env
