@@ -266,7 +266,7 @@ dependencies:
   - q2-deblur=2020.11.0.dev0
   - q2-demux=2020.11.0.dev0
   - q2-diversity=2020.11.0.dev0+1.gaa1e9c1
-  - q2-diversity-lib=2020.11.0.dev0
+  - q2-diversity-lib=2020.11.0.dev0+1.g5c277ae
   - q2-emperor=2020.11.0.dev0
   - q2-feature-classifier=2020.11.0.dev0
   - q2-feature-table=2020.11.0.dev0+1.g0b7b071
