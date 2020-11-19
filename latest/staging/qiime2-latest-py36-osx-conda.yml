@@ -43,7 +43,7 @@ dependencies:
   - brotlipy=0.7.0
   - bwidget=1.9.14
   - bzip2=1.0.8
-  - c-ares=1.16.1
+  - c-ares=1.17.1
   - ca-certificates=2020.11.8
   - cachecontrol=0.12.6
   - cairo=1.16.0
@@ -145,7 +145,7 @@ dependencies:
   - llvm-openmp=11.0.0
   - llvm-tools=11.0.0
   - lockfile=0.12.2
-  - lz4=3.1.0
+  - lz4=3.1.1
   - lz4-c=1.9.2
   - mafft=7.471
   - make=4.3
@@ -207,7 +207,7 @@ dependencies:
   - pyzmq=20.0.0
   - q2-alignment=2020.11.0.dev0+1.gc74a461
   - q2-composition=2020.11.0.dev0
-  - q2-cutadapt=2020.11.0.dev0+1.g093791a
+  - q2-cutadapt=2020.11.0.dev0+2.gf251b77
   - q2-dada2=2020.11.0.dev0+1.gfb5b7ff
   - q2-deblur=2020.11.0.dev0
   - q2-demux=2020.11.0.dev0+3.g59ddd87
@@ -220,7 +220,7 @@ dependencies:
   - q2-gneiss=2020.11.0.dev0
   - q2-longitudinal=2020.11.0.dev0+1.g45b422c
   - q2-metadata=2020.11.0.dev0
-  - q2-phylogeny=2020.11.0.dev0
+  - q2-phylogeny=2020.11.0.dev0+1.g70c145a
   - q2-quality-control=2020.11.0.dev0
   - q2-quality-filter=2020.11.0.dev0
   - q2-sample-classifier=2020.11.0.dev0
