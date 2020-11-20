@@ -169,8 +169,8 @@ dependencies:
   - openjdk=11.0.8
   - openssl=1.1.1h
   - packaging=20.4
-  - pandas=0.25.3
-  - pandoc=2.11.1.1
+  - pandas=1.1.4
+  - pandoc=2.11.2
   - pandocfilters=1.4.2
   - pango=1.42.4
   - parso=0.7.1
@@ -205,29 +205,29 @@ dependencies:
   - pyzmq=20.0.0
   - q2-alignment=2020.11.0.dev0+1.gc74a461
   - q2-composition=2020.11.0.dev0
-  - q2-cutadapt=2020.11.0.dev0+2.gf251b77
+  - q2-cutadapt=2020.11.0.dev0+3.gfcc1da6
   - q2-dada2=2020.11.0.dev0+1.gfb5b7ff
   - q2-deblur=2020.11.0.dev0
   - q2-demux=2020.11.0.dev0+3.g59ddd87
-  - q2-diversity=2020.11.0.dev0+1.gaa1e9c1
+  - q2-diversity=2020.11.0.dev0+2.g60de8d5
   - q2-diversity-lib=2020.11.0.dev0+2.gdead1b4
   - q2-emperor=2020.11.0.dev0
   - q2-feature-classifier=2020.11.0.dev0
-  - q2-feature-table=2020.11.0.dev0+1.g0b7b071
+  - q2-feature-table=2020.11.0.dev0+2.g456db56
   - q2-fragment-insertion=2020.11.0.dev0
   - q2-gneiss=2020.11.0.dev0
   - q2-longitudinal=2020.11.0.dev0+1.g45b422c
   - q2-metadata=2020.11.0.dev0
   - q2-phylogeny=2020.11.0.dev0+1.g70c145a
-  - q2-quality-control=2020.11.0.dev0
+  - q2-quality-control=2020.11.0.dev0+3.g9f9859f
   - q2-quality-filter=2020.11.0.dev0
-  - q2-sample-classifier=2020.11.0.dev0
+  - q2-sample-classifier=2020.11.0.dev0+1.geb918ee
   - q2-taxa=2020.11.0.dev0
-  - q2-types=2020.11.0.dev0
+  - q2-types=2020.11.0.dev0+1.ga547c8b
   - q2-vsearch=2020.11.0.dev0
   - q2cli=2020.11.0.dev0+1.gd90cbc5
-  - q2templates=2020.11.0.dev0
-  - qiime2=2020.11.0.dev0+4.g250e9bb
+  - q2templates=2020.11.0.dev0+1.ge780b58
+  - qiime2=2020.11.0.dev0+5.gb9b3838
   - r-assertthat=0.2.1
   - r-backports=1.2.0
   - r-base=4.0.3
@@ -235,7 +235,7 @@ dependencies:
   - r-bitops=1.0_6
   - r-brio=1.1.0
   - r-callr=3.5.1
-  - r-cli=2.1.0
+  - r-cli=2.2.0
   - r-cluster=2.1.0
   - r-colorspace=2.0_0
   - r-crayon=1.3.4
@@ -269,7 +269,7 @@ dependencies:
   - r-munsell=0.5.0
   - r-nlme=3.1_150
   - r-permute=0.9_5
-  - r-pillar=1.4.6
+  - r-pillar=1.4.7
   - r-pkgbuild=1.1.0
   - r-pkgconfig=2.0.3
   - r-pkgload=1.1.0
@@ -306,7 +306,7 @@ dependencies:
   - readline=8.0
   - requests=2.25.0
   - samtools=1.11
-  - scikit-bio=0.5.5
+  - scikit-bio=0.5.6
   - scikit-learn=0.23.1
   - scipy=1.5.3
   - seaborn=0.11.0
@@ -345,4 +345,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.5
-prefix: /worker/volumes/live/0ed7a848-0ba2-4477-522c-076afa738408/volume/test-env
+prefix: /worker/volumes/live/d2f2236e-6df6-4958-66a9-bfcc4d2f58c8/volume/test-env
