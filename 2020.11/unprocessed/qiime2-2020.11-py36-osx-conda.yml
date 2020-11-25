@@ -47,7 +47,7 @@ dependencies:
   - cairo=1.16.0
   - cctools_osx-64=949.0.1
   - certifi=2020.11.8
-  - cffi=1.14.3
+  - cffi=1.14.4
   - chardet=3.0.4
   - clang=11.0.0
   - clang-11=11.0.0
@@ -59,7 +59,7 @@ dependencies:
   - compiler-rt_osx-64=11.0.0
   - cryptography=3.2.1
   - curl=7.71.1
-  - cutadapt=2.10
+  - cutadapt=3.0
   - cycler=0.10.0
   - cython=0.29.21
   - deblur=1.1.0
@@ -205,7 +205,7 @@ dependencies:
   - pyzmq=20.0.0
   - q2-alignment=2020.11.0.dev0+1.gc74a461
   - q2-composition=2020.11.0.dev0
-  - q2-cutadapt=2020.11.0.dev0+3.gfcc1da6
+  - q2-cutadapt=2020.11.0.dev0+4.ga4f4432
   - q2-dada2=2020.11.0.dev0+1.gfb5b7ff
   - q2-deblur=2020.11.0.dev0
   - q2-demux=2020.11.0.dev0+3.g59ddd87
@@ -345,4 +345,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.5
-prefix: /worker/volumes/live/d3b9c232-72c0-488a-68a2-03b0b6c4a55f/volume/test-env
+prefix: /worker/volumes/live/7ebfaa95-00eb-4e3d-6372-5e1ac9b061fe/volume/test-env
