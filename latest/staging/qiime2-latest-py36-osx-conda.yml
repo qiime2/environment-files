@@ -1,5 +1,5 @@
 channels:
-  - qiime2-staging/label/r2020.11
+  - https://packages.qiime2.org/qiime2/staging/2020.11
   - conda-forge
   - bioconda
   - defaults
