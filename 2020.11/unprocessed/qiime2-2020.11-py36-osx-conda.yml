@@ -208,8 +208,8 @@ dependencies:
   - q2-cutadapt=2020.11.1.dev0
   - q2-dada2=2020.11.1.dev0
   - q2-deblur=2020.11.1.dev0
-  - q2-demux=2020.11.1.dev0+2.g1356fde
-  - q2-diversity=2020.11.1.dev0
+  - q2-demux=2020.11.1.dev0+3.gcb7dd86
+  - q2-diversity=2020.11.1.dev0+2.g2c8d063
   - q2-diversity-lib=2020.11.1.dev0
   - q2-emperor=2020.11.1.dev0
   - q2-feature-classifier=2020.11.1.dev0
@@ -222,7 +222,7 @@ dependencies:
   - q2-quality-control=2020.11.1.dev0
   - q2-quality-filter=2020.11.1.dev0
   - q2-sample-classifier=2020.11.1.dev0
-  - q2-taxa=2020.11.1.dev0
+  - q2-taxa=2020.11.1.dev0+1.g12e606b
   - q2-types=2020.11.1.dev0
   - q2-vsearch=2020.11.1.dev0
   - q2cli=2020.11.1.dev0
@@ -345,4 +345,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.5
-prefix: /worker/volumes/live/b1189f1f-f847-4cfc-66e4-960c342ac98d/volume/test-env
+prefix: /worker/volumes/live/68e0511f-7381-4bac-60f1-67d7ae6dd44f/volume/test-env
