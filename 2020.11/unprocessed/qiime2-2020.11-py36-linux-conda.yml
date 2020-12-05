@@ -273,7 +273,7 @@ dependencies:
   - q2-cutadapt=2020.11.1.dev0
   - q2-dada2=2020.11.1.dev0
   - q2-deblur=2020.11.1.dev0
-  - q2-demux=2020.11.1.dev0
+  - q2-demux=2020.11.1.dev0+2.g1356fde
   - q2-diversity=2020.11.1.dev0
   - q2-diversity-lib=2020.11.1.dev0
   - q2-emperor=2020.11.1.dev0
