@@ -272,14 +272,14 @@ dependencies:
   - python_abi=3.6
   - pytz=2021.1
   - pyyaml=5.4.1
-  - pyzmq=22.0.1
+  - pyzmq=22.0.3
   - q2-alignment=2021.2.0.dev0+1.g49822db
   - q2-composition=2021.2.0.dev0+1.g566f184
   - q2-cutadapt=2021.2.0.dev0+1.g2fedf43
   - q2-dada2=2021.2.0.dev0+1.gefa7ce6
   - q2-deblur=2021.2.0.dev0+1.g0627380
   - q2-demux=2021.2.0.dev0+1.gab945ca
-  - q2-diversity=2021.2.0.dev0+2.gb815291
+  - q2-diversity=2021.2.0.dev0+3.gb9e253f
   - q2-diversity-lib=2021.2.0.dev0+1.g8573d1c
   - q2-emperor=2021.2.0.dev0+1.g2f79d14
   - q2-feature-classifier=2021.2.0.dev0+2.g11161dd
