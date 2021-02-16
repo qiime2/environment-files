@@ -282,11 +282,11 @@ dependencies:
   - q2-dada2=2021.2.0.dev0+1.gefa7ce6
   - q2-deblur=2021.2.0.dev0+1.g0627380
   - q2-demux=2021.2.0.dev0+1.gab945ca
-  - q2-diversity=2021.2.0.dev0+1.g907fa99
+  - q2-diversity=2021.2.0.dev0+2.gb815291
   - q2-diversity-lib=2021.2.0.dev0+1.g8573d1c
   - q2-emperor=2021.2.0.dev0+1.g2f79d14
   - q2-feature-classifier=2021.2.0.dev0+2.g11161dd
-  - q2-feature-table=2021.2.0.dev0+1.g853f3b6
+  - q2-feature-table=2021.2.0.dev0+2.g6ba8036
   - q2-fragment-insertion=2021.2.0.dev0+1.gcc6b8cd
   - q2-gneiss=2021.2.0.dev0+1.gce076f0
   - q2-longitudinal=2021.2.0.dev0+1.gfd3d54a
