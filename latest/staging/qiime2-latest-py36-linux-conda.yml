@@ -297,9 +297,9 @@ dependencies:
   - q2-taxa=2021.2.0.dev0+1.gb6ffeda
   - q2-types=2021.2.0.dev0+3.gab2909c
   - q2-vsearch=2021.2.0.dev0+1.g7de8153
-  - q2cli=2021.2.0.dev0+1.g4ac588a
+  - q2cli=2021.2.0.dev0+2.gf0425a2
   - q2templates=2021.2.0.dev0+1.ged8f128
-  - qiime2=2021.2.0.dev0+1.g66ea209
+  - qiime2=2021.2.0.dev0+2.ga1644a8
   - r-assertthat=0.2.1
   - r-backports=1.2.1
   - r-base=4.0.2
