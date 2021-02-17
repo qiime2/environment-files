@@ -274,29 +274,29 @@ dependencies:
   - pytz=2021.1
   - pyyaml=5.4.1
   - pyzmq=22.0.3
-  - q2-alignment=2021.2.0.dev0+1.g49822db
-  - q2-composition=2021.2.0.dev0+1.g566f184
-  - q2-cutadapt=2021.2.0.dev0+1.g2fedf43
-  - q2-dada2=2021.2.0.dev0+1.gefa7ce6
-  - q2-deblur=2021.2.0.dev0+1.g0627380
+  - q2-alignment=2021.2.0.dev0+2.g80b7544
+  - q2-composition=2021.2.0.dev0+2.ge576bb6
+  - q2-cutadapt=2021.2.0.dev0+2.g1b8b6ee
+  - q2-dada2=2021.2.0.dev0+2.gde21fd1
+  - q2-deblur=2021.2.0.dev0+2.gb1466fe
   - q2-demux=2021.2.0.dev0+1.gab945ca
   - q2-diversity=2021.2.0.dev0+3.gb9e253f
   - q2-diversity-lib=2021.2.0.dev0+1.g8573d1c
   - q2-emperor=2021.2.0.dev0+1.g2f79d14
   - q2-feature-classifier=2021.2.0.dev0+2.g11161dd
-  - q2-feature-table=2021.2.0.dev0+3.g507e714
+  - q2-feature-table=2021.2.0.dev0+4.ge11a223
   - q2-fragment-insertion=2021.2.0.dev0+1.gcc6b8cd
-  - q2-gneiss=2021.2.0.dev0+1.gce076f0
+  - q2-gneiss=2021.2.0.dev0+2.g0941bd2
   - q2-longitudinal=2021.2.0.dev0+1.gfd3d54a
   - q2-metadata=2021.2.0.dev0+1.g243e9ee
-  - q2-phylogeny=2021.2.0.dev0+1.g5100752
+  - q2-phylogeny=2021.2.0.dev0+2.gd24db64
   - q2-quality-control=2021.2.0.dev0+2.g553bfdf
-  - q2-quality-filter=2021.2.0.dev0+1.g7f2792c
+  - q2-quality-filter=2021.2.0.dev0+2.g481538f
   - q2-sample-classifier=2021.2.0.dev0+1.g266f3be
   - q2-taxa=2021.2.0.dev0+1.gb6ffeda
   - q2-types=2021.2.0.dev0+3.gab2909c
-  - q2-vsearch=2021.2.0.dev0+1.g7de8153
-  - q2cli=2021.2.0.dev0+2.gf0425a2
+  - q2-vsearch=2021.2.0.dev0+2.g8d6316f
+  - q2cli=2021.2.0.dev0+3.g7ee8342
   - q2templates=2021.2.0.dev0+1.ged8f128
   - qiime2=2021.2.0.dev0+3.gffc7700
   - r-assertthat=0.2.1
@@ -416,4 +416,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.8
-prefix: /worker/volumes/live/2a71eefc-8bfc-4e7c-624c-a42aed9460c2/volume/test-env
+prefix: /worker/volumes/live/e0f29a6d-0a86-420d-4c51-270647e52bb3/volume/test-env
