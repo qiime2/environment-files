@@ -297,7 +297,7 @@ dependencies:
   - q2-types=2021.2.0.dev0+10.g506e4d3
   - q2-vsearch=2021.2.0.dev0+7.g945d57f
   - q2cli=2021.2.0.dev0+6.g060296c
-  - q2templates=2021.2.0.dev0+1.ged8f128
+  - q2templates=2021.2.0.dev0+2.g28f15f1
   - qiime2=2021.2.0.dev0+8.gf8fc4c9
   - r-assertthat=0.2.1
   - r-backports=1.2.1
@@ -416,4 +416,4 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.8
-prefix: /worker/volumes/live/79484969-e716-4a10-46ab-53c65fc80a91/volume/test-env
+prefix: /worker/volumes/live/80672835-c552-4e40-584d-233f41c0b8d7/volume/test-env
