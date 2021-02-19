@@ -285,7 +285,7 @@ dependencies:
   - q2-feature-classifier=2021.2.0.dev0+7.geab651d
   - q2-feature-table=2021.2.0.dev0+9.g3769d39
   - q2-fragment-insertion=2021.2.0.dev0+6.g647d0c3
-  - q2-gneiss=2021.2.0.dev0+7.g0b5fe2e
+  - q2-gneiss=2021.2.0.dev0+8.ge62920e
   - q2-longitudinal=2021.2.0.dev0+7.g0b2c859
   - q2-metadata=2021.2.0.dev0+7.g080874c
   - q2-phylogeny=2021.2.0.dev0+7.g2e12ff6
