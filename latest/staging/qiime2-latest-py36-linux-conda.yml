@@ -60,7 +60,7 @@ dependencies:
   - curl=7.71.1
   - cutadapt=3.2
   - cycler=0.10.0
-  - cython=0.29.21
+  - cython=0.29.22
   - dataclasses=0.7
   - deblur=1.1.0
   - decorator=4.4.2
@@ -102,7 +102,7 @@ dependencies:
   - importlib-metadata=3.4.0
   - importlib_metadata=3.4.0
   - iniconfig=1.1.1
-  - ipykernel=5.4.2
+  - ipykernel=5.5.0
   - ipython=7.16.1
   - ipython_genutils=0.2.0
   - ipywidgets=7.6.3
@@ -268,9 +268,9 @@ dependencies:
   - pyrsistent=0.17.3
   - pysocks=1.7.1
   - pytest=6.2.2
-  - python=3.6.12
+  - python=3.6.13
   - python-dateutil=2.8.1
-  - python-isal=0.4.0
+  - python-isal=0.5.0
   - python_abi=3.6
   - pytz=2021.1
   - pyyaml=5.4.1
@@ -290,12 +290,12 @@ dependencies:
   - q2-gneiss=2021.2.0.dev0+8.ge62920e
   - q2-longitudinal=2021.2.0.dev0+7.g0b2c859
   - q2-metadata=2021.2.0.dev0+7.g080874c
-  - q2-phylogeny=2021.2.0.dev0+7.g2e12ff6
+  - q2-phylogeny=2021.2.0.dev0+8.gb2e22df
   - q2-quality-control=2021.2.0.dev0+7.gf0e1b98
   - q2-quality-filter=2021.2.0.dev0+6.g9dbd026
   - q2-sample-classifier=2021.2.0.dev0+6.ga7d4527
   - q2-taxa=2021.2.0.dev0+6.g432a4d6
-  - q2-types=2021.2.0.dev0+10.g506e4d3
+  - q2-types=2021.2.0.dev0+11.gf22480c
   - q2-vsearch=2021.2.0.dev0+7.g945d57f
   - q2cli=2021.2.0.dev0+6.g060296c
   - q2templates=2021.2.0.dev0+3.g9c53efd
@@ -341,7 +341,7 @@ dependencies:
   - r-munsell=0.5.0
   - r-nlme=3.1_150
   - r-permute=0.9_5
-  - r-pillar=1.4.7
+  - r-pillar=1.5.0
   - r-pkgbuild=1.2.0
   - r-pkgconfig=2.0.3
   - r-pkgload=1.1.0
