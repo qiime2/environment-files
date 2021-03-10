@@ -60,15 +60,15 @@ dependencies:
   - click=7.1.2
   - compiler-rt=11.1.0
   - compiler-rt_osx-64=11.1.0
-  - cryptography=3.4.4
+  - cryptography=3.4.6
   - curl=7.75.0
   - cutadapt=3.3
   - cycler=0.10.0
   - cython=0.29.22
-  - dataclasses=0.7
+  - dataclasses=0.8
   - deblur=1.1.0
   - decorator=4.4.2
-  - defusedxml=0.7.0
+  - defusedxml=0.7.1
   - dendropy=4.5.2
   - dnaio=0.5.0
   - emperor=1.0.1
@@ -178,7 +178,7 @@ dependencies:
   - openssl=1.1.1j
   - packaging=20.9
   - pandas=1.1.5
-  - pandoc=2.11.4
+  - pandoc=2.12
   - pandocfilters=1.4.2
   - pango=1.42.4
   - parso=0.7.1
@@ -189,7 +189,7 @@ dependencies:
   - pexpect=4.8.0
   - pickleshare=0.7.5
   - pigz=2.5
-  - pillow=8.1.1
+  - pillow=8.1.2
   - pip=21.0.1
   - pixman=0.40.0
   - pluggy=0.13.1
@@ -199,7 +199,7 @@ dependencies:
   - ptyprocess=0.7.0
   - py=1.10.0
   - pycparser=2.20
-  - pygments=2.8.0
+  - pygments=2.8.1
   - pyopenssl=20.0.1
   - pyparsing=2.4.7
   - pyrsistent=0.17.3
@@ -207,7 +207,7 @@ dependencies:
   - pytest=6.2.2
   - python=3.6.13
   - python-dateutil=2.8.1
-  - python-isal=0.5.0
+  - python-isal=0.6.1
   - python_abi=3.6
   - pytz=2021.1
   - pyyaml=5.4.1
@@ -230,7 +230,7 @@ dependencies:
   - q2-phylogeny=2021.4.0.dev0
   - q2-quality-control=2021.4.0.dev0
   - q2-quality-filter=2021.4.0.dev0
-  - q2-sample-classifier=2021.4.0.dev0
+  - q2-sample-classifier=2021.4.0.dev0+1.ga6af9b5
   - q2-taxa=2021.4.0.dev0
   - q2-types=2021.4.0.dev0
   - q2-vsearch=2021.4.0.dev0
@@ -308,7 +308,7 @@ dependencies:
   - r-vctrs=0.3.6
   - r-vegan=2.5_7
   - r-viridislite=0.3.0
-  - r-waldo=0.2.4
+  - r-waldo=0.2.5
   - r-withr=2.4.1
   - r-zeallot=0.1.0
   - raxml=8.2.12
