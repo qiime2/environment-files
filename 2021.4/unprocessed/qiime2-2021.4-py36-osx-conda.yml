@@ -228,7 +228,7 @@ dependencies:
   - q2-phylogeny=2021.4.0.dev0
   - q2-quality-control=2021.4.0.dev0
   - q2-quality-filter=2021.4.0.dev0
-  - q2-sample-classifier=2021.4.0.dev0+1.ga6af9b5
+  - q2-sample-classifier=2021.4.0.dev0+2.gfe3878c
   - q2-taxa=2021.4.0.dev0
   - q2-types=2021.4.0.dev0
   - q2-vsearch=2021.4.0.dev0
@@ -351,4 +351,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/586fd1dc-838d-4a9b-7048-c12a215ec834/volume/test-env
+prefix: /worker/volumes/live/65180333-03b8-40e7-7a10-d4941325e957/volume/test-env
