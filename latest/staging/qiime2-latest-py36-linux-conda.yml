@@ -1,5 +1,5 @@
 channels:
-  - https://packages.qiime2.org/qiime2/staging/2021.4
+  - https://packages.qiime2.org/qiime2/2021.4/staged
   - conda-forge
   - bioconda
   - defaults
