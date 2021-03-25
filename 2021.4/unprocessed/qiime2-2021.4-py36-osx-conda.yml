@@ -233,7 +233,7 @@ dependencies:
   - q2-types=2021.4.0.dev0+1.gce228ed
   - q2-vsearch=2021.4.0.dev0+1.g11c7b61
   - q2cli=2021.4.0.dev0+1.g7ee7a74
-  - q2templates=2021.4.0.dev0+1.g3e493d1
+  - q2templates=2021.4.0.dev0+2.g9e0e433
   - qiime2=2021.4.0.dev0+1.g5ca5ebe
   - r-assertthat=0.2.1
   - r-backports=1.2.1
@@ -284,7 +284,7 @@ dependencies:
   - r-png=0.1_7
   - r-praise=1.0.0
   - r-prettyunits=1.1.1
-  - r-processx=3.4.5
+  - r-processx=3.5.0
   - r-ps=1.6.0
   - r-r6=2.5.0
   - r-rcolorbrewer=1.1_2
@@ -351,4 +351,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/da92284e-6139-4c76-5334-299f0697c266/volume/test-env
+prefix: /worker/volumes/live/942170f5-efd0-45cc-696b-aac9091c047e/volume/test-env
