@@ -314,8 +314,8 @@ dependencies:
   - q2-types=2021.4.0.dev0+1.gce228ed
   - q2-vsearch=2021.4.0.dev0+1.g11c7b61
   - q2cli=2021.4.0.dev0+1.g7ee7a74
-  - q2templates=2021.4.0.dev0+1.g3e493d1
-  - qiime2=2021.4.0.dev0+1.g5ca5ebe
+  - q2templates=2021.4.0.dev0+2.g9e0e433
+  - qiime2=2021.4.0.dev0+2.gd99e327
   - qt=5.12.9
   - r-assertthat=0.2.1
   - r-backports=1.2.1
@@ -366,7 +366,7 @@ dependencies:
   - r-png=0.1_7
   - r-praise=1.0.0
   - r-prettyunits=1.1.1
-  - r-processx=3.4.5
+  - r-processx=3.5.0
   - r-ps=1.6.0
   - r-r6=2.5.0
   - r-rcolorbrewer=1.1_2
