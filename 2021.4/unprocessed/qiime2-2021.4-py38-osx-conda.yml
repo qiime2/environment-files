@@ -213,7 +213,7 @@ dependencies:
   - q2-cutadapt=2021.4.0.dev1+2.g451eb0c
   - q2-dada2=2021.4.0.dev1+2.g53125be
   - q2-deblur=2021.4.0.dev1+2.g1a75a69
-  - q2-demux=2021.4.0.dev1+3.g10b758d
+  - q2-demux=2021.4.0.dev1+4.gd7a75bc
   - q2-diversity=2021.4.0.dev1+3.g77bb30f
   - q2-diversity-lib=2021.4.0.dev1+2.g22ceede
   - q2-emperor=2021.4.0.dev1+2.g6f4a38e
@@ -349,4 +349,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/cb5cf5c2-5424-4daf-5de9-4732b24aa9cf/volume/test-env
+prefix: /worker/volumes/live/e88207af-3684-490d-79b2-5aaedc8cd855/volume/test-env
