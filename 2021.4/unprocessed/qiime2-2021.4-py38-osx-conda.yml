@@ -92,7 +92,7 @@ dependencies:
   - icu=68.1
   - idna=2.10
   - ijson=3.1.3
-  - importlib-metadata=3.9.1
+  - importlib-metadata=3.10.0
   - iniconfig=1.1.1
   - ipykernel=5.5.0
   - ipython=7.22.0
@@ -232,7 +232,7 @@ dependencies:
   - q2-vsearch=2021.4.0.dev1+2.g14aeee8
   - q2cli=2021.4.0.dev1+2.gc13c685
   - q2templates=2021.4.0.dev1+2.g279896b
-  - qiime2=2021.4.0.dev1+9.g1f49b62
+  - qiime2=2021.4.0.dev1+10.gfbb8033
   - r-assertthat=0.2.1
   - r-backports=1.2.1
   - r-base=4.0.3
@@ -349,4 +349,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/737fd0fc-a263-48a9-58e8-2d73c2825f3e/volume/test-env
+prefix: /worker/volumes/live/cb5cf5c2-5424-4daf-5de9-4732b24aa9cf/volume/test-env
