@@ -53,7 +53,7 @@ dependencies:
   - chardet=4.0.0
   - click=7.1.2
   - cryptography=3.4.7
-  - curl=7.75.0
+  - curl=7.76.0
   - cutadapt=3.4
   - cycler=0.10.0
   - cython=0.29.22
@@ -121,7 +121,7 @@ dependencies:
   - libblas=3.9.0
   - libcblas=3.9.0
   - libclang=11.1.0
-  - libcurl=7.75.0
+  - libcurl=7.76.0
   - libdeflate=1.7
   - libedit=3.1.20191231
   - libev=4.33
@@ -158,8 +158,8 @@ dependencies:
   - mafft=7.475
   - make=4.3
   - markupsafe=1.1.1
-  - matplotlib=3.3.4
-  - matplotlib-base=3.3.4
+  - matplotlib=3.4.1
+  - matplotlib-base=3.4.1
   - mistune=0.8.4
   - more-itertools=8.7.0
   - msgpack-python=1.0.2
@@ -291,10 +291,10 @@ dependencies:
   - q2-composition=2021.4.0.dev1+3.g4ef2db2
   - q2-cutadapt=2021.4.0.dev1+2.g451eb0c
   - q2-dada2=2021.4.0.dev1+2.g53125be
-  - q2-deblur=2021.4.0.dev1+2.g1a75a69
+  - q2-deblur=2021.4.0.dev1+3.g5d54153
   - q2-demux=2021.4.0.dev1+4.gd7a75bc
   - q2-diversity=2021.4.0.dev1+3.g77bb30f
-  - q2-diversity-lib=2021.4.0.dev1+2.g22ceede
+  - q2-diversity-lib=2021.4.0.dev1+3.ga064778
   - q2-emperor=2021.4.0.dev1+2.g6f4a38e
   - q2-feature-classifier=2021.4.0.dev1+3.g2a7fb8e
   - q2-feature-table=2021.4.0.dev1+2.g5856ba0
@@ -303,8 +303,8 @@ dependencies:
   - q2-longitudinal=2021.4.0.dev1+5.g34d5287
   - q2-metadata=2021.4.0.dev1+2.gaecc5e4
   - q2-phylogeny=2021.4.0.dev1+2.gd35d034
-  - q2-quality-control=2021.4.0.dev1+2.g94c4896
-  - q2-quality-filter=2021.4.0.dev1+2.g73a89b4
+  - q2-quality-control=2021.4.0.dev1+3.gd0ad4a3
+  - q2-quality-filter=2021.4.0.dev1+3.gcda10cd
   - q2-sample-classifier=2021.4.0.dev1+7.g507fbfc
   - q2-taxa=2021.4.0.dev1+3.g6b6c479
   - q2-types=2021.4.0.dev1+3.gc9fa44a
