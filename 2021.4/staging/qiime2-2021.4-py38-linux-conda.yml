@@ -56,7 +56,7 @@ dependencies:
   - click=7.1.2
   - cryptography=3.4.7
   - curl=7.75.0
-  - cutadapt=3.3
+  - cutadapt=3.4
   - cycler=0.10.0
   - cython=0.29.22
   - dbus=1.13.6
@@ -172,7 +172,7 @@ dependencies:
   - nbconvert=6.0.7
   - nbformat=5.1.2
   - ncurses=6.2
-  - nest-asyncio=1.4.3
+  - nest-asyncio=1.5.1
   - networkx=2.5
   - nodejs=15.12.0
   - nose=1.3.7
@@ -284,7 +284,7 @@ dependencies:
   - pytest=6.2.2
   - python=3.8.8
   - python-dateutil=2.8.1
-  - python-isal=0.8.1
+  - python-isal=0.9.0
   - python_abi=3.8
   - pytz=2021.1
   - pyyaml=5.4.1
@@ -301,7 +301,7 @@ dependencies:
   - q2-feature-classifier=2021.4.0.dev1+3.g2a7fb8e
   - q2-feature-table=2021.4.0.dev1+2.g5856ba0
   - q2-fragment-insertion=2021.4.0.dev1+2.gbd5d85f
-  - q2-gneiss=2021.4.0.dev1+3.g5fafbb7
+  - q2-gneiss=2021.4.0.dev1+5.ge4471dc
   - q2-longitudinal=2021.4.0.dev1+5.g34d5287
   - q2-metadata=2021.4.0.dev1+2.gaecc5e4
   - q2-phylogeny=2021.4.0.dev1+2.gd35d034
