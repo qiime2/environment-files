@@ -216,7 +216,7 @@ dependencies:
   - q2-dada2=2021.4.0.dev1+2.g53125be
   - q2-deblur=2021.4.0.dev1+3.g5d54153
   - q2-demux=2021.4.0.dev1+4.gd7a75bc
-  - q2-diversity=2021.4.0.dev1+3.g77bb30f
+  - q2-diversity=2021.4.0.dev1+4.ga151529
   - q2-diversity-lib=2021.4.0.dev1+3.ga064778
   - q2-emperor=2021.4.0.dev1+2.g6f4a38e
   - q2-feature-classifier=2021.4.0.dev1+3.g2a7fb8e
