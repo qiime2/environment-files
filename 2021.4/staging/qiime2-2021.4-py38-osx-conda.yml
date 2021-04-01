@@ -166,7 +166,7 @@ dependencies:
   - ncurses=6.2
   - nest-asyncio=1.5.1
   - networkx=2.5
-  - nodejs=15.12.0
+  - nodejs=15.13.0
   - nose=1.3.7
   - notebook=6.3.0
   - numpy=1.20.2
@@ -220,7 +220,7 @@ dependencies:
   - q2-diversity-lib=2021.4.0.dev1+3.ga064778
   - q2-emperor=2021.4.0.dev1+2.g6f4a38e
   - q2-feature-classifier=2021.4.0.dev1+3.g2a7fb8e
-  - q2-feature-table=2021.4.0.dev1+2.g5856ba0
+  - q2-feature-table=2021.4.0.dev1+3.g769ef5a
   - q2-fragment-insertion=2021.4.0.dev1+2.gbd5d85f
   - q2-gneiss=2021.4.0.dev1+5.ge4471dc
   - q2-longitudinal=2021.4.0.dev1+5.g34d5287
