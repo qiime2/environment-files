@@ -295,7 +295,7 @@ dependencies:
   - q2-dada2=2021.4.0.dev2+2.g8b9de48
   - q2-deblur=2021.4.0.dev2+2.g8b7c87b
   - q2-demux=2021.4.0.dev2+2.ga5df29e
-  - q2-diversity=2021.4.0.dev2+1.g74f459d
+  - q2-diversity=2021.4.0.dev2+2.ga5a80a8
   - q2-diversity-lib=2021.4.0.dev2+2.g9505be4
   - q2-emperor=2021.4.0.dev2+4.gc0fe856
   - q2-feature-classifier=2021.4.0.dev2+2.g822386d
