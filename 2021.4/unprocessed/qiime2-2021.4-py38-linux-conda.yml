@@ -302,7 +302,7 @@ dependencies:
   - q2-gneiss=2021.4.0.dev2+2.ge44809e
   - q2-longitudinal=2021.4.0.dev2+2.gf89fd5b
   - q2-metadata=2021.4.0.dev2+2.g73eb57d
-  - q2-phylogeny=2021.4.0.dev2+5.g4f393a8
+  - q2-phylogeny=2021.4.0.dev2+6.gfbe1856
   - q2-quality-control=2021.4.0.dev2+2.g3b91094
   - q2-quality-filter=2021.4.0.dev2+2.g524a750
   - q2-sample-classifier=2021.4.0.dev2+2.ga19759f
