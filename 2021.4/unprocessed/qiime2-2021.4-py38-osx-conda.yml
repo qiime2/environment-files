@@ -200,7 +200,7 @@ dependencies:
   - pyparsing=2.4.7
   - pyrsistent=0.17.3
   - pysocks=1.7.1
-  - pytest=6.2.2
+  - pytest=6.2.3
   - python=3.8.8
   - python-dateutil=2.8.1
   - python-isal=0.9.0
@@ -208,9 +208,9 @@ dependencies:
   - pytz=2021.1
   - pyyaml=5.4.1
   - pyzmq=22.0.3
-  - q2-alignment=2021.4.0.dev2+1.g4206218
+  - q2-alignment=2021.4.0.dev2+2.gf9783e1
   - q2-composition=2021.4.0.dev2+1.g6296766
-  - q2-cutadapt=2021.4.0.dev2+1.gbb26f34
+  - q2-cutadapt=2021.4.0.dev2+2.g1d2d103
   - q2-dada2=2021.4.0.dev2+1.ga65ae36
   - q2-deblur=2021.4.0.dev2+1.g3a124a2
   - q2-demux=2021.4.0.dev2+1.g03820aa
@@ -221,13 +221,13 @@ dependencies:
   - q2-feature-table=2021.4.0.dev2+1.gd8c496b
   - q2-fragment-insertion=2021.4.0.dev2+2.g2d42dfc
   - q2-gneiss=2021.4.0.dev2+1.g683b041
-  - q2-longitudinal=2021.4.0.dev2+1.gad5265b
+  - q2-longitudinal=2021.4.0.dev2+2.gf89fd5b
   - q2-metadata=2021.4.0.dev2+1.g556f734
   - q2-phylogeny=2021.4.0.dev2+4.g9025949
   - q2-quality-control=2021.4.0.dev2+1.ge195ad4
   - q2-quality-filter=2021.4.0.dev2+1.g25fded3
   - q2-sample-classifier=2021.4.0.dev2+1.g9735c17
-  - q2-taxa=2021.4.0.dev2+1.g821d3b0
+  - q2-taxa=2021.4.0.dev2+2.g53fb693
   - q2-types=2021.4.0.dev2+1.gf62eebc
   - q2-vsearch=2021.4.0.dev2+1.g3064b89
   - q2cli=2021.4.0.dev2+1.ga49dbe0
@@ -240,7 +240,7 @@ dependencies:
   - r-bitops=1.0_6
   - r-brio=1.1.1
   - r-callr=3.6.0
-  - r-cli=2.3.1
+  - r-cli=2.4.0
   - r-cluster=2.1.1
   - r-colorspace=2.0_0
   - r-crayon=1.4.1
@@ -321,7 +321,7 @@ dependencies:
   - setuptools=49.6.0
   - six=1.15.0
   - sortmerna=2.0
-  - sqlite=3.35.3
+  - sqlite=3.35.4
   - statsmodels=0.12.2
   - tapi=1100.0.11
   - tbb=2020.2
@@ -349,4 +349,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/d2001668-2ff5-4479-69d0-cf46e96a856c/volume/test-env
+prefix: /worker/volumes/live/88ddf4e0-ea10-42a8-4c3c-5a9ab855d226/volume/test-env
