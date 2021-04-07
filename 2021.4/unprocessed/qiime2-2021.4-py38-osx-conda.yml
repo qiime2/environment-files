@@ -98,7 +98,7 @@ dependencies:
   - ipython=7.22.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.6.3
-  - iqtree=2.0.3
+  - iqtree=2.1.2
   - isa-l=2.30.0
   - isl=0.22.1
   - jedi=0.18.0
@@ -223,7 +223,7 @@ dependencies:
   - q2-gneiss=2021.4.0.dev2+2.ge44809e
   - q2-longitudinal=2021.4.0.dev2+2.gf89fd5b
   - q2-metadata=2021.4.0.dev2+2.g73eb57d
-  - q2-phylogeny=2021.4.0.dev2+6.gfbe1856
+  - q2-phylogeny=2021.4.0.dev2+7.gd4012d0
   - q2-quality-control=2021.4.0.dev2+2.g3b91094
   - q2-quality-filter=2021.4.0.dev2+2.g524a750
   - q2-sample-classifier=2021.4.0.dev2+2.ga19759f
@@ -349,4 +349,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/3a4add07-991a-492a-45a8-6e21e2930e9f/volume/test-env
+prefix: /worker/volumes/live/f92ad8f0-2423-4caf-5043-2be30d5e583c/volume/test-env
