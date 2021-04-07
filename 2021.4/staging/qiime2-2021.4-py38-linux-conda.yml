@@ -104,7 +104,7 @@ dependencies:
   - ipython=7.22.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.6.3
-  - iqtree=2.0.3
+  - iqtree=2.1.2
   - isa-l=2.30.0
   - jedi=0.18.0
   - jinja2=2.11.3
@@ -304,7 +304,7 @@ dependencies:
   - q2-gneiss=2021.4.0.dev2+2.ge44809e
   - q2-longitudinal=2021.4.0.dev2+2.gf89fd5b
   - q2-metadata=2021.4.0.dev2+2.g73eb57d
-  - q2-phylogeny=2021.4.0.dev2+6.gfbe1856
+  - q2-phylogeny=2021.4.0.dev2+7.gd4012d0
   - q2-quality-control=2021.4.0.dev2+2.g3b91094
   - q2-quality-filter=2021.4.0.dev2+2.g524a750
   - q2-sample-classifier=2021.4.0.dev2+2.ga19759f
@@ -357,13 +357,11 @@ dependencies:
   - r-nlme=3.1_152
   - r-permute=0.9_5
   - r-pillar=1.5.1
-  - r-pkgbuild=1.2.0
   - r-pkgconfig=2.0.3
-  - r-pkgload=1.2.0
+  - r-pkgload=1.2.1
   - r-plyr=1.8.6
   - r-png=0.1_7
   - r-praise=1.0.0
-  - r-prettyunits=1.1.1
   - r-processx=3.5.1
   - r-ps=1.6.0
   - r-r6=2.5.0
