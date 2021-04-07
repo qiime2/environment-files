@@ -228,7 +228,7 @@ dependencies:
   - q2-phylogeny=2021.4.0.dev2+7.gd4012d0
   - q2-quality-control=2021.4.0.dev2+2.g3b91094
   - q2-quality-filter=2021.4.0.dev2+2.g524a750
-  - q2-sample-classifier=2021.4.0.dev2+2.ga19759f
+  - q2-sample-classifier=2021.4.0.dev2+3.g42f5b7c
   - q2-taxa=2021.4.0.dev2+2.g53fb693
   - q2-types=2021.4.0.dev2+2.g2e942e9
   - q2-vsearch=2021.4.0.dev2+2.g17b6c51
@@ -277,13 +277,11 @@ dependencies:
   - r-nlme=3.1_152
   - r-permute=0.9_5
   - r-pillar=1.5.1
-  - r-pkgbuild=1.2.0
   - r-pkgconfig=2.0.3
-  - r-pkgload=1.2.0
+  - r-pkgload=1.2.1
   - r-plyr=1.8.6
   - r-png=0.1_7
   - r-praise=1.0.0
-  - r-prettyunits=1.1.1
   - r-processx=3.5.1
   - r-ps=1.6.0
   - r-r6=2.5.0
