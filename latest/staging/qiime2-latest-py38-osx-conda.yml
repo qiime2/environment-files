@@ -11,7 +11,7 @@ dependencies:
   - attrs=20.3.0
   - backcall=0.2.0
   - backports=1.0
-  - backports.functools_lru_cache=1.6.3
+  - backports.functools_lru_cache=1.6.4
   - bibtexparser=1.1.0
   - bioconductor-biobase=2.50.0
   - bioconductor-biocgenerics=0.36.0
@@ -130,7 +130,7 @@ dependencies:
   - libgfortran=5.0.0
   - libgfortran-devel_osx-64=9.3.0
   - libgfortran5=9.3.0
-  - libglib=2.68.0
+  - libglib=2.68.1
   - libiconv=1.16
   - liblapack=3.9.0
   - liblapacke=3.9.0
@@ -219,7 +219,7 @@ dependencies:
   - q2-dada2=2021.4.0.dev2+2.g8b9de48
   - q2-deblur=2021.4.0.dev2+2.g8b7c87b
   - q2-demux=2021.4.0.dev2+2.ga5df29e
-  - q2-diversity=2021.4.0.dev2+2.ga5a80a8
+  - q2-diversity=2021.4.0.dev2+3.g7cdec72
   - q2-diversity-lib=2021.4.0.dev2+2.g9505be4
   - q2-emperor=2021.4.0.dev2+4.gc0fe856
   - q2-feature-classifier=2021.4.0.dev2+2.g822386d
@@ -237,7 +237,7 @@ dependencies:
   - q2-types=2021.4.0.dev2+2.g2e942e9
   - q2-vsearch=2021.4.0.dev2+2.g17b6c51
   - q2cli=2021.4.0.dev2+3.gc9f28b6
-  - q2galaxy=2021.4.0.dev2+1.g2d8a1b1
+  - q2galaxy=2021.4.0.dev2+4.g9c378a8
   - q2templates=2021.4.0.dev2+2.g7277770
   - qiime2=2021.4.0.dev2+3.g386e831
   - r-assertthat=0.2.1
@@ -292,7 +292,7 @@ dependencies:
   - r-r6=2.5.0
   - r-rcolorbrewer=1.1_2
   - r-rcpp=1.0.6
-  - r-rcppparallel=5.0.3
+  - r-rcppparallel=5.1.1
   - r-rcurl=1.98_1.3
   - r-rematch2=2.1.2
   - r-reshape2=1.4.4
