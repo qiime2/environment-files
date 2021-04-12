@@ -237,7 +237,7 @@ dependencies:
   - q2cli=2021.4.0.dev2+3.gc9f28b6
   - q2galaxy=2021.4.0.dev2+4.g9c378a8
   - q2templates=2021.4.0.dev2+2.g7277770
-  - qiime2=2021.4.0.dev2+3.g386e831
+  - qiime2=2021.4.0.dev2+4.g74b0721
   - r-assertthat=0.2.1
   - r-backports=1.2.1
   - r-base=4.0.3
@@ -352,4 +352,4 @@ dependencies:
   - zipp=3.4.1
   - zlib=1.2.11
   - zstd=1.4.9
-prefix: /worker/volumes/live/123cac30-f9b7-48e8-6ad3-fcf4a6737994/volume/test-env
+prefix: /worker/volumes/live/6dc2b6d2-2f12-4656-4645-36d1df66a9d0/volume/test-env
