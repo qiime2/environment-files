@@ -318,7 +318,7 @@ dependencies:
   - q2cli=2021.4.0.dev2+3.gc9f28b6
   - q2galaxy=2021.4.0.dev2+4.g9c378a8
   - q2templates=2021.4.0.dev2+2.g7277770
-  - qiime2=2021.4.0.dev2+3.g386e831
+  - qiime2=2021.4.0.dev2+4.g74b0721
   - qt=5.12.9
   - r-assertthat=0.2.1
   - r-backports=1.2.1
