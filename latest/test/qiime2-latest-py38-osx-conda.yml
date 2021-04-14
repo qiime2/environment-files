@@ -1,0 +1,6 @@
+channels:
+  - https://packages.qiime2.org/qiime2/2021.4/tested
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies: null
