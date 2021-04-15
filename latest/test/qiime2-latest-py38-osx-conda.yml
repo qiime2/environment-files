@@ -231,14 +231,14 @@ dependencies:
   - q2-mystery-stew=2021.4.0.dev2+5.g9dd382d
   - q2-phylogeny=2021.4.0.dev2+8.g4c6a8c5
   - q2-quality-control=2021.4.0.dev2+4.ged17f7e
-  - q2-quality-filter=2021.4.0.dev2+2.g524a750
+  - q2-quality-filter=2021.4.0.dev2+3.g3d54c63
   - q2-sample-classifier=2021.4.0.dev2+4.gf317691
   - q2-taxa=2021.4.0.dev2+7.gb5614f9
   - q2-types=2021.4.0.dev2+3.gd0b3217
   - q2-vsearch=2021.4.0.dev2+3.g4d66c9e
   - q2cli=2021.4.0.dev2+4.ga04ad20
   - q2galaxy=2021.4.0.dev2+6.g7f1297b
-  - q2templates=2021.4.0.dev2+2.g7277770
+  - q2templates=2021.4.0.dev2+3.g902afe8
   - qiime2=2021.4.0.dev2+5.g175894c
   - r-assertthat=0.2.1
   - r-backports=1.2.1
