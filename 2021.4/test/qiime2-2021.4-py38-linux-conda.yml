@@ -309,7 +309,7 @@ dependencies:
   - q2-metadata=2021.4.0.dev2+3.ge7cc0db
   - q2-mystery-stew=2021.4.0.dev2+5.g9dd382d
   - q2-phylogeny=2021.4.0.dev2+8.g4c6a8c5
-  - q2-quality-control=2021.4.0.dev2+5.g5835cb4
+  - q2-quality-control=2021.4.0.dev2+6.gde60ba7
   - q2-quality-filter=2021.4.0.dev2+3.g3d54c63
   - q2-sample-classifier=2021.4.0.dev2+4.gf317691
   - q2-taxa=2021.4.0.dev2+7.gb5614f9
@@ -410,7 +410,7 @@ dependencies:
   - sqlite=3.35.4
   - statsmodels=0.12.2
   - sysroot_linux-64=2.12
-  - tbb=2021.2.0
+  - tbb=2020.2
   - terminado=0.9.4
   - testpath=0.4.4
   - threadpoolctl=2.1.0
