@@ -219,7 +219,7 @@ dependencies:
   - q2-dada2=2021.4.0.dev2+4.g89a93b3
   - q2-deblur=2021.4.0.dev2+3.g7dd8337
   - q2-demux=2021.4.0.dev2+3.gc15df19
-  - q2-diversity=2021.4.0.dev2+4.g3fed71f
+  - q2-diversity=2021.4.0.dev2+5.gd17c3bc
   - q2-diversity-lib=2021.4.0.dev2+3.gc140697
   - q2-emperor=2021.4.0.dev2+5.g611d08c
   - q2-feature-classifier=2021.4.0.dev2+3.g587f6b7
@@ -292,7 +292,7 @@ dependencies:
   - r-r6=2.5.0
   - r-rcolorbrewer=1.1_2
   - r-rcpp=1.0.6
-  - r-rcppparallel=5.1.1
+  - r-rcppparallel=5.1.2
   - r-rcurl=1.98_1.3
   - r-rematch2=2.1.2
   - r-reshape2=1.4.4
