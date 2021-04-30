@@ -305,7 +305,7 @@ dependencies:
   - q2-diversity=2021.8.0.dev0+2.g642b2b4
   - q2-diversity-lib=2021.8.0.dev0+2.g8b9c35f
   - q2-emperor=2021.8.0.dev0+2.gf4100d7
-  - q2-feature-classifier=2021.8.0.dev0+2.gd6533dc
+  - q2-feature-classifier=2021.8.0.dev0+3.geadba70
   - q2-feature-table=2021.8.0.dev0+2.ga034a00
   - q2-fragment-insertion=2021.8.0.dev0+2.g59f3341
   - q2-gneiss=2021.8.0.dev0+2.gd37ad0a
