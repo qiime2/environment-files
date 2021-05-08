@@ -10,7 +10,7 @@ dependencies:
   - alsa-lib=1.2.3
   - argon2-cffi=20.1.0
   - async_generator=1.10
-  - attrs=20.3.0
+  - attrs=21.2.0
   - backcall=0.2.0
   - backports=1.0
   - backports.functools_lru_cache=1.6.4
@@ -319,7 +319,7 @@ dependencies:
   - q2-longitudinal=2021.8.0.dev0+2.gd9edd42
   - q2-metadata=2021.8.0.dev0+2.gf1dae3e
   - q2-mystery-stew=2021.8.0.dev0+2.g80dde70
-  - q2-phylogeny=2021.8.0.dev0+3.g1951848
+  - q2-phylogeny=2021.8.0.dev0+4.g8d94431
   - q2-quality-control=2021.8.0.dev0+2.g8266d0b
   - q2-quality-filter=2021.8.0.dev0+2.gda0f8a8
   - q2-sample-classifier=2021.8.0.dev0+2.ge7bda5f
