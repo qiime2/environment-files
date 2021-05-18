@@ -198,7 +198,7 @@ dependencies:
   - pexpect=4.8.0
   - pickleshare=0.7.5
   - pigz=2.6
-  - pillow=8.1.2
+  - pillow=8.2.0
   - pip=21.1.1
   - pixman=0.40.0
   - pluggy=0.13.1
@@ -247,7 +247,7 @@ dependencies:
   - q2cli=2021.8.0.dev0+2.g7dd03e7
   - q2galaxy=2021.8.0.dev0
   - q2templates=2021.8.0.dev0+2.g6e3ff0f
-  - qiime2=2021.8.0.dev0+4.gbf82427
+  - qiime2=2021.8.0.dev0+5.g1f8c27d
   - r-assertthat=0.2.1
   - r-backports=1.2.1
   - r-base=4.0.5
