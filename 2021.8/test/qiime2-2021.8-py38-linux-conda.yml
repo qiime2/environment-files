@@ -54,7 +54,7 @@ dependencies:
   - certifi=2021.5.30
   - cffi=1.14.5
   - chardet=4.0.0
-  - click=8.0.1
+  - click=7.1.2
   - cryptography=3.4.7
   - curl=7.77.0
   - cutadapt=3.4
