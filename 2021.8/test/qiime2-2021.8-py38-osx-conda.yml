@@ -308,7 +308,7 @@ dependencies:
   - q2-sample-classifier=2021.8.0.dev0+2.ge7bda5f
   - q2-taxa=2021.8.0.dev0+2.ge9923d4
   - q2-types=2021.8.0.dev0+2.g623c9aa
-  - q2-vsearch=2021.8.0.dev0+2.g0f4cc78
+  - q2-vsearch=2021.8.0.dev0+3.g65df88c
   - q2cli=2021.8.0.dev0+2.g7dd03e7
   - q2galaxy=2021.8.0.dev0
   - q2templates=2021.8.0.dev0+2.g6e3ff0f
