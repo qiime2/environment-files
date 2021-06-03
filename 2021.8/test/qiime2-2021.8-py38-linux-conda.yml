@@ -105,7 +105,7 @@ dependencies:
   - importlib-metadata=4.4.0
   - iniconfig=1.1.1
   - ipykernel=5.5.5
-  - ipython=7.24.0
+  - ipython=7.24.1
   - ipython_genutils=0.2.0
   - ipywidgets=7.6.3
   - iqtree=2.1.2
@@ -304,7 +304,7 @@ dependencies:
   - q2-phylogeny=2021.8.0.dev0+4.g8d94431
   - q2-quality-control=2021.8.0.dev0+2.g8266d0b
   - q2-quality-filter=2021.8.0.dev0+2.gda0f8a8
-  - q2-sample-classifier=2021.8.0.dev0+2.ge7bda5f
+  - q2-sample-classifier=2021.8.0.dev0+3.gc0a6364
   - q2-taxa=2021.8.0.dev0+2.ge9923d4
   - q2-types=2021.8.0.dev0+2.g623c9aa
   - q2-vsearch=2021.8.0.dev0+3.g65df88c
@@ -410,7 +410,7 @@ dependencies:
   - toml=0.10.2
   - tornado=6.1
   - traitlets=5.0.5
-  - typing_extensions=3.7.4.3
+  - typing_extensions=3.10.0.0
   - tzlocal=2.1
   - unifrac=0.20.2
   - urllib3=1.26.5
