@@ -57,7 +57,7 @@ dependencies:
   - clang_osx-64=11.1.0
   - clangxx=11.1.0
   - clangxx_osx-64=11.1.0
-  - click=8.0.1
+  - click=7.1.2
   - compiler-rt=11.1.0
   - compiler-rt_osx-64=11.1.0
   - cryptography=3.4.7
@@ -309,7 +309,7 @@ dependencies:
   - q2-taxa=2021.8.0.dev0+2.ge9923d4
   - q2-types=2021.8.0.dev0+2.g623c9aa
   - q2-vsearch=2021.8.0.dev0+3.g65df88c
-  - q2cli=2021.8.0.dev0+2.g7dd03e7
+  - q2cli=2021.8.0.dev0+4.g2ace94d
   - q2galaxy=2021.8.0.dev0
   - q2templates=2021.8.0.dev0+2.g6e3ff0f
   - qiime2=2021.8.0.dev0+5.g1f8c27d

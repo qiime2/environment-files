@@ -54,7 +54,7 @@ dependencies:
   - certifi=2021.5.30
   - cffi=1.14.5
   - chardet=4.0.0
-  - click=8.0.1
+  - click=7.1.2
   - cryptography=3.4.7
   - curl=7.77.0
   - cutadapt=3.4
@@ -308,7 +308,7 @@ dependencies:
   - q2-taxa=2021.8.0.dev0+2.ge9923d4
   - q2-types=2021.8.0.dev0+2.g623c9aa
   - q2-vsearch=2021.8.0.dev0+3.g65df88c
-  - q2cli=2021.8.0.dev0+2.g7dd03e7
+  - q2cli=2021.8.0.dev0+4.g2ace94d
   - q2galaxy=2021.8.0.dev0
   - q2templates=2021.8.0.dev0+2.g6e3ff0f
   - qiime2=2021.8.0.dev0+5.g1f8c27d
