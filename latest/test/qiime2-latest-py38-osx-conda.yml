@@ -289,7 +289,7 @@ dependencies:
   - q2-alignment=2021.8.0.dev0+2.g4d92102
   - q2-composition=2021.8.0.dev0+3.g9ed38c6
   - q2-cutadapt=2021.8.0.dev0+2.g0608201
-  - q2-dada2=2021.8.0.dev0+4.ge2fc5bc
+  - q2-dada2=2021.8.0.dev0+5.g7fcf909
   - q2-deblur=2021.8.0.dev0+3.gb69b208
   - q2-demux=2021.8.0.dev0+2.gcbdff00
   - q2-diversity=2021.8.0.dev0+2.g642b2b4
