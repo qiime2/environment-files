@@ -141,7 +141,7 @@ dependencies:
   - libgfortran=5.0.0
   - libgfortran-devel_osx-64=9.3.0
   - libgfortran5=9.3.0
-  - libglib=2.68.2
+  - libglib=2.68.3
   - libiconv=1.16
   - liblapack=3.9.0
   - liblapacke=3.9.0
@@ -308,7 +308,7 @@ dependencies:
   - q2-sample-classifier=2021.8.0.dev0+3.gc0a6364
   - q2-taxa=2021.8.0.dev0+2.ge9923d4
   - q2-types=2021.8.0.dev0+2.g623c9aa
-  - q2-vsearch=2021.8.0.dev0+3.g65df88c
+  - q2-vsearch=2021.8.0.dev0+4.g8a1f85f
   - q2cli=2021.8.0.dev0+4.g2ace94d
   - q2galaxy=2021.8.0.dev0+1.g05583c7
   - q2templates=2021.8.0.dev0+2.g6e3ff0f
@@ -402,7 +402,7 @@ dependencies:
   - statsmodels=0.12.2
   - tapi=1100.0.11
   - tbb=2020.2
-  - terminado=0.10.0
+  - terminado=0.10.1
   - testpath=0.5.0
   - threadpoolctl=2.1.0
   - tk=8.6.10
