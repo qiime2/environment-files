@@ -335,7 +335,7 @@ dependencies:
   - q2-vsearch=2021.8.0.dev0+4.g8a1f85f
   - q2cli=2021.8.0.dev0+6.g568b8a2
   - q2galaxy=2021.8.0.dev0+1.g05583c7
-  - q2templates=2021.8.0.dev0+2.g6e3ff0f
+  - q2templates=2021.8.0.dev0+3.gd744b4d
   - qiime2=2021.8.0.dev0+8.g8c82f7d
   - qt=5.12.9
   - r-assertthat=0.2.1
