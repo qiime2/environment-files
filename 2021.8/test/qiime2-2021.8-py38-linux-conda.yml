@@ -182,7 +182,7 @@ dependencies:
   - matplotlib-base=3.4.3
   - matplotlib-inline=0.1.2
   - mistune=0.8.4
-  - more-itertools=8.8.0
+  - more-itertools=8.9.0
   - msgpack-python=1.0.2
   - mysql-common=8.0.25
   - mysql-libs=8.0.25
@@ -202,7 +202,7 @@ dependencies:
   - olefile=0.46
   - openjdk=11.0.9.1
   - openjpeg=2.4.0
-  - openssl=1.1.1k
+  - openssl=1.1.1l
   - packaging=21.0
   - pandas=1.2.5
   - pandoc=2.14.2
@@ -279,7 +279,7 @@ dependencies:
   - pexpect=4.8.0
   - pickleshare=0.7.5
   - pigz=2.6
-  - pillow=8.3.1
+  - pillow=8.3.2
   - pip=21.2.4
   - pixman=0.40.0
   - pluggy=0.13.1
@@ -314,7 +314,7 @@ dependencies:
   - q2-dada2=2021.8.0.dev0+7.ge7dd0b7
   - q2-deblur=2021.8.0.dev0+5.g974b409
   - q2-demux=2021.8.0.dev0+4.g9a0570d
-  - q2-diversity=2021.8.0.dev0+6.gc1a10dc
+  - q2-diversity=2021.8.0.dev0+8.g0318711
   - q2-diversity-lib=2021.8.0.dev0+5.g4a3476f
   - q2-emperor=2021.8.0.dev0+4.g6ea0507
   - q2-feature-classifier=2021.8.0.dev0+5.gc5a3336
