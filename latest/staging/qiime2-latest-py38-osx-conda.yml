@@ -353,7 +353,7 @@ dependencies:
   - seaborn-base=0.11.2
   - send2trash=1.8.0
   - sepp=4.3.10
-  - setuptools=58.0.3
+  - setuptools=58.0.4
   - six=1.16.0
   - sortmerna=2.0
   - sqlite=3.36.0
