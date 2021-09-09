@@ -290,7 +290,6 @@ dependencies:
   - q2cli=2021.8.0.dev0+7.gca76eea
   - q2templates=2021.8.0.dev0+3.gd744b4d
   - qiime2=2021.8.0.dev0+11.g0e7d9ae
-  - qiime2-core=2021.09.09.00.23.01
   - qt=5.12.9
   - r-assertthat=0.2.1
   - r-backports=1.2.1
