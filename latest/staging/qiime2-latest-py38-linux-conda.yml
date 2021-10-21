@@ -123,7 +123,7 @@ dependencies:
   - joblib=1.1.0
   - jpeg=9d
   - jq=1.6
-  - jsonschema=4.1.1
+  - jsonschema=4.1.2
   - jupyter_client=7.0.6
   - jupyter_core=4.8.1
   - jupyterlab_pygments=0.1.2
@@ -292,7 +292,7 @@ dependencies:
   - q2-taxa=2021.10.0.dev0
   - q2-types=2021.10.0.dev0
   - q2-vsearch=2021.10.0.dev0
-  - q2cli=2021.10.0.dev0+2.g06d8bcd
+  - q2cli=2021.10.0.dev0+3.ge317649
   - q2galaxy=2021.10.0.dev0
   - q2templates=2021.10.0.dev0
   - qiime2=2021.10.0.dev0+2.gfa14f7f
