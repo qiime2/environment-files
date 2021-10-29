@@ -105,7 +105,7 @@ dependencies:
   - hdmedians=0.14.2
   - hmmer=3.1b2
   - htslib=1.14
-  - icu=68.1
+  - icu=68.2
   - idna=2.10
   - ijson=3.1.3
   - importlib-metadata=4.8.1
@@ -125,7 +125,7 @@ dependencies:
   - jq=1.6
   - jsonschema=4.1.2
   - jupyter_client=7.0.6
-  - jupyter_core=4.9.0
+  - jupyter_core=4.9.1
   - jupyterlab_pygments=0.1.2
   - jupyterlab_widgets=1.0.2
   - kernel-headers_linux-64=2.6.32
@@ -200,8 +200,8 @@ dependencies:
   - nodejs=16.12.0
   - nose=1.3.7
   - notebook=6.4.5
-  - nspr=4.30
-  - nss=3.69
+  - nspr=4.32
+  - nss=3.71
   - numpy=1.21.3
   - olefile=0.46
   - oniguruma=6.9.7.1
@@ -295,7 +295,7 @@ dependencies:
   - q2cli=2021.10.0.dev0+3.ge317649
   - q2galaxy=2021.10.0.dev0
   - q2templates=2021.10.0.dev0
-  - qiime2=2021.10.0.dev0+4.gec3c973
+  - qiime2=2021.10.0.dev0+5.g74e7158
   - qt=5.12.9
   - r-assertthat=0.2.1
   - r-backports=1.3.0
@@ -403,7 +403,7 @@ dependencies:
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - wheel=0.37.0
-  - widgetsnbextension=3.5.1
+  - widgetsnbextension=3.5.2
   - xmltodict=0.12.0
   - xopen=1.2.1
   - xorg-fixesproto=5.0
