@@ -43,7 +43,7 @@ dependencies:
   - bzip2=1.0.8
   - c-ares=1.18.1
   - ca-certificates=2021.10.8
-  - cachecontrol=0.12.6
+  - cachecontrol=0.12.7
   - cached-property=1.5.2
   - cached_property=1.5.2
   - cairo=1.16.0
@@ -62,7 +62,7 @@ dependencies:
   - cryptography=35.0.0
   - curl=7.79.1
   - cutadapt=3.5
-  - cycler=0.10.0
+  - cycler=0.11.0
   - cython=0.29.24
   - deblur=1.1.0
   - debugpy=1.4.1
@@ -106,7 +106,7 @@ dependencies:
   - importlib_metadata=4.8.1
   - iniconfig=1.1.1
   - ipykernel=6.4.2
-  - ipython=7.28.0
+  - ipython=7.29.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.6.5
   - iqtree=2.1.4_beta
@@ -164,7 +164,7 @@ dependencies:
   - lxml=4.6.3
   - lz4=3.1.3
   - lz4-c=1.9.3
-  - mafft=7.487
+  - mafft=7.490
   - make=4.3
   - markupsafe=2.0.1
   - matplotlib=3.4.3
@@ -193,7 +193,7 @@ dependencies:
   - openssl=1.1.1l
   - packaging=21.0
   - pandas=1.2.5
-  - pandoc=2.15
+  - pandoc=2.16
   - pandocfilters=1.5.0
   - pango=1.48.10
   - parso=0.8.2
@@ -227,7 +227,7 @@ dependencies:
   - pip=21.3.1
   - pixman=0.40.0
   - pluggy=1.0.0
-  - prometheus_client=0.11.0
+  - prometheus_client=0.12.0
   - prompt-toolkit=3.0.21
   - psutil=5.8.0
   - ptyprocess=0.7.0
@@ -235,7 +235,7 @@ dependencies:
   - pycparser=2.20
   - pygments=2.10.0
   - pyopenssl=21.0.0
-  - pyparsing=3.0.3
+  - pyparsing=3.0.4
   - pyrsistent=0.17.3
   - pysocks=1.7.1
   - pytest=6.2.5
@@ -272,7 +272,7 @@ dependencies:
   - q2cli=2021.10.0.dev0+3.ge317649
   - q2galaxy=2021.10.0.dev0
   - q2templates=2021.10.0.dev0
-  - qiime2=2021.10.0.dev0+5.g74e7158
+  - qiime2=2021.10.0.dev0+6.gbdca129
   - r-assertthat=0.2.1
   - r-backports=1.3.0
   - r-base=4.0.5
@@ -283,7 +283,7 @@ dependencies:
   - r-cli=3.1.0
   - r-cluster=2.1.2
   - r-colorspace=2.0_2
-  - r-crayon=1.4.1
+  - r-crayon=1.4.2
   - r-desc=1.4.0
   - r-diffobj=0.3.5
   - r-digest=0.6.28
@@ -355,7 +355,7 @@ dependencies:
   - seaborn-base=0.11.2
   - send2trash=1.8.0
   - sepp=4.3.10
-  - setuptools=58.2.0
+  - setuptools=58.4.0
   - six=1.16.0
   - sortmerna=2.0
   - sqlite=3.36.0
