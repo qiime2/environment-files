@@ -267,7 +267,7 @@ dependencies:
   - q2-quality-filter=2021.11.0.dev0
   - q2-sample-classifier=2021.11.0.dev0+1.gd6c4a52
   - q2-taxa=2021.11.0.dev0
-  - q2-types=2021.11.0.dev0
+  - q2-types=2021.11.0.dev0+1.g90625f0
   - q2-vsearch=2021.11.0.dev0
   - q2cli=2021.11.0.dev0+1.g8d89d45
   - q2galaxy=2021.11.0.dev0
@@ -355,7 +355,7 @@ dependencies:
   - seaborn-base=0.11.2
   - send2trash=1.8.0
   - sepp=4.3.10
-  - setuptools=58.5.3
+  - setuptools=59.1.0
   - six=1.16.0
   - sortmerna=2.0
   - sqlite=3.36.0
