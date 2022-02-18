@@ -67,7 +67,7 @@ dependencies:
   - curl=7.81.0
   - cutadapt=3.5
   - cycler=0.11.0
-  - cython=0.29.27
+  - cython=0.29.28
   - deblur=1.1.0
   - debugpy=1.5.1
   - decorator=4.4.2
@@ -176,7 +176,7 @@ dependencies:
   - llvm-tools=12.0.1
   - llvmlite=0.36.0
   - lockfile=0.12.2
-  - lxml=4.7.1
+  - lxml=4.8.0
   - lz4=3.1.10
   - lz4-c=1.9.3
   - mafft=7.490
@@ -267,7 +267,7 @@ dependencies:
   - q2-alignment=2022.2.0.dev0+1.g42083a9
   - q2-composition=2022.2.0.dev0+1.g8137569
   - q2-cutadapt=2022.2.0.dev0+1.gb6c2624
-  - q2-dada2=2022.2.0.dev0+2.g64e3ff9
+  - q2-dada2=2022.2.0.dev0+3.gad2fe49
   - q2-deblur=2022.2.0.dev0+1.g3547583
   - q2-demux=2022.2.0.dev0+2.g85c68a3
   - q2-diversity=2022.2.0.dev0+3.g67621a4
