@@ -48,6 +48,8 @@ dependencies:
   - c-ares=1.18.1
   - ca-certificates=2021.10.8
   - cachecontrol=0.12.11
+  - cached-property=1.5.2
+  - cached_property=1.5.2
   - cairo=1.16.0
   - cctools_osx-64=973.0.1
   - certifi=2021.10.8
@@ -62,7 +64,7 @@ dependencies:
   - colorama=0.4.4
   - compiler-rt=13.0.1
   - compiler-rt_osx-64=13.0.1
-  - cryptography=36.0.2
+  - cryptography=37.0.1
   - curl=7.83.0
   - cutadapt=4.0
   - cycler=0.11.0
@@ -101,9 +103,9 @@ dependencies:
   - gneiss=0.4.6
   - graphite2=1.3.13
   - gsl=2.7
-  - h5py=2.10.0
+  - h5py=3.6.0
   - harfbuzz=4.2.1
-  - hdf5=1.10.6
+  - hdf5=1.12.1
   - hdmedians=0.14.2
   - hmmer=3.1b2
   - htslib=1.15.1
@@ -114,7 +116,6 @@ dependencies:
   - importlib_metadata=4.11.3
   - importlib_resources=5.7.1
   - iniconfig=1.1.1
-  - iow=1.0.5
   - ipykernel=6.13.0
   - ipython=8.3.0
   - ipython_genutils=0.2.0
@@ -206,7 +207,7 @@ dependencies:
   - oniguruma=6.9.7.1
   - openjdk=11.0.9.1
   - openjpeg=2.4.0
-  - openssl=1.1.1o
+  - openssl=3.0.3
   - packaging=21.3
   - pandas=1.2.5
   - pandoc=2.18
@@ -284,11 +285,11 @@ dependencies:
   - q2-metadata=2022.4.0.dev0+1.g43b32d0
   - q2-mystery-stew=2022.4.0.dev0
   - q2-phylogeny=2022.4.0.dev0+1.g45d0ff7
-  - q2-quality-control=2022.4.0.dev0+1.gc0ede4d
+  - q2-quality-control=2022.4.0.dev0+3.g27d62e9
   - q2-quality-filter=2022.4.0.dev0+1.gcae1001
   - q2-sample-classifier=2022.4.0.dev0+1.ge7fb6c6
   - q2-taxa=2022.4.0.dev0+1.gaa0749a
-  - q2-types=2022.4.0.dev0+1.ge977363
+  - q2-types=2022.4.0.dev0+2.g28aca95
   - q2-vsearch=2022.4.0.dev0+1.g7185730
   - q2cli=2022.4.0.dev0
   - q2galaxy=2022.4.0.dev0
@@ -375,7 +376,7 @@ dependencies:
   - seaborn-base=0.11.2
   - send2trash=1.8.0
   - sepp=4.3.10
-  - setuptools=59.8.0
+  - setuptools=62.1.0
   - sigtool=0.1.3
   - six=1.16.0
   - sortmerna=2.0
@@ -399,8 +400,7 @@ dependencies:
   - tzlocal=2.1
   - umap-learn=0.5.3
   - unicodedata2=14.0.0
-  - unifrac=1.1.1
-  - unifrac-binaries=1.1.1
+  - unifrac=0.20.3
   - urllib3=1.26.9
   - vsearch=2.7.0
   - wcwidth=0.2.5
