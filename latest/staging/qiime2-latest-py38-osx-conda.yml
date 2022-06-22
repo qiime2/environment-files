@@ -80,7 +80,7 @@ dependencies:
   - executing=0.8.3
   - expat=2.4.8
   - fastcluster=1.2.6
-  - fasttree=2.1.10
+  - fasttree=2.1.11
   - flit-core=3.7.1
   - font-ttf-dejavu-sans-mono=2.37
   - font-ttf-inconsolata=3.000
@@ -119,7 +119,7 @@ dependencies:
   - ipython=8.4.0
   - ipython_genutils=0.2.0
   - ipywidgets=7.7.0
-  - iqtree=2.2.0_beta
+  - iqtree=2.2.0.3
   - isa-l=2.30.0
   - isl=0.22.1
   - jedi=0.18.1
@@ -149,7 +149,6 @@ dependencies:
   - libedit=3.1.20191231
   - libev=4.33
   - libffi=3.4.2
-  - libgcc=4.8.5
   - libgfortran=5.0.0
   - libgfortran-devel_osx-64=9.3.0
   - libgfortran5=9.3.0
@@ -285,7 +284,7 @@ dependencies:
   - q2-longitudinal=2022.4.0.dev0+2.ge77af89
   - q2-metadata=2022.4.0.dev0+3.gae18b55
   - q2-mystery-stew=2022.4.0.dev0
-  - q2-phylogeny=2022.4.0.dev0+3.gd33a013
+  - q2-phylogeny=2022.4.0.dev0+5.gbb50d5f
   - q2-quality-control=2022.4.0.dev0+6.g4bcf507
   - q2-quality-filter=2022.4.0.dev0+2.g9ae247e
   - q2-sample-classifier=2022.4.0.dev0+3.gd991f16
