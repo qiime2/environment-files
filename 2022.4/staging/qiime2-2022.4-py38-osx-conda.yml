@@ -166,14 +166,14 @@ dependencies:
   - libpng=1.6.37
   - libsodium=1.0.18
   - libssh2=1.10.0
-  - libtiff=4.3.0
+  - libtiff=4.4.0
   - libunistring=0.9.10
   - libwebp=1.2.2
   - libwebp-base=1.2.2
   - libxcb=1.13
   - libxml2=2.9.14
   - libxslt=1.1.35
-  - libzlib=1.2.11
+  - libzlib=1.2.12
   - llvm-openmp=14.0.4
   - llvm-tools=14.0.4
   - llvmlite=0.36.0
@@ -206,7 +206,7 @@ dependencies:
   - numba=0.53.1
   - numpy=1.22.4
   - oniguruma=6.9.8
-  - openjdk=11.0.9.1
+  - openjdk=11.0.15
   - openjpeg=2.4.0
   - openssl=1.1.1o
   - packaging=21.3
@@ -278,7 +278,7 @@ dependencies:
   - q2-diversity=2022.4.0.dev0+5.g454f9c1
   - q2-diversity-lib=2022.4.0.dev0+4.gb67647b
   - q2-emperor=2022.4.0.dev0+3.g5cefbf3
-  - q2-feature-classifier=2022.4.0.dev0+2.g6ef168b
+  - q2-feature-classifier=2022.4.0.dev0+3.gdc66209
   - q2-feature-table=2022.4.0.dev0+3.gac6c794
   - q2-fragment-insertion=2022.4.0.dev0+2.g46fc22f
   - q2-gneiss=2022.4.0.dev0+2.g36f5801
@@ -286,12 +286,12 @@ dependencies:
   - q2-metadata=2022.4.0.dev0+3.gae18b55
   - q2-mystery-stew=2022.4.0.dev0
   - q2-phylogeny=2022.4.0.dev0+3.gd33a013
-  - q2-quality-control=2022.4.0.dev0+5.g7018fcd
+  - q2-quality-control=2022.4.0.dev0+6.g4bcf507
   - q2-quality-filter=2022.4.0.dev0+2.g9ae247e
   - q2-sample-classifier=2022.4.0.dev0+3.gd991f16
   - q2-taxa=2022.4.0.dev0+2.g7a46d99
   - q2-types=2022.4.0.dev0+6.g94fdbff
-  - q2-vsearch=2022.4.0.dev0+2.g8a94679
+  - q2-vsearch=2022.4.0.dev0+3.gfb3526f
   - q2cli=2022.4.0.dev0+1.g851e6a6
   - q2galaxy=2022.4.0.dev0
   - q2templates=2022.4.0.dev0+4.ga02455e
@@ -406,7 +406,7 @@ dependencies:
   - unifrac=1.1.1
   - unifrac-binaries=1.1.1
   - urllib3=1.26.9
-  - vsearch=2.7.0
+  - vsearch=2.21.1
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - wget=1.20.3
@@ -421,5 +421,5 @@ dependencies:
   - yq=2.13.0
   - zeromq=4.3.4
   - zipp=3.8.0
-  - zlib=1.2.11
+  - zlib=1.2.12
   - zstd=1.5.2
