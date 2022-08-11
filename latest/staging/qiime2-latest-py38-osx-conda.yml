@@ -193,9 +193,9 @@ dependencies:
   - munkres=1.1.4
   - natsort=8.1.0
   - nbclient=0.6.6
-  - nbconvert=6.5.2
-  - nbconvert-core=6.5.2
-  - nbconvert-pandoc=6.5.2
+  - nbconvert=6.5.3
+  - nbconvert-core=6.5.3
+  - nbconvert-pandoc=6.5.3
   - nbformat=5.4.0
   - ncurses=6.3
   - nest-asyncio=1.5.5
@@ -212,7 +212,7 @@ dependencies:
   - pandas=1.4.3
   - pandoc=2.19
   - pandocfilters=1.5.0
-  - pango=1.50.8
+  - pango=1.50.9
   - parso=0.8.3
   - patsy=0.5.2
   - pbzip2=1.1.13
@@ -282,7 +282,7 @@ dependencies:
   - q2-feature-table=2022.8.0.dev0
   - q2-fragment-insertion=2022.8.0.dev0
   - q2-gneiss=2022.8.0.dev0
-  - q2-longitudinal=2022.8.0.dev0+1.g7bce28b
+  - q2-longitudinal=2022.8.0.dev0+2.g8137822
   - q2-metadata=2022.8.0.dev0+1.g3773925
   - q2-mystery-stew=2022.8.0.dev0
   - q2-phylogeny=2022.8.0.dev0
