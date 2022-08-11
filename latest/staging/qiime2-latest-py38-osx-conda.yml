@@ -161,7 +161,7 @@ dependencies:
   - libllvm13=13.0.1
   - libllvm14=14.0.4
   - libnghttp2=1.47.0
-  - libopenblas=0.3.20
+  - libopenblas=0.3.21
   - libpng=1.6.37
   - libsodium=1.0.18
   - libssh2=1.10.0
@@ -193,9 +193,9 @@ dependencies:
   - munkres=1.1.4
   - natsort=8.1.0
   - nbclient=0.6.6
-  - nbconvert=6.5.0
-  - nbconvert-core=6.5.0
-  - nbconvert-pandoc=6.5.0
+  - nbconvert=6.5.2
+  - nbconvert-core=6.5.2
+  - nbconvert-pandoc=6.5.2
   - nbformat=5.4.0
   - ncurses=6.3
   - nest-asyncio=1.5.5
@@ -236,7 +236,7 @@ dependencies:
   - perl-list-moreutils-xs=0.430
   - perl-parent=0.238
   - perl-pathtools=3.75
-  - perl-scalar-list-utils=1.62
+  - perl-scalar-list-utils=1.63
   - perl-types-serialiser=1.01
   - pexpect=4.8.0
   - pickleshare=0.7.5
@@ -271,7 +271,7 @@ dependencies:
   - pyzmq=23.2.0
   - q2-alignment=2022.8.0.dev0
   - q2-composition=2022.8.0.dev0+1.g93f11c6
-  - q2-cutadapt=2022.8.0.dev0
+  - q2-cutadapt=2022.8.0.dev0+1.g7c68e38
   - q2-dada2=2022.8.0.dev0
   - q2-deblur=2022.8.0.dev0
   - q2-demux=2022.8.0.dev0+1.geccaa69
@@ -311,7 +311,7 @@ dependencies:
   - r-diffobj=0.3.5
   - r-digest=0.6.29
   - r-ellipsis=0.3.2
-  - r-evaluate=0.15
+  - r-evaluate=0.16
   - r-fansi=1.0.3
   - r-farver=2.1.1
   - r-formatr=1.12
@@ -338,7 +338,7 @@ dependencies:
   - r-matrixstats=0.62.0
   - r-mgcv=1.8_40
   - r-munsell=0.5.0
-  - r-nlme=3.1_158
+  - r-nlme=3.1_159
   - r-optparse=1.7.3
   - r-permute=0.9_7
   - r-pillar=1.8.0
@@ -382,7 +382,7 @@ dependencies:
   - seaborn-base=0.11.2
   - send2trash=1.8.0
   - sepp=4.3.10
-  - setuptools=63.4.2
+  - setuptools=63.4.3
   - sigtool=0.1.3
   - six=1.16.0
   - sortmerna=2.0
