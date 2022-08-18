@@ -87,7 +87,7 @@ dependencies:
   - fontconfig=2.14.0
   - fonts-conda-ecosystem=1
   - fonts-conda-forge=1
-  - fonttools=4.35.0
+  - fonttools=4.36.0
   - freetype=2.12.1
   - fribidi=1.0.10
   - future=0.18.2
@@ -323,7 +323,7 @@ dependencies:
   - q2cli=2022.8.0.dev0
   - q2galaxy=2022.8.0.dev0
   - q2templates=2022.8.0.dev0
-  - qiime2=2022.8.0.dev0
+  - qiime2=2022.8.0.dev0+1.gdf80c3b
   - qt-main=5.15.4
   - r-backports=1.4.1
   - r-base=4.1.3
