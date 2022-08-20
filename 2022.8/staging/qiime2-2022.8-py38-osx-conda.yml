@@ -263,7 +263,7 @@ dependencies:
   - q2-diversity=2022.8.0.dev0+1.gf69f653
   - q2-diversity-lib=2022.8.0.dev0+2.g499713b
   - q2-emperor=2022.8.0.dev0
-  - q2-feature-classifier=2022.8.0.dev0+1.gaf4b72e
+  - q2-feature-classifier=2022.8.0.dev0+2.g53735c0
   - q2-feature-table=2022.8.0.dev0
   - q2-fragment-insertion=2022.8.0.dev0
   - q2-gneiss=2022.8.0.dev0
@@ -344,7 +344,7 @@ dependencies:
   - r-reshape2=1.4.4
   - r-rlang=1.0.4
   - r-rprojroot=2.0.3
-  - r-scales=1.2.0
+  - r-scales=1.2.1
   - r-snow=0.4_4
   - r-stringi=1.7.8
   - r-stringr=1.4.0
