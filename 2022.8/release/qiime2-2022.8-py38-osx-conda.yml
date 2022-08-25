@@ -278,7 +278,7 @@ dependencies:
   - q2-types=2022.8.0
   - q2-vsearch=2022.8.0
   - q2cli=2022.8.0
-  - q2galaxy=2022.8.0
+  - q2galaxy=2022.8.1
   - q2templates=2022.8.0
   - qiime2=2022.8.1
   - r-backports=1.4.1
