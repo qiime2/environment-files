@@ -85,7 +85,7 @@ dependencies:
   - fontconfig=2.14.0
   - fonts-conda-ecosystem=1
   - fonts-conda-forge=1
-  - fonttools=4.36.0
+  - fonttools=4.37.1
   - freetype=2.12.1
   - fribidi=1.0.10
   - future=0.18.2
@@ -280,7 +280,7 @@ dependencies:
   - q2cli=2022.8.0
   - q2galaxy=2022.8.0
   - q2templates=2022.8.0
-  - qiime2=2022.8.0
+  - qiime2=2022.8.1
   - r-backports=1.4.1
   - r-base=4.1.3
   - r-bh=1.78.0_0
@@ -366,7 +366,7 @@ dependencies:
   - seaborn=0.11.2
   - seaborn-base=0.11.2
   - sepp=4.3.10
-  - setuptools=65.2.0
+  - setuptools=65.3.0
   - sigtool=0.1.3
   - six=1.16.0
   - sortmerna=2.0
