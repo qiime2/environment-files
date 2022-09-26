@@ -415,7 +415,7 @@ dependencies:
   - umap-learn=0.5.3
   - unicodedata2=14.0.0
   - unifrac=1.1.1
-  - unifrac-binaries=1.1.1
+  - unifrac-binaries=1.1.1=h15a0faf_1
   - urllib3=1.26.11
   - vsearch=2.21.1
   - wcwidth=0.2.5
