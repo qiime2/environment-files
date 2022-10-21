@@ -285,7 +285,7 @@ dependencies:
   - pytz=2022.5
   - pyyaml=6.0
   - pyzmq=24.0.1
-  - q2-alignment=2022.11.0.dev0
+  - q2-alignment=2022.11.0.dev0+1.gcd53548
   - q2-composition=2022.11.0.dev0+1.g14a2442
   - q2-cutadapt=2022.11.0.dev0+1.gceff2c8
   - q2-dada2=2022.11.0.dev0+2.g9a293b5
@@ -302,7 +302,7 @@ dependencies:
   - q2-metadata=2022.11.0.dev0+1.g092d181
   - q2-mystery-stew=2022.11.0.dev0+1.g9e56157
   - q2-phylogeny=2022.11.0.dev0+1.g128a931
-  - q2-quality-control=2022.11.0.dev0
+  - q2-quality-control=2022.11.0.dev0+1.g93b9f3c
   - q2-quality-filter=2022.11.0.dev0+1.gee5efef
   - q2-sample-classifier=2022.11.0.dev0+1.g9367148
   - q2-taxa=2022.11.0.dev0+1.gaa75d84
