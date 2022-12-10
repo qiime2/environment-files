@@ -345,7 +345,7 @@ dependencies:
   - q2cli=2022.11.0.dev0+5.g50e5425
   - q2galaxy=2022.11.0.dev0+3.g4821f74
   - q2templates=2022.11.0.dev0+4.g8990a9c
-  - qiime2=2022.11.0.dev0+17.g71d3f11
+  - qiime2=2022.11.0.dev0+18.g6dfb4ce
   - qt-main=5.15.6
   - r-base=4.2.2
   - r-bh=1.78.0_0
