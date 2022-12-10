@@ -285,7 +285,7 @@ dependencies:
   - pyzmq=24.0.1
   - q2-alignment=2022.11.0.dev0+3.g741d22f
   - q2-composition=2022.11.0.dev0+3.g954fb4a
-  - q2-cutadapt=2022.11.0.dev0+4.g0f5049b
+  - q2-cutadapt=2022.11.0.dev0+5.g52a5410
   - q2-dada2=2022.11.0.dev0+7.gcfa58ef
   - q2-deblur=2022.11.0.dev0+5.gb64b2a4
   - q2-demux=2022.11.0.dev0+5.gefe87f8
@@ -304,12 +304,12 @@ dependencies:
   - q2-quality-filter=2022.11.0.dev0+4.g85c16d8
   - q2-sample-classifier=2022.11.0.dev0+3.g27c3de1
   - q2-taxa=2022.11.0.dev0+4.g498a994
-  - q2-types=2022.11.0.dev0+8.gcdac8c3
+  - q2-types=2022.11.0.dev0+9.g9cff6bb
   - q2-vsearch=2022.11.0.dev0+5.ge4885c4
   - q2cli=2022.11.0.dev0+5.g50e5425
   - q2galaxy=2022.11.0.dev0+3.g4821f74
   - q2templates=2022.11.0.dev0+4.g8990a9c
-  - qiime2=2022.11.0.dev0+18.g6dfb4ce
+  - qiime2=2022.11.0.dev0+19.g13d9997
   - r-base=4.2.2
   - r-bh=1.78.0_0
   - r-bitops=1.0_7
