@@ -55,7 +55,7 @@ dependencies:
   - bzip2=1.0.8
   - c-ares=1.18.1
   - ca-certificates=2022.12.7
-  - cachecontrol=0.12.12
+  - cachecontrol=0.12.11
   - cairo=1.16.0
   - certifi=2022.12.7
   - cffi=1.15.1
@@ -86,7 +86,6 @@ dependencies:
   - fastcluster=1.2.6
   - fasttree=2.1.11
   - fftw=3.3.10
-  - filelock=3.8.2
   - flit-core=3.8.0
   - flufl.lock=7.1
   - font-ttf-dejavu-sans-mono=2.37
@@ -345,7 +344,7 @@ dependencies:
   - q2cli=2022.11.0.dev0+6.g70b9da8
   - q2galaxy=2022.11.0.dev0+3.g4821f74
   - q2templates=2022.11.0.dev0+4.g8990a9c
-  - qiime2=2022.11.0.dev0+19.g13d9997
+  - qiime2=2022.11.0.dev0+20.gfe03a82
   - qt-main=5.15.6
   - r-base=4.2.2
   - r-bh=1.78.0_0
