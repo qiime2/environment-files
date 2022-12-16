@@ -43,7 +43,7 @@ dependencies:
   - bioconductor-summarizedexperiment=1.28.0
   - bioconductor-xvector=0.38.0
   - bioconductor-zlibbioc=1.44.0
-  - biom-format=2.1.12
+  - biom-format=2.1.13
   - blast=2.13.0
   - bleach=5.0.1
   - bokeh=3.0.3
@@ -344,7 +344,7 @@ dependencies:
   - q2cli=2022.11.0.dev0+8.g2c811a5
   - q2galaxy=2022.11.0.dev0+3.g4821f74
   - q2templates=2022.11.0.dev0+4.g8990a9c
-  - qiime2=2022.11.0.dev0+21.g0779910
+  - qiime2=2022.11.0.dev0+22.gb0c2df6
   - qt-main=5.15.6
   - r-base=4.2.2
   - r-bh=1.78.0_0
@@ -381,7 +381,7 @@ dependencies:
   - r-matrixstats=0.63.0
   - r-mgcv=1.8_41
   - r-munsell=0.5.0
-  - r-nlme=3.1_160
+  - r-nlme=3.1_161
   - r-optparse=1.7.3
   - r-permute=0.9_7
   - r-pillar=1.8.1
