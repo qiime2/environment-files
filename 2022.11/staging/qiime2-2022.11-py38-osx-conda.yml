@@ -305,7 +305,7 @@ dependencies:
   - q2-taxa=2022.11.0.dev0+4.g498a994
   - q2-types=2022.11.0.dev0+9.g9cff6bb
   - q2-vsearch=2022.11.0.dev0+5.ge4885c4
-  - q2cli=2022.11.0.dev0+8.g2c811a5
+  - q2cli=2022.11.0.dev0+11.g53eebc3
   - q2galaxy=2022.11.0.dev0+3.g4821f74
   - q2templates=2022.11.0.dev0+4.g8990a9c
   - qiime2=2022.11.0.dev0+23.g7116f5f
