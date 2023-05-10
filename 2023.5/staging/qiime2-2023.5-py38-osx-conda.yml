@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - _r-mutex=1.0.1
-  - altair=4.2.2
+  - altair=5.0.0
   - anyio=3.6.2
   - appdirs=1.4.4
   - appnope=0.1.3
@@ -77,12 +77,12 @@ dependencies:
   - bwidget=1.9.14
   - bzip2=1.0.8
   - c-ares=1.18.1
-  - ca-certificates=2022.12.7
+  - ca-certificates=2023.5.7
   - cachecontrol=0.12.11
   - cached_property=1.5.2
   - cairo=1.16.0
   - cctools_osx-64=973.0.1
-  - certifi=2022.12.7
+  - certifi=2023.5.7
   - cffi=1.15.1
   - charset-normalizer=3.1.0
   - clang=16.0.1
@@ -155,8 +155,8 @@ dependencies:
   - iniconfig=2.0.0
   - interface_meta=1.3.0
   - iow=1.0.5
-  - ipykernel=6.22.0
-  - ipython=8.12.1
+  - ipykernel=6.23.0
+  - ipython=8.12.2
   - ipython_genutils=0.2.0
   - ipywidgets=8.0.6
   - iqtree=2.2.2.3
@@ -187,7 +187,7 @@ dependencies:
   - libcblas=3.9.0
   - libclang-cpp16=16.0.1
   - libcurl=7.88.1
-  - libcxx=16.0.2
+  - libcxx=16.0.3
   - libdeflate=1.17
   - libedit=3.1.20191231
   - libev=4.33
@@ -207,7 +207,7 @@ dependencies:
   - libopenblas=0.3.21
   - libpng=1.6.39
   - libsodium=1.0.18
-  - libsqlite=3.40.0
+  - libsqlite=3.41.2
   - libssh2=1.10.0
   - libtiff=4.5.0
   - libunistring=0.9.10
@@ -216,7 +216,7 @@ dependencies:
   - libxml2=2.10.3
   - libxslt=1.1.37
   - libzlib=1.2.13
-  - llvm-openmp=16.0.2
+  - llvm-openmp=16.0.3
   - llvm-tools=16.0.1
   - llvmlite=0.39.1
   - lockfile=0.12.2
@@ -235,11 +235,11 @@ dependencies:
   - msgpack-python=1.0.5
   - munkres=1.1.4
   - natsort=8.3.1
-  - nbclassic=0.5.6
+  - nbclassic=1.0.0
   - nbclient=0.7.4
-  - nbconvert=7.3.1
-  - nbconvert-core=7.3.1
-  - nbconvert-pandoc=7.3.1
+  - nbconvert=7.4.0
+  - nbconvert-core=7.4.0
+  - nbconvert-pandoc=7.4.0
   - nbformat=5.8.0
   - ncurses=6.3
   - nest-asyncio=1.5.6
@@ -260,7 +260,7 @@ dependencies:
   - pandocfilters=1.5.0
   - pango=1.50.14
   - paramiko=3.1.0
-  - parsl=2023.5.1
+  - parsl=2023.5.8
   - parso=0.8.3
   - patsy=0.5.3
   - pbzip2=1.1.13
@@ -334,7 +334,7 @@ dependencies:
   - q2-diversity-lib=2023.5.0.dev0
   - q2-emperor=2023.5.0.dev0
   - q2-feature-classifier=2023.5.0.dev0
-  - q2-feature-table=2023.5.0.dev0
+  - q2-feature-table=2023.5.0.dev0+1.g6cf8a9f
   - q2-fragment-insertion=2023.5.0.dev0+1.g48d557a
   - q2-gneiss=2023.5.0.dev0
   - q2-longitudinal=2023.5.0.dev0+1.g33db6eb
@@ -401,7 +401,7 @@ dependencies:
   - r-emmeans=1.8.5
   - r-energy=1.7_11
   - r-estimability=1.4.1
-  - r-evaluate=0.20
+  - r-evaluate=0.21
   - r-exact=3.2
   - r-expm=0.999_7
   - r-fansi=1.0.4
@@ -436,12 +436,12 @@ dependencies:
   - r-gtable=0.3.3
   - r-haven=2.5.2
   - r-highr=0.10
-  - r-hmisc=5.0_1
+  - r-hmisc=5.1_0
   - r-hms=1.1.3
   - r-htmltable=2.4.1
   - r-htmltools=0.5.5
   - r-htmlwidgets=1.6.2
-  - r-httr=1.4.5
+  - r-httr=1.4.6
   - r-hwriter=1.3.2.1
   - r-ids=1.0.1
   - r-igraph=1.4.2
@@ -464,7 +464,7 @@ dependencies:
   - r-lmom=2.9
   - r-lubridate=1.9.2
   - r-magrittr=2.0.3
-  - r-mass=7.3_59
+  - r-mass=7.3_60
   - r-matrix=1.5_4
   - r-matrixstats=0.63.0
   - r-memoise=2.0.1
@@ -529,7 +529,7 @@ dependencies:
   - r-rsvd=1.0.5
   - r-rtsne=0.16
   - r-rvest=1.0.3
-  - r-sass=0.4.5
+  - r-sass=0.4.6
   - r-scales=1.2.1
   - r-scs=3.2.4
   - r-selectr=0.4_2
@@ -557,7 +557,7 @@ dependencies:
   - r-vctrs=0.6.2
   - r-vegan=2.6_4
   - r-vipor=0.4.5
-  - r-viridis=0.6.2
+  - r-viridis=0.6.3
   - r-viridislite=0.4.1
   - r-vroom=1.6.3
   - r-withr=2.5.0
@@ -587,7 +587,7 @@ dependencies:
   - sortmerna=2.0
   - soupsieve=2.3.2.post1
   - stack_data=0.6.2
-  - statsmodels=0.13.5
+  - statsmodels=0.14.0
   - tapi=1100.0.11
   - tbb=2021.9.0
   - tblib=1.7.0
@@ -608,9 +608,9 @@ dependencies:
   - types-enum34=1.1.8
   - types-ipaddress=1.0.8
   - types-paramiko=3.0.0.9
-  - types-requests=2.29.0.0
+  - types-requests=2.30.0.0
   - types-six=1.16.21.8
-  - types-urllib3=1.26.25.11
+  - types-urllib3=1.26.25.12
   - typing-extensions=4.5.0
   - typing_extensions=4.5.0
   - tzlocal=2.1
