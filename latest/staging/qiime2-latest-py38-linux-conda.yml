@@ -73,7 +73,7 @@ dependencies:
   - biom-format=2.1.12
   - blast=2.14.0
   - bleach=6.0.0
-  - bokeh=3.1.0
+  - bokeh=3.1.1
   - bowtie2=2.5.1
   - brotli=1.0.9
   - brotli-bin=1.0.9
@@ -123,7 +123,7 @@ dependencies:
   - fontconfig=2.14.2
   - fonts-conda-ecosystem=1
   - fonts-conda-forge=1
-  - fonttools=4.39.3
+  - fonttools=4.39.4
   - formulaic=0.6.1
   - freetype=2.12.1
   - fribidi=1.0.10
@@ -340,7 +340,7 @@ dependencies:
   - pure_eval=0.2.2
   - pycparser=2.21
   - pygments=2.15.1
-  - pyjwt=2.6.0
+  - pyjwt=2.7.0
   - pynacl=1.5.0
   - pynndescent=0.5.10
   - pyopenssl=23.1.1
@@ -360,7 +360,7 @@ dependencies:
   - pyyaml=6.0
   - pyzmq=25.0.2
   - q2-alignment=2023.5.0.dev0
-  - q2-composition=2023.5.0.dev0+1.geaac1d3
+  - q2-composition=2023.5.0.dev0+2.g017b756
   - q2-cutadapt=2023.5.0.dev0
   - q2-dada2=2023.5.0.dev0
   - q2-deblur=2023.5.0.dev0
@@ -369,7 +369,7 @@ dependencies:
   - q2-diversity-lib=2023.5.0.dev0
   - q2-emperor=2023.5.0.dev0
   - q2-feature-classifier=2023.5.0.dev0
-  - q2-feature-table=2023.5.0.dev0+1.g6cf8a9f
+  - q2-feature-table=2023.5.0.dev0+6.g6f2720a
   - q2-fragment-insertion=2023.5.0.dev0+1.g48d557a
   - q2-gneiss=2023.5.0.dev0
   - q2-longitudinal=2023.5.0.dev0+1.g33db6eb
@@ -382,7 +382,7 @@ dependencies:
   - q2-taxa=2023.5.0.dev0
   - q2-types=2023.5.0.dev0+2.g8c5db7b
   - q2-vsearch=2023.5.0.dev0
-  - q2cli=2023.5.0.dev0+3.g905d7f6
+  - q2cli=2023.5.0.dev0+4.g6019cd7
   - q2galaxy=2023.5.0.dev0
   - q2templates=2023.5.0.dev0
   - qiime2=2023.5.0.dev0+6.g357f902
