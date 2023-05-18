@@ -364,7 +364,7 @@ dependencies:
   - pyyaml=6.0
   - pyzmq=25.0.2
   - q2-alignment=2023.5.0.dev0+2.g6dc2ff1
-  - q2-composition=2023.5.0.dev0+4.g6382d51
+  - q2-composition=2023.5.0.dev0+7.gd0360bf
   - q2-cutadapt=2023.5.0.dev0+2.g4073350
   - q2-dada2=2023.5.0.dev0+2.g4ed5b86
   - q2-deblur=2023.5.0.dev0+2.g28d1385
@@ -383,7 +383,7 @@ dependencies:
   - q2-quality-control=2023.5.0.dev0+2.g2d49d5a
   - q2-quality-filter=2023.5.0.dev0+2.g3567ef0
   - q2-sample-classifier=2023.5.0.dev0+3.g2196da9
-  - q2-taxa=2023.5.0.dev0+3.gf2264ec
+  - q2-taxa=2023.5.0.dev0+4.g942ac5e
   - q2-types=2023.5.0.dev0+4.g5604a00
   - q2-vsearch=2023.5.0.dev0+2.gedf7d6c
   - q2cli=2023.5.0.dev0+7.g6a021a3
@@ -428,7 +428,7 @@ dependencies:
   - r-dbi=1.1.3
   - r-dbplyr=2.3.2
   - r-deldir=1.0_9
-  - r-desctools=0.99.48
+  - r-desctools=0.99.49
   - r-digest=0.6.31
   - r-doparallel=1.0.17
   - r-dorng=1.8.6
