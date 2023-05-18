@@ -379,7 +379,7 @@ dependencies:
   - q2-longitudinal=2023.5.0.dev0+3.g6ee1b27
   - q2-metadata=2023.5.0.dev0+2.g19c5d9e
   - q2-mystery-stew=2023.5.0.dev0+2.gf345ffd
-  - q2-phylogeny=2023.5.0.dev0+2.gb26030f
+  - q2-phylogeny=2023.5.0.dev0+3.g1e38f18
   - q2-quality-control=2023.5.0.dev0+2.g2d49d5a
   - q2-quality-filter=2023.5.0.dev0+2.g3567ef0
   - q2-sample-classifier=2023.5.0.dev0+3.g2196da9
