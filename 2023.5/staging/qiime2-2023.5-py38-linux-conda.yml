@@ -77,7 +77,6 @@ dependencies:
   - bowtie2=2.5.1
   - brotli=1.0.9
   - brotli-bin=1.0.9
-  - brotlipy=0.7.0
   - bwidget=1.9.14
   - bzip2=1.0.8
   - c-ares=1.19.0
@@ -215,7 +214,7 @@ dependencies:
   - libjpeg-turbo=2.1.5.1
   - liblapack=3.9.0
   - liblapacke=3.9.0
-  - libllvm11=11.1.0
+  - libllvm14=14.0.6
   - libllvm16=16.0.3
   - libnghttp2=1.52.0
   - libnsl=2.0.0
@@ -242,7 +241,7 @@ dependencies:
   - libxml2=2.10.4
   - libxslt=1.1.37
   - libzlib=1.2.13
-  - llvmlite=0.39.1
+  - llvmlite=0.40.0
   - lockfile=0.12.2
   - lxml=4.9.2
   - lz4=4.3.2
@@ -278,7 +277,7 @@ dependencies:
   - notebook-shim=0.2.3
   - nspr=4.35
   - nss=3.89
-  - numba=0.56.4
+  - numba=0.57.0
   - numpy=1.23.5
   - oniguruma=6.9.8
   - openjdk=17.0.3
@@ -341,7 +340,6 @@ dependencies:
   - pyjwt=2.7.0
   - pynacl=1.5.0
   - pynndescent=0.5.10
-  - pyopenssl=23.1.1
   - pyparsing=3.0.9
   - pyqt=5.15.7
   - pyqt5-sip=12.11.0
@@ -350,7 +348,7 @@ dependencies:
   - pytest=7.3.1
   - python=3.8.16
   - python-dateutil=2.8.2
-  - python-fastjsonschema=2.16.3
+  - python-fastjsonschema=2.17.1
   - python-isal=1.1.0
   - python-json-logger=2.0.7
   - python_abi=3.8
@@ -374,16 +372,16 @@ dependencies:
   - q2-metadata=2023.5.0.dev0+2.g19c5d9e
   - q2-mystery-stew=2023.5.0.dev0+2.gf345ffd
   - q2-phylogeny=2023.5.0.dev0+3.g1e38f18
-  - q2-quality-control=2023.5.0.dev0+2.g2d49d5a
+  - q2-quality-control=2023.5.0.dev0+3.ga262e96
   - q2-quality-filter=2023.5.0.dev0+2.g3567ef0
   - q2-sample-classifier=2023.5.0.dev0+3.g2196da9
   - q2-taxa=2023.5.0.dev0+4.g942ac5e
   - q2-types=2023.5.0.dev0+4.g5604a00
   - q2-vsearch=2023.5.0.dev0+2.gedf7d6c
-  - q2cli=2023.5.0.dev0+7.g6a021a3
+  - q2cli=2023.5.0.dev0+8.gca683a5
   - q2galaxy=2023.5.0.dev0+2.gb5979e4
   - q2templates=2023.5.0.dev0+2.gc730772
-  - qiime2=2023.5.0.dev0+8.g090f4e0
+  - qiime2=2023.5.0.dev0+9.gf2cb5a2
   - qt-main=5.15.8
   - r-ade4=1.7_22
   - r-ape=5.7_1
@@ -499,7 +497,7 @@ dependencies:
   - r-lubridate=1.9.2
   - r-magrittr=2.0.3
   - r-mass=7.3_60
-  - r-matrix=1.5_4
+  - r-matrix=1.5_4.1
   - r-matrixstats=0.63.0
   - r-memoise=2.0.1
   - r-mgcv=1.8_42
@@ -602,7 +600,7 @@ dependencies:
   - r-yulab.utils=0.0.6
   - raxml=8.2.12
   - readline=8.2
-  - requests=2.29.0
+  - requests=2.31.0
   - rfc3339-validator=0.1.4
   - rfc3986-validator=0.1.1
   - samtools=1.17
@@ -653,11 +651,11 @@ dependencies:
   - unicodedata2=15.0.0
   - unifrac=1.1.1
   - unifrac-binaries=1.1.1
-  - urllib3=1.26.15
+  - urllib3=2.0.2
   - vsearch=2.22.1
   - wcwidth=0.2.6
   - webencodings=0.5.1
-  - websocket-client=1.5.1
+  - websocket-client=1.5.2
   - wget=1.20.3
   - wheel=0.40.0
   - widgetsnbextension=4.0.7
@@ -676,7 +674,7 @@ dependencies:
   - xorg-libice=1.0.10
   - xorg-libsm=1.2.3
   - xorg-libx11=1.8.4
-  - xorg-libxau=1.0.9
+  - xorg-libxau=1.0.11
   - xorg-libxdmcp=1.1.3
   - xorg-libxext=1.3.4
   - xorg-libxfixes=5.0.3
@@ -689,7 +687,7 @@ dependencies:
   - xorg-xextproto=7.3.0
   - xorg-xf86vidmodeproto=2.3.1
   - xorg-xproto=7.0.31
-  - xyzservices=2023.2.0
+  - xyzservices=2023.5.0
   - xz=5.2.6
   - yaml=0.2.5
   - yq=3.2.2
