@@ -6,15 +6,15 @@ on:
 jobs:
   create-pr:
     runs-on: ubuntu-latest
-  steps:
+    steps:
+      - name: 'checkout source'
+        uses: actions/checkout@v4
 
-    - uses: actions/checkout@v3
-
-    - name: Get release info
-      id: get_release_name
-      run: |
-        RELEASE_JSON=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/repos/${{ github.repository }}/releases/latest")
-        LATEST_RELEASE_NAME=$(echo "$RELEASE_JSON" | jq -r '.name')
-        echo "Latest release name: $LATEST_RELEASE_NAME"
-        echo "::set-output name=release_name::$LATEST_RELEASE_NAME"
+      - name: Get release info
+        id: get_release_name
+        run: |
+          RELEASE_JSON=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/repos/${{ github.repository }}/releases/latest")
+          LATEST_RELEASE_NAME=$(echo "$RELEASE_JSON" | jq -r '.name')
+          echo "Latest release name: $LATEST_RELEASE_NAME"
+          echo "::set-output name=release_name::$LATEST_RELEASE_NAME"
