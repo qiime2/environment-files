@@ -15,6 +15,6 @@ jobs:
         run: |
           RELEASE_JSON=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             "https://api.github.com/repos/${{ github.repository }}/releases/latest")
-          LATEST_RELEASE=$(echo "$RELEASE_JSON" | jq -r '.tag')
+          LATEST_RELEASE=$(echo "$RELEASE_JSON" | jq -r '.tag_name')
           echo "Latest release tag name: $LATEST_RELEASE"
           echo "::set-output name=release_tag::$LATEST_RELEASE"
